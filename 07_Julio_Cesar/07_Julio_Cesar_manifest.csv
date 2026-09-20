@@ -1,0 +1,30 @@
+hoja,celda,CardID,ID,carta,copias_en_mazo
+face_1,0,100,IMP-ROM-021,"Legionario de Primera Línea",4
+face_1,1,101,IMP-ROM-002,"Pretoriano",2
+face_1,2,102,IMP-ROM-004,"Guardia Urbana",2
+face_1,3,103,IMP-ROM-022,"Équite Romano",2
+face_1,4,104,IMP-ROM-001,"Legionario de la Décima",4
+face_1,5,105,IMP-ROM-003,"Triario Veterano",4
+face_1,6,106,IMP-ROM-005,"Signifer de la Décima",4
+face_1,7,107,SIG-019,"Marco Antonio, Mano Derecha de César",1
+face_1,8,108,SIG-020,"Tito Labieno, Legado de la Galia",1
+face_1,9,109,IMP-ROM-011,"Centurión",2
+face_1,10,110,IMP-ROM-012,"Primus Pilus",2
+face_1,11,111,IMP-ROM-024,"Escipión el Africano",1
+face_1,12,112,IMP-ROM-008,"Medicus",2
+face_1,13,113,IMP-ROM-013,"Cincinato",1
+face_1,14,114,IMP-ROM-009,"Termas Romanas",1
+face_1,15,115,IMP-ROM-010,"Castrum Romano",1
+face_1,16,116,IMP-ROM-023,"Pilum Legionario",2
+face_1,17,117,IMP-ROM-015,"Vitis del Centurión",1
+face_1,18,118,IMP-ROM-014,"Águila de la Legión",1
+face_1,19,119,IMP-ROM-007,"Bloqueo de Escudos",3
+face_1,20,120,IMP-ROM-006,"Formación Testudo",3
+face_1,21,121,IMP-ROM-016,"Arbitraje del Senado",2
+face_1,22,122,IMP-ROM-017,"Cruce del Rubicón",2
+face_1,23,123,SIG-021,"Alesia, Murallas en Dos Frentes",1
+face_1,24,124,IMP-ROM-026,"Triunfo del César",1
+face_1,25,125,EMP-ROM-001,"Julio César",1
+face_2,0,200,MONEDA-1,"Conquista",4
+face_2,1,201,MONEDA-6,"Orden",8
+face_2,2,202,TOK-03,"Vino",4

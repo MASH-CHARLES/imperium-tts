@@ -1,0 +1,2240 @@
+{
+ "SaveName": "IMPERIUM Capa 1 · Cleopatra VII",
+ "GameMode": "",
+ "Gravity": 0.5,
+ "PlayArea": 0.5,
+ "Date": "",
+ "Table": "",
+ "Sky": "",
+ "Note": "",
+ "Rules": "",
+ "XmlUI": "",
+ "LuaScript": "",
+ "LuaScriptState": "",
+ "ObjectStates": [
+  {
+   "Name": "Deck",
+   "Transform": {
+    "posX": 0,
+    "posY": 1.5,
+    "posZ": 0,
+    "rotX": 0,
+    "rotY": 180,
+    "rotZ": 180,
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+   },
+   "Nickname": "Cleopatra VII — Mazo (50)",
+   "Description": "IMPERIUM · Capa 1 · v2.15",
+   "DeckIDs": [
+    100,
+    100,
+    100,
+    101,
+    101,
+    101,
+    102,
+    102,
+    102,
+    102,
+    103,
+    103,
+    103,
+    104,
+    104,
+    104,
+    105,
+    106,
+    106,
+    107,
+    108,
+    109,
+    110,
+    111,
+    111,
+    112,
+    112,
+    112,
+    113,
+    114,
+    115,
+    115,
+    116,
+    117,
+    118,
+    118,
+    118,
+    119,
+    119,
+    119,
+    120,
+    120,
+    121,
+    121,
+    121,
+    122,
+    122,
+    122,
+    123,
+    124
+   ],
+   "CustomDeck": {
+    "1": {
+     "FaceURL": "{{URL_10_Cleopatra_VII_face_1}}",
+     "BackURL": "{{URL_10_Cleopatra_VII_back}}",
+     "NumWidth": 10,
+     "NumHeight": 3,
+     "BackIsHidden": true,
+     "UniqueBack": false,
+     "Type": 0
+    }
+   },
+   "ContainedObjects": [
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Campesino del Nilo",
+     "Description": "1 Oro · TROPA · P1\nDILIGENTE (En tu turno, se endereza tras su primer trabajo y no puede volver a trabajar ese turno).",
+     "CardID": 100,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_10_Cleopatra_VII_face_1}}",
+       "BackURL": "{{URL_10_Cleopatra_VII_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Campesino del Nilo",
+     "Description": "1 Oro · TROPA · P1\nDILIGENTE (En tu turno, se endereza tras su primer trabajo y no puede volver a trabajar ese turno).",
+     "CardID": 100,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_10_Cleopatra_VII_face_1}}",
+       "BackURL": "{{URL_10_Cleopatra_VII_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Campesino del Nilo",
+     "Description": "1 Oro · TROPA · P1\nDILIGENTE (En tu turno, se endereza tras su primer trabajo y no puede volver a trabajar ese turno).",
+     "CardID": 100,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_10_Cleopatra_VII_face_1}}",
+       "BackURL": "{{URL_10_Cleopatra_VII_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Lancero Egipcio",
+     "Description": "1 Oro · TROPA · P2\nMientras esté en combate con una Tropa Caballería, gana +1 Poder.",
+     "CardID": 101,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_10_Cleopatra_VII_face_1}}",
+       "BackURL": "{{URL_10_Cleopatra_VII_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Lancero Egipcio",
+     "Description": "1 Oro · TROPA · P2\nMientras esté en combate con una Tropa Caballería, gana +1 Poder.",
+     "CardID": 101,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_10_Cleopatra_VII_face_1}}",
+       "BackURL": "{{URL_10_Cleopatra_VII_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Lancero Egipcio",
+     "Description": "1 Oro · TROPA · P2\nMientras esté en combate con una Tropa Caballería, gana +1 Poder.",
+     "CardID": 101,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_10_Cleopatra_VII_face_1}}",
+       "BackURL": "{{URL_10_Cleopatra_VII_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Cobra Sagrada",
+     "Description": "1 Oro · TROPA · P1\nCuando muera, un oponente pierde 2 Moral.",
+     "CardID": 102,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_10_Cleopatra_VII_face_1}}",
+       "BackURL": "{{URL_10_Cleopatra_VII_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Cobra Sagrada",
+     "Description": "1 Oro · TROPA · P1\nCuando muera, un oponente pierde 2 Moral.",
+     "CardID": 102,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_10_Cleopatra_VII_face_1}}",
+       "BackURL": "{{URL_10_Cleopatra_VII_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Cobra Sagrada",
+     "Description": "1 Oro · TROPA · P1\nCuando muera, un oponente pierde 2 Moral.",
+     "CardID": 102,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_10_Cleopatra_VII_face_1}}",
+       "BackURL": "{{URL_10_Cleopatra_VII_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Cobra Sagrada",
+     "Description": "1 Oro · TROPA · P1\nCuando muera, un oponente pierde 2 Moral.",
+     "CardID": 102,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_10_Cleopatra_VII_face_1}}",
+       "BackURL": "{{URL_10_Cleopatra_VII_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Siervo Embalsamado",
+     "Description": "2 Oro + F1 · TROPA · P2\nDILIGENTE. Cuando muera, puedes pagar 1 Oro. Si lo haces, regrésalo a tu mano.",
+     "CardID": 103,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_10_Cleopatra_VII_face_1}}",
+       "BackURL": "{{URL_10_Cleopatra_VII_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Siervo Embalsamado",
+     "Description": "2 Oro + F1 · TROPA · P2\nDILIGENTE. Cuando muera, puedes pagar 1 Oro. Si lo haces, regrésalo a tu mano.",
+     "CardID": 103,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_10_Cleopatra_VII_face_1}}",
+       "BackURL": "{{URL_10_Cleopatra_VII_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Siervo Embalsamado",
+     "Description": "2 Oro + F1 · TROPA · P2\nDILIGENTE. Cuando muera, puedes pagar 1 Oro. Si lo haces, regrésalo a tu mano.",
+     "CardID": 103,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_10_Cleopatra_VII_face_1}}",
+       "BackURL": "{{URL_10_Cleopatra_VII_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Carro de Pi-Ramsés",
+     "Description": "3 Oro + F1 · TROPA · P5\nARROLLAR (El daño de combate que exceda lo necesario para superar a las bloqueadoras pasa al objetivo original del ataque).",
+     "CardID": 104,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_10_Cleopatra_VII_face_1}}",
+       "BackURL": "{{URL_10_Cleopatra_VII_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Carro de Pi-Ramsés",
+     "Description": "3 Oro + F1 · TROPA · P5\nARROLLAR (El daño de combate que exceda lo necesario para superar a las bloqueadoras pasa al objetivo original del ataque).",
+     "CardID": 104,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_10_Cleopatra_VII_face_1}}",
+       "BackURL": "{{URL_10_Cleopatra_VII_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Carro de Pi-Ramsés",
+     "Description": "3 Oro + F1 · TROPA · P5\nARROLLAR (El daño de combate que exceda lo necesario para superar a las bloqueadoras pasa al objetivo original del ataque).",
+     "CardID": 104,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_10_Cleopatra_VII_face_1}}",
+       "BackURL": "{{URL_10_Cleopatra_VII_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Carro Ligero Egipcio",
+     "Description": "3 Oro · TROPA · P4\nSolo puede ser bloqueado por Tropas Lancero o Caballería.",
+     "CardID": 105,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_10_Cleopatra_VII_face_1}}",
+       "BackURL": "{{URL_10_Cleopatra_VII_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Sombra de Anubis",
+     "Description": "3 Oro · TROPA · P2\nIMPARABLE.",
+     "CardID": 106,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_10_Cleopatra_VII_face_1}}",
+       "BackURL": "{{URL_10_Cleopatra_VII_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Sombra de Anubis",
+     "Description": "3 Oro · TROPA · P2\nIMPARABLE.",
+     "CardID": 106,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_10_Cleopatra_VII_face_1}}",
+       "BackURL": "{{URL_10_Cleopatra_VII_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Marco Antonio, Triunviro de Oriente",
+     "Description": "5 Oro + F1 · TROPA · P2\nIMPARABLE. Al entrar, destruye una Tropa o Soporte que controle un oponente. Marco Antonio gana +1 Poder por cada Tropa en tu descarte.",
+     "CardID": 107,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_10_Cleopatra_VII_face_1}}",
+       "BackURL": "{{URL_10_Cleopatra_VII_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Devoradora Ammit",
+     "Description": "7 Oro + F1 · TROPA · P9\nACCIÓN — FUNDIR 1 Ambición y sacrifica otra Tropa: una Tropa que controle un oponente pierde Poder igual al Poder de la Tropa sacrificada este turno.",
+     "CardID": 108,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_10_Cleopatra_VII_face_1}}",
+       "BackURL": "{{URL_10_Cleopatra_VII_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Behemot del Nilo",
+     "Description": "8 Oro + F1 · TROPA · P9\nARROLLAR. La primera vez en cada turno que reciba daño de combate y permanezca en juego, enderézalo.",
+     "CardID": 109,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_10_Cleopatra_VII_face_1}}",
+       "BackURL": "{{URL_10_Cleopatra_VII_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Elefante de Guerra Kushita",
+     "Description": "10 Oro + F2 · TROPA · P12\nARROLLAR. La primera vez en cada turno que haga daño a la Moral de un oponente, hace esa misma cantidad de daño a cada Soporte y Estructura que controle un oponente.",
+     "CardID": 110,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_10_Cleopatra_VII_face_1}}",
+       "BackURL": "{{URL_10_Cleopatra_VII_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Embalsamador",
+     "Description": "2 Oro · SOPORTE · R3\nUna vez por turno — Agota este Soporte: regresa una Tropa de coste 2 o menos de tu descarte a tu mano.",
+     "CardID": 111,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_10_Cleopatra_VII_face_1}}",
+       "BackURL": "{{URL_10_Cleopatra_VII_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Embalsamador",
+     "Description": "2 Oro · SOPORTE · R3\nUna vez por turno — Agota este Soporte: regresa una Tropa de coste 2 o menos de tu descarte a tu mano.",
+     "CardID": 111,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_10_Cleopatra_VII_face_1}}",
+       "BackURL": "{{URL_10_Cleopatra_VII_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Sacerdote de Set",
+     "Description": "2 Oro · SOPORTE · R2\nUna vez por turno — ACCIÓN: Agota este Soporte y pierde 2 Moral: roba 1 carta.",
+     "CardID": 112,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_10_Cleopatra_VII_face_1}}",
+       "BackURL": "{{URL_10_Cleopatra_VII_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Sacerdote de Set",
+     "Description": "2 Oro · SOPORTE · R2\nUna vez por turno — ACCIÓN: Agota este Soporte y pierde 2 Moral: roba 1 carta.",
+     "CardID": 112,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_10_Cleopatra_VII_face_1}}",
+       "BackURL": "{{URL_10_Cleopatra_VII_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Sacerdote de Set",
+     "Description": "2 Oro · SOPORTE · R2\nUna vez por turno — ACCIÓN: Agota este Soporte y pierde 2 Moral: roba 1 carta.",
+     "CardID": 112,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_10_Cleopatra_VII_face_1}}",
+       "BackURL": "{{URL_10_Cleopatra_VII_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Barca Mercante del Nilo",
+     "Description": "4 Oro · SOPORTE · R6\nDILIGENTE. Una vez por turno — ACCIÓN: Agota este Soporte: crea 1 Grano.",
+     "CardID": 113,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_10_Cleopatra_VII_face_1}}",
+       "BackURL": "{{URL_10_Cleopatra_VII_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Charmion, Voz de Isis",
+     "Description": "4 Oro + F1 · SOPORTE · R3\nREACCIÓN — Agota este Soporte y FUNDIR 1 Prosperidad: la próxima vez que una unidad fuera a ser destruida por daño este turno, evita esa destrucción y elimina el daño que fuera a destruirla.",
+     "CardID": 114,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_10_Cleopatra_VII_face_1}}",
+       "BackURL": "{{URL_10_Cleopatra_VII_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Granero del Nilo",
+     "Description": "3 Oro · ESTRUCTURA · R5\nAl entrar, crea 1 Grano. Una vez por turno — ACCIÓN: Agota 1 unidad: crea 1 Grano.",
+     "CardID": 115,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_10_Cleopatra_VII_face_1}}",
+       "BackURL": "{{URL_10_Cleopatra_VII_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Granero del Nilo",
+     "Description": "3 Oro · ESTRUCTURA · R5\nAl entrar, crea 1 Grano. Una vez por turno — ACCIÓN: Agota 1 unidad: crea 1 Grano.",
+     "CardID": 115,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_10_Cleopatra_VII_face_1}}",
+       "BackURL": "{{URL_10_Cleopatra_VII_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Necrópolis de Saqqara",
+     "Description": "5 Oro · ESTRUCTURA · R6\nUna vez por turno — ACCIÓN: Agota 1 unidad y paga 2 Moral: regresa al campo Cansada una Tropa de coste 3 o menos de tu descarte.",
+     "CardID": 116,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_10_Cleopatra_VII_face_1}}",
+       "BackURL": "{{URL_10_Cleopatra_VII_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Arco Gigante Kushita",
+     "Description": "4 Oro · ARMAMENTO\nEquipa a una Tropa. La portadora gana +2 Poder. Si controlas entre 6 y 9 Oros, gana +3 Poder en su lugar. Si controlas 10 o más Oros, gana +5 Poder en su lugar.",
+     "CardID": 117,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_10_Cleopatra_VII_face_1}}",
+       "BackURL": "{{URL_10_Cleopatra_VII_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Cosecha de Emmer",
+     "Description": "0 Oro · TACTICA\nTu próximo Soporte o Estructura cuesta 1 Oro menos este turno, hasta un mínimo de 1. Crea 1 Grano.",
+     "CardID": 118,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_10_Cleopatra_VII_face_1}}",
+       "BackURL": "{{URL_10_Cleopatra_VII_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Cosecha de Emmer",
+     "Description": "0 Oro · TACTICA\nTu próximo Soporte o Estructura cuesta 1 Oro menos este turno, hasta un mínimo de 1. Crea 1 Grano.",
+     "CardID": 118,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_10_Cleopatra_VII_face_1}}",
+       "BackURL": "{{URL_10_Cleopatra_VII_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Cosecha de Emmer",
+     "Description": "0 Oro · TACTICA\nTu próximo Soporte o Estructura cuesta 1 Oro menos este turno, hasta un mínimo de 1. Crea 1 Grano.",
+     "CardID": 118,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_10_Cleopatra_VII_face_1}}",
+       "BackURL": "{{URL_10_Cleopatra_VII_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Juicio de Anubis",
+     "Description": "1 Oro + F1 · TACTICA\nUna Tropa que controle un oponente Cansada pierde 4 Poder este turno. Si su Poder llega a 0 de esta manera, destrúyela.",
+     "CardID": 119,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_10_Cleopatra_VII_face_1}}",
+       "BackURL": "{{URL_10_Cleopatra_VII_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Juicio de Anubis",
+     "Description": "1 Oro + F1 · TACTICA\nUna Tropa que controle un oponente Cansada pierde 4 Poder este turno. Si su Poder llega a 0 de esta manera, destrúyela.",
+     "CardID": 119,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_10_Cleopatra_VII_face_1}}",
+       "BackURL": "{{URL_10_Cleopatra_VII_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Juicio de Anubis",
+     "Description": "1 Oro + F1 · TACTICA\nUna Tropa que controle un oponente Cansada pierde 4 Poder este turno. Si su Poder llega a 0 de esta manera, destrúyela.",
+     "CardID": 119,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_10_Cleopatra_VII_face_1}}",
+       "BackURL": "{{URL_10_Cleopatra_VII_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Ritual de Momificación",
+     "Description": "2 Oro · TACTICA\nRegresa una Tropa de tu descarte a tu mano.",
+     "CardID": 120,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_10_Cleopatra_VII_face_1}}",
+       "BackURL": "{{URL_10_Cleopatra_VII_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Ritual de Momificación",
+     "Description": "2 Oro · TACTICA\nRegresa una Tropa de tu descarte a tu mano.",
+     "CardID": 120,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_10_Cleopatra_VII_face_1}}",
+       "BackURL": "{{URL_10_Cleopatra_VII_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Pacto del Duat",
+     "Description": "2 Oro · TACTICA\nPierde 2 Moral: roba 2 cartas.",
+     "CardID": 121,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_10_Cleopatra_VII_face_1}}",
+       "BackURL": "{{URL_10_Cleopatra_VII_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Pacto del Duat",
+     "Description": "2 Oro · TACTICA\nPierde 2 Moral: roba 2 cartas.",
+     "CardID": 121,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_10_Cleopatra_VII_face_1}}",
+       "BackURL": "{{URL_10_Cleopatra_VII_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Pacto del Duat",
+     "Description": "2 Oro · TACTICA\nPierde 2 Moral: roba 2 cartas.",
+     "CardID": 121,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_10_Cleopatra_VII_face_1}}",
+       "BackURL": "{{URL_10_Cleopatra_VII_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Tributo al Duat",
+     "Description": "2 Oro + F1 · TACTICA\nComo coste adicional, sacrifica una Tropa tuya. Haz 3 de daño a la Moral de un oponente y recupera 3 Moral.",
+     "CardID": 122,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_10_Cleopatra_VII_face_1}}",
+       "BackURL": "{{URL_10_Cleopatra_VII_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Tributo al Duat",
+     "Description": "2 Oro + F1 · TACTICA\nComo coste adicional, sacrifica una Tropa tuya. Haz 3 de daño a la Moral de un oponente y recupera 3 Moral.",
+     "CardID": 122,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_10_Cleopatra_VII_face_1}}",
+       "BackURL": "{{URL_10_Cleopatra_VII_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Tributo al Duat",
+     "Description": "2 Oro + F1 · TACTICA\nComo coste adicional, sacrifica una Tropa tuya. Haz 3 de daño a la Moral de un oponente y recupera 3 Moral.",
+     "CardID": 122,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_10_Cleopatra_VII_face_1}}",
+       "BackURL": "{{URL_10_Cleopatra_VII_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Maldición de Isis",
+     "Description": "4 Oro + F1 · EVENTO\nUna Tropa Pierde X Poder este turno,  X es la cantidad de Tropas en tu descarte. Si es destruida, recupera X Moral y regresa al campo una Tropa de tu descarte con Poder base X.",
+     "CardID": 123,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_10_Cleopatra_VII_face_1}}",
+       "BackURL": "{{URL_10_Cleopatra_VII_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Apertura del Duat",
+     "Description": "8 Oro + F1 · EVENTO\nPierde 4 Moral. Regresa al campo Cansadas todas las Tropas de coste 5 o menos de tu descarte.",
+     "CardID": 124,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_10_Cleopatra_VII_face_1}}",
+       "BackURL": "{{URL_10_Cleopatra_VII_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    }
+   ]
+  },
+  {
+   "Name": "Card",
+   "Transform": {
+    "posX": -4,
+    "posY": 1.5,
+    "posZ": 0,
+    "rotX": 0,
+    "rotY": 180,
+    "rotZ": 0,
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+   },
+   "Nickname": "Cleopatra VII",
+   "Description": "EMPERADOR\nLa primera vez en cada turno que sacrifiques una unidad o pierdas Moral por una carta o habilidad tuya, gana 1 Oro temporal este turno.",
+   "CardID": 125,
+   "SidewaysCard": false,
+   "CustomDeck": {
+    "1": {
+     "FaceURL": "{{URL_10_Cleopatra_VII_face_1}}",
+     "BackURL": "{{URL_10_Cleopatra_VII_back}}",
+     "NumWidth": 10,
+     "NumHeight": 3,
+     "BackIsHidden": true,
+     "UniqueBack": false,
+     "Type": 0
+    }
+   }
+  },
+  {
+   "Name": "Deck",
+   "Transform": {
+    "posX": 4,
+    "posY": 1.5,
+    "posZ": 0,
+    "rotX": 0,
+    "rotY": 180,
+    "rotZ": 180,
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+   },
+   "Nickname": "Cleopatra VII — Oros (12)",
+   "Description": "IMPERIUM · Capa 1 · v2.15",
+   "DeckIDs": [
+    200,
+    200,
+    200,
+    200,
+    200,
+    201,
+    201,
+    201,
+    201,
+    201,
+    201,
+    201
+   ],
+   "CustomDeck": {
+    "2": {
+     "FaceURL": "{{URL_10_Cleopatra_VII_face_2}}",
+     "BackURL": "{{URL_10_Cleopatra_VII_back}}",
+     "NumWidth": 10,
+     "NumHeight": 1,
+     "BackIsHidden": true,
+     "UniqueBack": false,
+     "Type": 0
+    }
+   },
+   "ContainedObjects": [
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Prosperidad",
+     "Description": "ORO\n",
+     "CardID": 200,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "2": {
+       "FaceURL": "{{URL_10_Cleopatra_VII_face_2}}",
+       "BackURL": "{{URL_10_Cleopatra_VII_back}}",
+       "NumWidth": 10,
+       "NumHeight": 1,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Prosperidad",
+     "Description": "ORO\n",
+     "CardID": 200,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "2": {
+       "FaceURL": "{{URL_10_Cleopatra_VII_face_2}}",
+       "BackURL": "{{URL_10_Cleopatra_VII_back}}",
+       "NumWidth": 10,
+       "NumHeight": 1,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Prosperidad",
+     "Description": "ORO\n",
+     "CardID": 200,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "2": {
+       "FaceURL": "{{URL_10_Cleopatra_VII_face_2}}",
+       "BackURL": "{{URL_10_Cleopatra_VII_back}}",
+       "NumWidth": 10,
+       "NumHeight": 1,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Prosperidad",
+     "Description": "ORO\n",
+     "CardID": 200,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "2": {
+       "FaceURL": "{{URL_10_Cleopatra_VII_face_2}}",
+       "BackURL": "{{URL_10_Cleopatra_VII_back}}",
+       "NumWidth": 10,
+       "NumHeight": 1,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Prosperidad",
+     "Description": "ORO\n",
+     "CardID": 200,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "2": {
+       "FaceURL": "{{URL_10_Cleopatra_VII_face_2}}",
+       "BackURL": "{{URL_10_Cleopatra_VII_back}}",
+       "NumWidth": 10,
+       "NumHeight": 1,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Ambición",
+     "Description": "ORO\n",
+     "CardID": 201,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "2": {
+       "FaceURL": "{{URL_10_Cleopatra_VII_face_2}}",
+       "BackURL": "{{URL_10_Cleopatra_VII_back}}",
+       "NumWidth": 10,
+       "NumHeight": 1,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Ambición",
+     "Description": "ORO\n",
+     "CardID": 201,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "2": {
+       "FaceURL": "{{URL_10_Cleopatra_VII_face_2}}",
+       "BackURL": "{{URL_10_Cleopatra_VII_back}}",
+       "NumWidth": 10,
+       "NumHeight": 1,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Ambición",
+     "Description": "ORO\n",
+     "CardID": 201,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "2": {
+       "FaceURL": "{{URL_10_Cleopatra_VII_face_2}}",
+       "BackURL": "{{URL_10_Cleopatra_VII_back}}",
+       "NumWidth": 10,
+       "NumHeight": 1,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Ambición",
+     "Description": "ORO\n",
+     "CardID": 201,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "2": {
+       "FaceURL": "{{URL_10_Cleopatra_VII_face_2}}",
+       "BackURL": "{{URL_10_Cleopatra_VII_back}}",
+       "NumWidth": 10,
+       "NumHeight": 1,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Ambición",
+     "Description": "ORO\n",
+     "CardID": 201,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "2": {
+       "FaceURL": "{{URL_10_Cleopatra_VII_face_2}}",
+       "BackURL": "{{URL_10_Cleopatra_VII_back}}",
+       "NumWidth": 10,
+       "NumHeight": 1,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Ambición",
+     "Description": "ORO\n",
+     "CardID": 201,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "2": {
+       "FaceURL": "{{URL_10_Cleopatra_VII_face_2}}",
+       "BackURL": "{{URL_10_Cleopatra_VII_back}}",
+       "NumWidth": 10,
+       "NumHeight": 1,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Ambición",
+     "Description": "ORO\n",
+     "CardID": 201,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "2": {
+       "FaceURL": "{{URL_10_Cleopatra_VII_face_2}}",
+       "BackURL": "{{URL_10_Cleopatra_VII_back}}",
+       "NumWidth": 10,
+       "NumHeight": 1,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    }
+   ]
+  },
+  {
+   "Name": "Deck",
+   "Transform": {
+    "posX": 8,
+    "posY": 1.5,
+    "posZ": 0,
+    "rotX": 0,
+    "rotY": 180,
+    "rotZ": 180,
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+   },
+   "Nickname": "Cleopatra VII — Fichas Grano (8)",
+   "Description": "IMPERIUM · Capa 1 · v2.15",
+   "DeckIDs": [
+    202,
+    202,
+    202,
+    202,
+    202,
+    202,
+    202,
+    202
+   ],
+   "CustomDeck": {
+    "2": {
+     "FaceURL": "{{URL_10_Cleopatra_VII_face_2}}",
+     "BackURL": "{{URL_10_Cleopatra_VII_back}}",
+     "NumWidth": 10,
+     "NumHeight": 1,
+     "BackIsHidden": true,
+     "UniqueBack": false,
+     "Type": 0
+    }
+   },
+   "ContainedObjects": [
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Grano",
+     "Description": "FICHA\nSacrifica este Grano: genera 1 Oro temporal este turno.",
+     "CardID": 202,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "2": {
+       "FaceURL": "{{URL_10_Cleopatra_VII_face_2}}",
+       "BackURL": "{{URL_10_Cleopatra_VII_back}}",
+       "NumWidth": 10,
+       "NumHeight": 1,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Grano",
+     "Description": "FICHA\nSacrifica este Grano: genera 1 Oro temporal este turno.",
+     "CardID": 202,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "2": {
+       "FaceURL": "{{URL_10_Cleopatra_VII_face_2}}",
+       "BackURL": "{{URL_10_Cleopatra_VII_back}}",
+       "NumWidth": 10,
+       "NumHeight": 1,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Grano",
+     "Description": "FICHA\nSacrifica este Grano: genera 1 Oro temporal este turno.",
+     "CardID": 202,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "2": {
+       "FaceURL": "{{URL_10_Cleopatra_VII_face_2}}",
+       "BackURL": "{{URL_10_Cleopatra_VII_back}}",
+       "NumWidth": 10,
+       "NumHeight": 1,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Grano",
+     "Description": "FICHA\nSacrifica este Grano: genera 1 Oro temporal este turno.",
+     "CardID": 202,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "2": {
+       "FaceURL": "{{URL_10_Cleopatra_VII_face_2}}",
+       "BackURL": "{{URL_10_Cleopatra_VII_back}}",
+       "NumWidth": 10,
+       "NumHeight": 1,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Grano",
+     "Description": "FICHA\nSacrifica este Grano: genera 1 Oro temporal este turno.",
+     "CardID": 202,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "2": {
+       "FaceURL": "{{URL_10_Cleopatra_VII_face_2}}",
+       "BackURL": "{{URL_10_Cleopatra_VII_back}}",
+       "NumWidth": 10,
+       "NumHeight": 1,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Grano",
+     "Description": "FICHA\nSacrifica este Grano: genera 1 Oro temporal este turno.",
+     "CardID": 202,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "2": {
+       "FaceURL": "{{URL_10_Cleopatra_VII_face_2}}",
+       "BackURL": "{{URL_10_Cleopatra_VII_back}}",
+       "NumWidth": 10,
+       "NumHeight": 1,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Grano",
+     "Description": "FICHA\nSacrifica este Grano: genera 1 Oro temporal este turno.",
+     "CardID": 202,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "2": {
+       "FaceURL": "{{URL_10_Cleopatra_VII_face_2}}",
+       "BackURL": "{{URL_10_Cleopatra_VII_back}}",
+       "NumWidth": 10,
+       "NumHeight": 1,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Grano",
+     "Description": "FICHA\nSacrifica este Grano: genera 1 Oro temporal este turno.",
+     "CardID": 202,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "2": {
+       "FaceURL": "{{URL_10_Cleopatra_VII_face_2}}",
+       "BackURL": "{{URL_10_Cleopatra_VII_back}}",
+       "NumWidth": 10,
+       "NumHeight": 1,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    }
+   ]
+  }
+ ],
+ "TabStates": {},
+ "VersionNumber": ""
+}

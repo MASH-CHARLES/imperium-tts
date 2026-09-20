@@ -1,0 +1,2120 @@
+{
+ "SaveName": "IMPERIUM Capa 1 · Augusto",
+ "GameMode": "",
+ "Gravity": 0.5,
+ "PlayArea": 0.5,
+ "Date": "",
+ "Table": "",
+ "Sky": "",
+ "Note": "",
+ "Rules": "",
+ "XmlUI": "",
+ "LuaScript": "",
+ "LuaScriptState": "",
+ "ObjectStates": [
+  {
+   "Name": "Deck",
+   "Transform": {
+    "posX": 0,
+    "posY": 1.5,
+    "posZ": 0,
+    "rotX": 0,
+    "rotY": 180,
+    "rotZ": 180,
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+   },
+   "Nickname": "Augusto — Mazo (50)",
+   "Description": "IMPERIUM · Capa 1 · v2.15",
+   "DeckIDs": [
+    100,
+    100,
+    100,
+    100,
+    101,
+    101,
+    101,
+    101,
+    102,
+    103,
+    103,
+    104,
+    105,
+    105,
+    106,
+    106,
+    106,
+    106,
+    107,
+    108,
+    109,
+    110,
+    111,
+    112,
+    112,
+    112,
+    113,
+    114,
+    115,
+    116,
+    116,
+    117,
+    117,
+    118,
+    119,
+    120,
+    121,
+    122,
+    123,
+    124,
+    124,
+    125,
+    126,
+    127,
+    128,
+    129,
+    130,
+    131,
+    132,
+    133
+   ],
+   "CustomDeck": {
+    "1": {
+     "FaceURL": "{{URL_09_Augusto_face_1}}",
+     "BackURL": "{{URL_09_Augusto_back}}",
+     "NumWidth": 10,
+     "NumHeight": 4,
+     "BackIsHidden": true,
+     "UniqueBack": false,
+     "Type": 0
+    }
+   },
+   "ContainedObjects": [
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Danzante Romana",
+     "Description": "1 Oro · TROPA · P2\nDILIGENTE (En tu turno, se endereza tras su primer trabajo y no puede volver a trabajar ese turno).",
+     "CardID": 100,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_09_Augusto_face_1}}",
+       "BackURL": "{{URL_09_Augusto_back}}",
+       "NumWidth": 10,
+       "NumHeight": 4,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Danzante Romana",
+     "Description": "1 Oro · TROPA · P2\nDILIGENTE (En tu turno, se endereza tras su primer trabajo y no puede volver a trabajar ese turno).",
+     "CardID": 100,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_09_Augusto_face_1}}",
+       "BackURL": "{{URL_09_Augusto_back}}",
+       "NumWidth": 10,
+       "NumHeight": 4,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Danzante Romana",
+     "Description": "1 Oro · TROPA · P2\nDILIGENTE (En tu turno, se endereza tras su primer trabajo y no puede volver a trabajar ese turno).",
+     "CardID": 100,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_09_Augusto_face_1}}",
+       "BackURL": "{{URL_09_Augusto_back}}",
+       "NumWidth": 10,
+       "NumHeight": 4,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Danzante Romana",
+     "Description": "1 Oro · TROPA · P2\nDILIGENTE (En tu turno, se endereza tras su primer trabajo y no puede volver a trabajar ese turno).",
+     "CardID": 100,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_09_Augusto_face_1}}",
+       "BackURL": "{{URL_09_Augusto_back}}",
+       "NumWidth": 10,
+       "NumHeight": 4,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Legionario del Arsenal",
+     "Description": "2 Oro + F1 · TROPA · P2\nTus Tropas Legionario equipadas tienen +1 Poder.",
+     "CardID": 101,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_09_Augusto_face_1}}",
+       "BackURL": "{{URL_09_Augusto_back}}",
+       "NumWidth": 10,
+       "NumHeight": 4,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Legionario del Arsenal",
+     "Description": "2 Oro + F1 · TROPA · P2\nTus Tropas Legionario equipadas tienen +1 Poder.",
+     "CardID": 101,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_09_Augusto_face_1}}",
+       "BackURL": "{{URL_09_Augusto_back}}",
+       "NumWidth": 10,
+       "NumHeight": 4,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Legionario del Arsenal",
+     "Description": "2 Oro + F1 · TROPA · P2\nTus Tropas Legionario equipadas tienen +1 Poder.",
+     "CardID": 101,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_09_Augusto_face_1}}",
+       "BackURL": "{{URL_09_Augusto_back}}",
+       "NumWidth": 10,
+       "NumHeight": 4,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Legionario del Arsenal",
+     "Description": "2 Oro + F1 · TROPA · P2\nTus Tropas Legionario equipadas tienen +1 Poder.",
+     "CardID": 101,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_09_Augusto_face_1}}",
+       "BackURL": "{{URL_09_Augusto_back}}",
+       "NumWidth": 10,
+       "NumHeight": 4,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Pretoriano",
+     "Description": "3 Oro · TROPA · P3\nAURA LEGIONARIA — Tus otras Tropas Legionario tienen «Cuando esta Tropa ataque, haz 1 de daño a un Soporte». Este efecto no se acumula.",
+     "CardID": 102,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_09_Augusto_face_1}}",
+       "BackURL": "{{URL_09_Augusto_back}}",
+       "NumWidth": 10,
+       "NumHeight": 4,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Guardia Urbana",
+     "Description": "3 Oro · TROPA · P3\nGUARDIÁN 2 (Puede bloquear hasta 2 ataques por Asalto).",
+     "CardID": 103,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_09_Augusto_face_1}}",
+       "BackURL": "{{URL_09_Augusto_back}}",
+       "NumWidth": 10,
+       "NumHeight": 4,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Guardia Urbana",
+     "Description": "3 Oro · TROPA · P3\nGUARDIÁN 2 (Puede bloquear hasta 2 ataques por Asalto).",
+     "CardID": 103,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_09_Augusto_face_1}}",
+       "BackURL": "{{URL_09_Augusto_back}}",
+       "NumWidth": 10,
+       "NumHeight": 4,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Livia Drusila, Arquitecta de la Dinastía",
+     "Description": "3 Oro + F1 · TROPA · P3\nLa primera Estructura o Armamento que despliegues cada turno cuesta 1 Oro menos. Cuando la despliegues, recupera 1 Moral.",
+     "CardID": 104,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_09_Augusto_face_1}}",
+       "BackURL": "{{URL_09_Augusto_back}}",
+       "NumWidth": 10,
+       "NumHeight": 4,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Legionario de la Décima",
+     "Description": "4 Oro · TROPA · P3\nDILIGENTE. Tus otras Tropas Legionario ganan +1 Poder.",
+     "CardID": 105,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_09_Augusto_face_1}}",
+       "BackURL": "{{URL_09_Augusto_back}}",
+       "NumWidth": 10,
+       "NumHeight": 4,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Legionario de la Décima",
+     "Description": "4 Oro · TROPA · P3\nDILIGENTE. Tus otras Tropas Legionario ganan +1 Poder.",
+     "CardID": 105,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_09_Augusto_face_1}}",
+       "BackURL": "{{URL_09_Augusto_back}}",
+       "NumWidth": 10,
+       "NumHeight": 4,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Triario Veterano",
+     "Description": "4 Oro · TROPA · P4\nESCUDO 1. Tus otras Tropas Legionario ganan +1 Poder mientras bloquean.",
+     "CardID": 106,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_09_Augusto_face_1}}",
+       "BackURL": "{{URL_09_Augusto_back}}",
+       "NumWidth": 10,
+       "NumHeight": 4,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Triario Veterano",
+     "Description": "4 Oro · TROPA · P4\nESCUDO 1. Tus otras Tropas Legionario ganan +1 Poder mientras bloquean.",
+     "CardID": 106,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_09_Augusto_face_1}}",
+       "BackURL": "{{URL_09_Augusto_back}}",
+       "NumWidth": 10,
+       "NumHeight": 4,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Triario Veterano",
+     "Description": "4 Oro · TROPA · P4\nESCUDO 1. Tus otras Tropas Legionario ganan +1 Poder mientras bloquean.",
+     "CardID": 106,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_09_Augusto_face_1}}",
+       "BackURL": "{{URL_09_Augusto_back}}",
+       "NumWidth": 10,
+       "NumHeight": 4,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Triario Veterano",
+     "Description": "4 Oro · TROPA · P4\nESCUDO 1. Tus otras Tropas Legionario ganan +1 Poder mientras bloquean.",
+     "CardID": 106,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_09_Augusto_face_1}}",
+       "BackURL": "{{URL_09_Augusto_back}}",
+       "NumWidth": 10,
+       "NumHeight": 4,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Marco Agripa, Vencedor de Accio",
+     "Description": "5 Oro + F1 · TROPA · P5\nCuando trabajes una Estructura durante tu turno, puedes cansar una Tropa que controle un oponente.",
+     "CardID": 107,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_09_Augusto_face_1}}",
+       "BackURL": "{{URL_09_Augusto_back}}",
+       "NumWidth": 10,
+       "NumHeight": 4,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Centurión",
+     "Description": "6 Oro + F1 · TROPA · P5\nVIGILANTE. Tus otras Tropas Legionario tienen ESCUDO 1.",
+     "CardID": 108,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_09_Augusto_face_1}}",
+       "BackURL": "{{URL_09_Augusto_back}}",
+       "NumWidth": 10,
+       "NumHeight": 4,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Maestro de Ingenieros de Vitruvio",
+     "Description": "9 Oro + F3 · TROPA · P7\nCARGA. Al entrar, activa una vez cada Estructura que controlas sin agotar unidades. Después, mueve a esta Tropa todos los Armamentos que controlas que puedan equiparla, sin pagar sus costes de Equipar.",
+     "CardID": 109,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_09_Augusto_face_1}}",
+       "BackURL": "{{URL_09_Augusto_back}}",
+       "NumWidth": 10,
+       "NumHeight": 4,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Máximo, Último General",
+     "Description": "10 Oro + F2 · TROPA · P9\nVIGILANTE. Al entrar, destruye todas las demás Tropas.",
+     "CardID": 110,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_09_Augusto_face_1}}",
+       "BackURL": "{{URL_09_Augusto_back}}",
+       "NumWidth": 10,
+       "NumHeight": 4,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Medicus",
+     "Description": "2 Oro · SOPORTE · R4\nUna vez por turno — REACCIÓN: Agota este Soporte: previene los próximos 2 daños a un objetivo este turno.",
+     "CardID": 111,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_09_Augusto_face_1}}",
+       "BackURL": "{{URL_09_Augusto_back}}",
+       "NumWidth": 10,
+       "NumHeight": 4,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Ingeniero Romano",
+     "Description": "2 Oro · SOPORTE · R4\nDILIGENTE. Una vez por turno — ACCIÓN: Agota este Soporte: Siguiente armamento cuesta 2 menos.",
+     "CardID": 112,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_09_Augusto_face_1}}",
+       "BackURL": "{{URL_09_Augusto_back}}",
+       "NumWidth": 10,
+       "NumHeight": 4,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Ingeniero Romano",
+     "Description": "2 Oro · SOPORTE · R4\nDILIGENTE. Una vez por turno — ACCIÓN: Agota este Soporte: Siguiente armamento cuesta 2 menos.",
+     "CardID": 112,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_09_Augusto_face_1}}",
+       "BackURL": "{{URL_09_Augusto_back}}",
+       "NumWidth": 10,
+       "NumHeight": 4,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Ingeniero Romano",
+     "Description": "2 Oro · SOPORTE · R4\nDILIGENTE. Una vez por turno — ACCIÓN: Agota este Soporte: Siguiente armamento cuesta 2 menos.",
+     "CardID": 112,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_09_Augusto_face_1}}",
+       "BackURL": "{{URL_09_Augusto_back}}",
+       "NumWidth": 10,
+       "NumHeight": 4,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Virgilio",
+     "Description": "3 Oro · SOPORTE · R4\nLa primera vez en cada turno que trabaje una Estructura, roba 1 carta y luego descarta 1.",
+     "CardID": 113,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_09_Augusto_face_1}}",
+       "BackURL": "{{URL_09_Augusto_back}}",
+       "NumWidth": 10,
+       "NumHeight": 4,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Termas Romanas",
+     "Description": "3 Oro · ESTRUCTURA · R6\nAl entrar, recupera 3 Moral. Al inicio de tu turno recuperas 2 moral.",
+     "CardID": 114,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_09_Augusto_face_1}}",
+       "BackURL": "{{URL_09_Augusto_back}}",
+       "NumWidth": 10,
+       "NumHeight": 4,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Castrum Romano",
+     "Description": "3 Oro · ESTRUCTURA · R5\nLa primera vez en cada turno que un oponente declare atacantes, puedes redirigir hacia Castrum Romano uno de esos ataques.",
+     "CardID": 115,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_09_Augusto_face_1}}",
+       "BackURL": "{{URL_09_Augusto_back}}",
+       "NumWidth": 10,
+       "NumHeight": 4,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Acueducto Romano",
+     "Description": "3 Oro · ESTRUCTURA · R6\nUna vez por turno — ACCIÓN: Agota 1 unidad: recupera 2 Moral. Tu próxima Tropa cuesta 2 Oros menos para desplegar este turno.",
+     "CardID": 116,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_09_Augusto_face_1}}",
+       "BackURL": "{{URL_09_Augusto_back}}",
+       "NumWidth": 10,
+       "NumHeight": 4,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Acueducto Romano",
+     "Description": "3 Oro · ESTRUCTURA · R6\nUna vez por turno — ACCIÓN: Agota 1 unidad: recupera 2 Moral. Tu próxima Tropa cuesta 2 Oros menos para desplegar este turno.",
+     "CardID": 116,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_09_Augusto_face_1}}",
+       "BackURL": "{{URL_09_Augusto_back}}",
+       "NumWidth": 10,
+       "NumHeight": 4,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Horrea de Ostia",
+     "Description": "3 Oro · ESTRUCTURA · R5\nAl entrar o cuando esta Estructura sea destruida, crea 1 Vino. Una vez por turno — ACCIÓN: Agota 1 unidad: roba 1 carta.",
+     "CardID": 117,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_09_Augusto_face_1}}",
+       "BackURL": "{{URL_09_Augusto_back}}",
+       "NumWidth": 10,
+       "NumHeight": 4,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Horrea de Ostia",
+     "Description": "3 Oro · ESTRUCTURA · R5\nAl entrar o cuando esta Estructura sea destruida, crea 1 Vino. Una vez por turno — ACCIÓN: Agota 1 unidad: roba 1 carta.",
+     "CardID": 117,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_09_Augusto_face_1}}",
+       "BackURL": "{{URL_09_Augusto_back}}",
+       "NumWidth": 10,
+       "NumHeight": 4,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Taller de Armorería",
+     "Description": "3 Oro · ESTRUCTURA · R5\nAl entrar, puedes equipar un Armamento de coste de equipar 5 o menos que controles a una portadora legal sin costo. Una vez por turno — ACCIÓN: Agota 1 unidad: repite ese efecto.",
+     "CardID": 118,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_09_Augusto_face_1}}",
+       "BackURL": "{{URL_09_Augusto_back}}",
+       "NumWidth": 10,
+       "NumHeight": 4,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Curia Julia",
+     "Description": "4 Oro · ESTRUCTURA · R6\nUna vez durante tu turno, elige una Tropa rival de coste 5 o menos. Esa Tropa no puede atacar durante el siguiente turno del oponente.",
+     "CardID": 119,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_09_Augusto_face_1}}",
+       "BackURL": "{{URL_09_Augusto_back}}",
+       "NumWidth": 10,
+       "NumHeight": 4,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Foro de Trajano",
+     "Description": "4 Oro · ESTRUCTURA · R6\nAl entrar, roba 1 carta. La primera vez en tu turno que despliegues otra Estructura o un Armamento, roba 1 carta.",
+     "CardID": 120,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_09_Augusto_face_1}}",
+       "BackURL": "{{URL_09_Augusto_back}}",
+       "NumWidth": 10,
+       "NumHeight": 4,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Circo Máximo",
+     "Description": "5 Oro + F1 · ESTRUCTURA · R7\nUna vez por turno — ACCIÓN: Agota 1 unidad: tus Tropas equipadas ganan +2 Poder y VIGILANTE este turno.",
+     "CardID": 121,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_09_Augusto_face_1}}",
+       "BackURL": "{{URL_09_Augusto_back}}",
+       "NumWidth": 10,
+       "NumHeight": 4,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Panteón de Roma",
+     "Description": "7 Oro + F1 · ESTRUCTURA · R10\nUna vez por turno — ACCIÓN: Agota 2 unidades: revela cartas de la parte superior de tu mazo hasta revelar una Tropa. Puedes desplegar esa Tropa este turno sin pagar su coste. Pon las demás cartas reveladas al fondo de tu mazo en cualquier orden.",
+     "CardID": 122,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_09_Augusto_face_1}}",
+       "BackURL": "{{URL_09_Augusto_back}}",
+       "NumWidth": 10,
+       "NumHeight": 4,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Scutum Legionario",
+     "Description": "1 Oro · ARMAMENTO\nEquipa a una Tropa. La portadora gana +1 Poder y ESCUDO 1 mientras bloquea.",
+     "CardID": 123,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_09_Augusto_face_1}}",
+       "BackURL": "{{URL_09_Augusto_back}}",
+       "NumWidth": 10,
+       "NumHeight": 4,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Lorica Hamata",
+     "Description": "2 Oro · ARMAMENTO\nEquipa a una Tropa. La portadora tiene ESCUDO 1 (Recibe 1 daño menos de cada enfrentamiento de combate).",
+     "CardID": 124,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_09_Augusto_face_1}}",
+       "BackURL": "{{URL_09_Augusto_back}}",
+       "NumWidth": 10,
+       "NumHeight": 4,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Lorica Hamata",
+     "Description": "2 Oro · ARMAMENTO\nEquipa a una Tropa. La portadora tiene ESCUDO 1 (Recibe 1 daño menos de cada enfrentamiento de combate).",
+     "CardID": 124,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_09_Augusto_face_1}}",
+       "BackURL": "{{URL_09_Augusto_back}}",
+       "NumWidth": 10,
+       "NumHeight": 4,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Dolabra Legionaria",
+     "Description": "3 Oro · ARMAMENTO\nEquipa a una Tropa. La portadora gana +2 Poder; gana +3 en su lugar si tiene otro Armamento con nombre distinto. El daño que haga a una Estructura no se elimina durante el próximo Ocaso de su controlador.",
+     "CardID": 125,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_09_Augusto_face_1}}",
+       "BackURL": "{{URL_09_Augusto_back}}",
+       "NumWidth": 10,
+       "NumHeight": 4,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Corona de Laurel de Augusto",
+     "Description": "3 Oro + F1 · ARMAMENTO\nEquipa a una Tropa. Recupera moral igual al daño generado por la tropa. REACCIÓN — Sacrifica este Armamento: la portadora es indestructible este turno.",
+     "CardID": 126,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_09_Augusto_face_1}}",
+       "BackURL": "{{URL_09_Augusto_back}}",
+       "NumWidth": 10,
+       "NumHeight": 4,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Gladius del Triunfo",
+     "Description": "4 Oro + F1 · ARMAMENTO\nEquipa a una Tropa. La portadora gana +3 Poder. Mientras controles tres o más Estructuras, tiene ASALTO 2.",
+     "CardID": 127,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_09_Augusto_face_1}}",
+       "BackURL": "{{URL_09_Augusto_back}}",
+       "NumWidth": 10,
+       "NumHeight": 4,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Bloqueo de Escudos",
+     "Description": "0 Oro + F1 · TACTICA\nUna Tropa tuya gana ESCUDO 2 este turno (Recibe 2 daños menos de cada enfrentamiento de combate).",
+     "CardID": 128,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_09_Augusto_face_1}}",
+       "BackURL": "{{URL_09_Augusto_back}}",
+       "NumWidth": 10,
+       "NumHeight": 4,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Formación Testudo",
+     "Description": "1 Oro + F1 · TACTICA\nREACCIÓN — después de declarar bloqueadores: elige una Tropa atacante bloqueada por dos o más Tropas tuyas. Esas Tropas bloqueadoras ganan +1 Poder y ESCUDO 1 este combate.",
+     "CardID": 129,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_09_Augusto_face_1}}",
+       "BackURL": "{{URL_09_Augusto_back}}",
+       "NumWidth": 10,
+       "NumHeight": 4,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Arbitraje del Senado",
+     "Description": "2 Oro + F1 · TACTICA\nREACCIÓN — cuando una Tropa que controle un oponente sea declarada atacante o bloqueadora: su controlador puede pagar 2 Oros. Si no lo hace, retírala del combate.",
+     "CardID": 130,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_09_Augusto_face_1}}",
+       "BackURL": "{{URL_09_Augusto_back}}",
+       "NumWidth": 10,
+       "NumHeight": 4,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Trompeta Romana",
+     "Description": "2 Oro · TACTICA\nMira las 5 cartas superiores de tu mazo.  revela una Tropa Infantería y ponla en tu mano. Pon el resto al fondo de tu mazo.",
+     "CardID": 131,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_09_Augusto_face_1}}",
+       "BackURL": "{{URL_09_Augusto_back}}",
+       "NumWidth": 10,
+       "NumHeight": 4,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Cruce del Rubicón",
+     "Description": "5 Oro + F1 · EVENTO\nTus Tropas ganan +1 Poder y VIGILANTE este turno. Si controlas 3 o más Tropas Activas, ganan +2 Poder en su lugar.",
+     "CardID": 132,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_09_Augusto_face_1}}",
+       "BackURL": "{{URL_09_Augusto_back}}",
+       "NumWidth": 10,
+       "NumHeight": 4,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Divide et Impera",
+     "Description": "7 Oro + F1 · EVENTO\nElige un oponente. Ese oponente elige una cantidad de Tropas que controla igual a la mitad de sus Tropas, redondeando hacia arriba. Destruye las Tropas elegidas.",
+     "CardID": 133,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_09_Augusto_face_1}}",
+       "BackURL": "{{URL_09_Augusto_back}}",
+       "NumWidth": 10,
+       "NumHeight": 4,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    }
+   ]
+  },
+  {
+   "Name": "Card",
+   "Transform": {
+    "posX": -4,
+    "posY": 1.5,
+    "posZ": 0,
+    "rotX": 0,
+    "rotY": 180,
+    "rotZ": 0,
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+   },
+   "Nickname": "Augusto",
+   "Description": "EMPERADOR\nLa primera vez en cada turno que despliegues una Estructura o Armamento, recupera 2 Moral.",
+   "CardID": 134,
+   "SidewaysCard": false,
+   "CustomDeck": {
+    "1": {
+     "FaceURL": "{{URL_09_Augusto_face_1}}",
+     "BackURL": "{{URL_09_Augusto_back}}",
+     "NumWidth": 10,
+     "NumHeight": 4,
+     "BackIsHidden": true,
+     "UniqueBack": false,
+     "Type": 0
+    }
+   }
+  },
+  {
+   "Name": "Deck",
+   "Transform": {
+    "posX": 4,
+    "posY": 1.5,
+    "posZ": 0,
+    "rotX": 0,
+    "rotY": 180,
+    "rotZ": 180,
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+   },
+   "Nickname": "Augusto — Oros (12)",
+   "Description": "IMPERIUM · Capa 1 · v2.15",
+   "DeckIDs": [
+    200,
+    200,
+    200,
+    200,
+    200,
+    201,
+    201,
+    201,
+    201,
+    201,
+    201,
+    201
+   ],
+   "CustomDeck": {
+    "2": {
+     "FaceURL": "{{URL_09_Augusto_face_2}}",
+     "BackURL": "{{URL_09_Augusto_back}}",
+     "NumWidth": 10,
+     "NumHeight": 1,
+     "BackIsHidden": true,
+     "UniqueBack": false,
+     "Type": 0
+    }
+   },
+   "ContainedObjects": [
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Orden",
+     "Description": "ORO\n",
+     "CardID": 200,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "2": {
+       "FaceURL": "{{URL_09_Augusto_face_2}}",
+       "BackURL": "{{URL_09_Augusto_back}}",
+       "NumWidth": 10,
+       "NumHeight": 1,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Orden",
+     "Description": "ORO\n",
+     "CardID": 200,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "2": {
+       "FaceURL": "{{URL_09_Augusto_face_2}}",
+       "BackURL": "{{URL_09_Augusto_back}}",
+       "NumWidth": 10,
+       "NumHeight": 1,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Orden",
+     "Description": "ORO\n",
+     "CardID": 200,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "2": {
+       "FaceURL": "{{URL_09_Augusto_face_2}}",
+       "BackURL": "{{URL_09_Augusto_back}}",
+       "NumWidth": 10,
+       "NumHeight": 1,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Orden",
+     "Description": "ORO\n",
+     "CardID": 200,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "2": {
+       "FaceURL": "{{URL_09_Augusto_face_2}}",
+       "BackURL": "{{URL_09_Augusto_back}}",
+       "NumWidth": 10,
+       "NumHeight": 1,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Orden",
+     "Description": "ORO\n",
+     "CardID": 200,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "2": {
+       "FaceURL": "{{URL_09_Augusto_face_2}}",
+       "BackURL": "{{URL_09_Augusto_back}}",
+       "NumWidth": 10,
+       "NumHeight": 1,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Legado",
+     "Description": "ORO\n",
+     "CardID": 201,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "2": {
+       "FaceURL": "{{URL_09_Augusto_face_2}}",
+       "BackURL": "{{URL_09_Augusto_back}}",
+       "NumWidth": 10,
+       "NumHeight": 1,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Legado",
+     "Description": "ORO\n",
+     "CardID": 201,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "2": {
+       "FaceURL": "{{URL_09_Augusto_face_2}}",
+       "BackURL": "{{URL_09_Augusto_back}}",
+       "NumWidth": 10,
+       "NumHeight": 1,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Legado",
+     "Description": "ORO\n",
+     "CardID": 201,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "2": {
+       "FaceURL": "{{URL_09_Augusto_face_2}}",
+       "BackURL": "{{URL_09_Augusto_back}}",
+       "NumWidth": 10,
+       "NumHeight": 1,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Legado",
+     "Description": "ORO\n",
+     "CardID": 201,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "2": {
+       "FaceURL": "{{URL_09_Augusto_face_2}}",
+       "BackURL": "{{URL_09_Augusto_back}}",
+       "NumWidth": 10,
+       "NumHeight": 1,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Legado",
+     "Description": "ORO\n",
+     "CardID": 201,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "2": {
+       "FaceURL": "{{URL_09_Augusto_face_2}}",
+       "BackURL": "{{URL_09_Augusto_back}}",
+       "NumWidth": 10,
+       "NumHeight": 1,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Legado",
+     "Description": "ORO\n",
+     "CardID": 201,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "2": {
+       "FaceURL": "{{URL_09_Augusto_face_2}}",
+       "BackURL": "{{URL_09_Augusto_back}}",
+       "NumWidth": 10,
+       "NumHeight": 1,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Legado",
+     "Description": "ORO\n",
+     "CardID": 201,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "2": {
+       "FaceURL": "{{URL_09_Augusto_face_2}}",
+       "BackURL": "{{URL_09_Augusto_back}}",
+       "NumWidth": 10,
+       "NumHeight": 1,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    }
+   ]
+  },
+  {
+   "Name": "Deck",
+   "Transform": {
+    "posX": 8,
+    "posY": 1.5,
+    "posZ": 0,
+    "rotX": 0,
+    "rotY": 180,
+    "rotZ": 180,
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+   },
+   "Nickname": "Augusto — Fichas Vino (4)",
+   "Description": "IMPERIUM · Capa 1 · v2.15",
+   "DeckIDs": [
+    202,
+    202,
+    202,
+    202
+   ],
+   "CustomDeck": {
+    "2": {
+     "FaceURL": "{{URL_09_Augusto_face_2}}",
+     "BackURL": "{{URL_09_Augusto_back}}",
+     "NumWidth": 10,
+     "NumHeight": 1,
+     "BackIsHidden": true,
+     "UniqueBack": false,
+     "Type": 0
+    }
+   },
+   "ContainedObjects": [
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Vino",
+     "Description": "FICHA\nSacrifica este Vino: recupera 2 Moral.",
+     "CardID": 202,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "2": {
+       "FaceURL": "{{URL_09_Augusto_face_2}}",
+       "BackURL": "{{URL_09_Augusto_back}}",
+       "NumWidth": 10,
+       "NumHeight": 1,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Vino",
+     "Description": "FICHA\nSacrifica este Vino: recupera 2 Moral.",
+     "CardID": 202,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "2": {
+       "FaceURL": "{{URL_09_Augusto_face_2}}",
+       "BackURL": "{{URL_09_Augusto_back}}",
+       "NumWidth": 10,
+       "NumHeight": 1,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Vino",
+     "Description": "FICHA\nSacrifica este Vino: recupera 2 Moral.",
+     "CardID": 202,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "2": {
+       "FaceURL": "{{URL_09_Augusto_face_2}}",
+       "BackURL": "{{URL_09_Augusto_back}}",
+       "NumWidth": 10,
+       "NumHeight": 1,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Vino",
+     "Description": "FICHA\nSacrifica este Vino: recupera 2 Moral.",
+     "CardID": 202,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "2": {
+       "FaceURL": "{{URL_09_Augusto_face_2}}",
+       "BackURL": "{{URL_09_Augusto_back}}",
+       "NumWidth": 10,
+       "NumHeight": 1,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    }
+   ]
+  }
+ ],
+ "TabStates": {},
+ "VersionNumber": ""
+}

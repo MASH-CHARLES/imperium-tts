@@ -1,0 +1,2180 @@
+{
+ "SaveName": "IMPERIUM Capa 1 · Oda Nobunaga",
+ "GameMode": "",
+ "Gravity": 0.5,
+ "PlayArea": 0.5,
+ "Date": "",
+ "Table": "",
+ "Sky": "",
+ "Note": "",
+ "Rules": "",
+ "XmlUI": "",
+ "LuaScript": "",
+ "LuaScriptState": "",
+ "ObjectStates": [
+  {
+   "Name": "Deck",
+   "Transform": {
+    "posX": 0,
+    "posY": 1.5,
+    "posZ": 0,
+    "rotX": 0,
+    "rotY": 180,
+    "rotZ": 180,
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+   },
+   "Nickname": "Oda Nobunaga — Mazo (50)",
+   "Description": "IMPERIUM · Capa 1 · v2.15",
+   "DeckIDs": [
+    100,
+    100,
+    100,
+    101,
+    101,
+    101,
+    102,
+    102,
+    102,
+    103,
+    103,
+    103,
+    103,
+    104,
+    104,
+    105,
+    105,
+    106,
+    106,
+    107,
+    108,
+    109,
+    110,
+    111,
+    111,
+    111,
+    112,
+    112,
+    113,
+    114,
+    115,
+    116,
+    116,
+    117,
+    118,
+    119,
+    119,
+    120,
+    120,
+    120,
+    121,
+    121,
+    122,
+    122,
+    122,
+    123,
+    123,
+    124,
+    125,
+    126
+   ],
+   "CustomDeck": {
+    "1": {
+     "FaceURL": "{{URL_04_Oda_Nobunaga_face_1}}",
+     "BackURL": "{{URL_04_Oda_Nobunaga_back}}",
+     "NumWidth": 10,
+     "NumHeight": 3,
+     "BackIsHidden": true,
+     "UniqueBack": false,
+     "Type": 0
+    }
+   },
+   "ContainedObjects": [
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Ashigaru Explorador",
+     "Description": "1 Oro · TROPA · P1\nAl entrar, una Tropa que controle un oponente no puede bloquear este turno.",
+     "CardID": 100,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_04_Oda_Nobunaga_face_1}}",
+       "BackURL": "{{URL_04_Oda_Nobunaga_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Ashigaru Explorador",
+     "Description": "1 Oro · TROPA · P1\nAl entrar, una Tropa que controle un oponente no puede bloquear este turno.",
+     "CardID": 100,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_04_Oda_Nobunaga_face_1}}",
+       "BackURL": "{{URL_04_Oda_Nobunaga_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Ashigaru Explorador",
+     "Description": "1 Oro · TROPA · P1\nAl entrar, una Tropa que controle un oponente no puede bloquear este turno.",
+     "CardID": 100,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_04_Oda_Nobunaga_face_1}}",
+       "BackURL": "{{URL_04_Oda_Nobunaga_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Shinobi de Iga",
+     "Description": "1 Oro + F1 · TROPA · P2\nEMBOSCADA (Puedes desplegarla en la ventana de Tácticas antes de asignar bloqueadoras. Puede bloquear ese combate).",
+     "CardID": 101,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_04_Oda_Nobunaga_face_1}}",
+       "BackURL": "{{URL_04_Oda_Nobunaga_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Shinobi de Iga",
+     "Description": "1 Oro + F1 · TROPA · P2\nEMBOSCADA (Puedes desplegarla en la ventana de Tácticas antes de asignar bloqueadoras. Puede bloquear ese combate).",
+     "CardID": 101,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_04_Oda_Nobunaga_face_1}}",
+       "BackURL": "{{URL_04_Oda_Nobunaga_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Shinobi de Iga",
+     "Description": "1 Oro + F1 · TROPA · P2\nEMBOSCADA (Puedes desplegarla en la ventana de Tácticas antes de asignar bloqueadoras. Puede bloquear ese combate).",
+     "CardID": 101,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_04_Oda_Nobunaga_face_1}}",
+       "BackURL": "{{URL_04_Oda_Nobunaga_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Kunoichi de Kōga",
+     "Description": "2 Oro · TROPA · P2\nAl entrar, una Tropa que controle un oponente pierde 2 Poder este turno, hasta un mínimo de 1.",
+     "CardID": 102,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_04_Oda_Nobunaga_face_1}}",
+       "BackURL": "{{URL_04_Oda_Nobunaga_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Kunoichi de Kōga",
+     "Description": "2 Oro · TROPA · P2\nAl entrar, una Tropa que controle un oponente pierde 2 Poder este turno, hasta un mínimo de 1.",
+     "CardID": 102,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_04_Oda_Nobunaga_face_1}}",
+       "BackURL": "{{URL_04_Oda_Nobunaga_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Kunoichi de Kōga",
+     "Description": "2 Oro · TROPA · P2\nAl entrar, una Tropa que controle un oponente pierde 2 Poder este turno, hasta un mínimo de 1.",
+     "CardID": 102,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_04_Oda_Nobunaga_face_1}}",
+       "BackURL": "{{URL_04_Oda_Nobunaga_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Rōnin Renegado",
+     "Description": "2 Oro · TROPA · P4\nAl entrar, pierdes 2 Moral.",
+     "CardID": 103,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_04_Oda_Nobunaga_face_1}}",
+       "BackURL": "{{URL_04_Oda_Nobunaga_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Rōnin Renegado",
+     "Description": "2 Oro · TROPA · P4\nAl entrar, pierdes 2 Moral.",
+     "CardID": 103,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_04_Oda_Nobunaga_face_1}}",
+       "BackURL": "{{URL_04_Oda_Nobunaga_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Rōnin Renegado",
+     "Description": "2 Oro · TROPA · P4\nAl entrar, pierdes 2 Moral.",
+     "CardID": 103,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_04_Oda_Nobunaga_face_1}}",
+       "BackURL": "{{URL_04_Oda_Nobunaga_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Rōnin Renegado",
+     "Description": "2 Oro · TROPA · P4\nAl entrar, pierdes 2 Moral.",
+     "CardID": 103,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_04_Oda_Nobunaga_face_1}}",
+       "BackURL": "{{URL_04_Oda_Nobunaga_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Ninja de la Noche",
+     "Description": "3 Oro · TROPA · P2\nIMPARABLE.",
+     "CardID": 104,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_04_Oda_Nobunaga_face_1}}",
+       "BackURL": "{{URL_04_Oda_Nobunaga_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Ninja de la Noche",
+     "Description": "3 Oro · TROPA · P2\nIMPARABLE.",
+     "CardID": 104,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_04_Oda_Nobunaga_face_1}}",
+       "BackURL": "{{URL_04_Oda_Nobunaga_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Momochi Sandayū",
+     "Description": "4 Oro · TROPA · P3\nEMBOSCADA. Al entrar, mira las 5 cartas superiores de tu mazo; puedes revelar una Táctica o una Tropa Shinobi y ponerla en tu mano. Pon el resto al fondo.",
+     "CardID": 105,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_04_Oda_Nobunaga_face_1}}",
+       "BackURL": "{{URL_04_Oda_Nobunaga_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Momochi Sandayū",
+     "Description": "4 Oro · TROPA · P3\nEMBOSCADA. Al entrar, mira las 5 cartas superiores de tu mazo; puedes revelar una Táctica o una Tropa Shinobi y ponerla en tu mano. Pon el resto al fondo.",
+     "CardID": 105,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_04_Oda_Nobunaga_face_1}}",
+       "BackURL": "{{URL_04_Oda_Nobunaga_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Hattori Hanzō",
+     "Description": "4 Oro · TROPA · P3\nEMBOSCADA. Al entrar, cansa una Tropa que controle un oponente. Una vez por turno — ACCIÓN, solo durante tu turno: FUNDE 1 Oro de Astucia: regresa a Hattori Hanzō a tu mano.",
+     "CardID": 106,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_04_Oda_Nobunaga_face_1}}",
+       "BackURL": "{{URL_04_Oda_Nobunaga_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Hattori Hanzō",
+     "Description": "4 Oro · TROPA · P3\nEMBOSCADA. Al entrar, cansa una Tropa que controle un oponente. Una vez por turno — ACCIÓN, solo durante tu turno: FUNDE 1 Oro de Astucia: regresa a Hattori Hanzō a tu mano.",
+     "CardID": 106,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_04_Oda_Nobunaga_face_1}}",
+       "BackURL": "{{URL_04_Oda_Nobunaga_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Tomoe Gozen",
+     "Description": "6 Oro + F1 · TROPA · P5\nEMBOSCADA. FILO VELOZ. Al entrar, todas las Tropas que controlen tus oponentes pierden 3 Poder este turno, hasta un mínimo de 1.",
+     "CardID": 107,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_04_Oda_Nobunaga_face_1}}",
+       "BackURL": "{{URL_04_Oda_Nobunaga_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Shibata Katsuie, Martillo del Norte",
+     "Description": "6 Oro + F1 · TROPA · P7\nARROLLAR. Al entrar, puedes sacrificar otra unidad. Si lo haces, Shibata gana CARGA y +2 Poder este turno. Cuando Shibata haga daño a la Moral de un oponente, destruye una unidad que controle un oponente de Poder 3 o menos.",
+     "CardID": 108,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_04_Oda_Nobunaga_face_1}}",
+       "BackURL": "{{URL_04_Oda_Nobunaga_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Date Masamune",
+     "Description": "10 Oro + F3 · TROPA · P8\nCARGA. Al entrar, hasta el final del turno, tus oponentes no pueden jugar Tácticas. Puedes jugar este turno un Evento Histórico de tu descarte sin pagar su coste.",
+     "CardID": 109,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_04_Oda_Nobunaga_face_1}}",
+       "BackURL": "{{URL_04_Oda_Nobunaga_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Espía de Corte",
+     "Description": "2 Oro · SOPORTE · R4\nREACCIÓN — Agota este Soporte: una Tropa bloqueadora que controle un oponente pierde 2 Poder este combate, hasta un mínimo de 1.",
+     "CardID": 110,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_04_Oda_Nobunaga_face_1}}",
+       "BackURL": "{{URL_04_Oda_Nobunaga_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Maiko Danzante",
+     "Description": "2 Oro · SOPORTE · R4\nDILIGENTE. Una vez por turno — ACCIÓN: Agota este Soporte: crea 1 Ofrenda.",
+     "CardID": 111,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_04_Oda_Nobunaga_face_1}}",
+       "BackURL": "{{URL_04_Oda_Nobunaga_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Maiko Danzante",
+     "Description": "2 Oro · SOPORTE · R4\nDILIGENTE. Una vez por turno — ACCIÓN: Agota este Soporte: crea 1 Ofrenda.",
+     "CardID": 111,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_04_Oda_Nobunaga_face_1}}",
+       "BackURL": "{{URL_04_Oda_Nobunaga_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Maiko Danzante",
+     "Description": "2 Oro · SOPORTE · R4\nDILIGENTE. Una vez por turno — ACCIÓN: Agota este Soporte: crea 1 Ofrenda.",
+     "CardID": 111,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_04_Oda_Nobunaga_face_1}}",
+       "BackURL": "{{URL_04_Oda_Nobunaga_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Onmyōji de la Corte",
+     "Description": "3 Oro · SOPORTE · R3\nLa primera vez en cada turno que sacrifiques una Ofrenda, puedes perder 1 Moral. Si lo haces, roba 1 carta.",
+     "CardID": 112,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_04_Oda_Nobunaga_face_1}}",
+       "BackURL": "{{URL_04_Oda_Nobunaga_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Onmyōji de la Corte",
+     "Description": "3 Oro · SOPORTE · R3\nLa primera vez en cada turno que sacrifiques una Ofrenda, puedes perder 1 Moral. Si lo haces, roba 1 carta.",
+     "CardID": 112,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_04_Oda_Nobunaga_face_1}}",
+       "BackURL": "{{URL_04_Oda_Nobunaga_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Akechi Mitsuhide, General de Tanba",
+     "Description": "4 Oro + F1 · SOPORTE · R4\nREACCIÓN — Agota a Akechi: una Tropa que controle un oponente pierde Poder igual a la Resistencia de Akechi este turno, hasta un mínimo de 1.",
+     "CardID": 113,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_04_Oda_Nobunaga_face_1}}",
+       "BackURL": "{{URL_04_Oda_Nobunaga_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Dōjō del Bakufu",
+     "Description": "2 Oro · ESTRUCTURA · R5\nUna vez por turno — REACCIÓN: Agota 1 unidad: otra Tropa tuya gana FILO VELOZ este combate. Si ya tenía FILO VELOZ, gana +2 Poder este turno en su lugar.",
+     "CardID": 114,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_04_Oda_Nobunaga_face_1}}",
+       "BackURL": "{{URL_04_Oda_Nobunaga_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Castillo Azuchi",
+     "Description": "6 Oro + F1 · ESTRUCTURA · R7\nUna vez por turno — ACCIÓN: Agota 1 unidad y FUNDIR 1 Ambición: destruye una Tropa Cansada que controle un oponente.",
+     "CardID": 115,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_04_Oda_Nobunaga_face_1}}",
+       "BackURL": "{{URL_04_Oda_Nobunaga_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Kusarigama de Iga",
+     "Description": "2 Oro · ARMAMENTO\nEquipa a una Tropa. La portadora gana +1 Poder. Cuando ataque, cansa una unidad que controle un oponente.",
+     "CardID": 116,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_04_Oda_Nobunaga_face_1}}",
+       "BackURL": "{{URL_04_Oda_Nobunaga_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Kusarigama de Iga",
+     "Description": "2 Oro · ARMAMENTO\nEquipa a una Tropa. La portadora gana +1 Poder. Cuando ataque, cansa una unidad que controle un oponente.",
+     "CardID": 116,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_04_Oda_Nobunaga_face_1}}",
+       "BackURL": "{{URL_04_Oda_Nobunaga_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Arcabuz Tanegashima",
+     "Description": "2 Oro + F1 · ARMAMENTO\nEquipa a una Tropa. La portadora gana +2 Poder y es IMPARABLE mientras ataca un Soporte o una Estructura.",
+     "CardID": 117,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_04_Oda_Nobunaga_face_1}}",
+       "BackURL": "{{URL_04_Oda_Nobunaga_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Fukiya Oculta",
+     "Description": "2 Oro + F1 · ARMAMENTO\nEquipa a una Tropa. La portadora tiene ASESINATO. (Cuando inflige daño de combate a una Tropa bloqueadora, destruye esa bloqueadora después del daño.)",
+     "CardID": 118,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_04_Oda_Nobunaga_face_1}}",
+       "BackURL": "{{URL_04_Oda_Nobunaga_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Ceremonia del Té",
+     "Description": "1 Oro · TACTICA\nCoste adicional: sacrifica una Ofrenda, Mira las 6 cartas superiores de tu mazo, elige una y colocala en tu mano, manda el resto al fondo.",
+     "CardID": 119,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_04_Oda_Nobunaga_face_1}}",
+       "BackURL": "{{URL_04_Oda_Nobunaga_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Ceremonia del Té",
+     "Description": "1 Oro · TACTICA\nCoste adicional: sacrifica una Ofrenda, Mira las 6 cartas superiores de tu mazo, elige una y colocala en tu mano, manda el resto al fondo.",
+     "CardID": 119,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_04_Oda_Nobunaga_face_1}}",
+       "BackURL": "{{URL_04_Oda_Nobunaga_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Arte del Engaño",
+     "Description": "1 Oro + F1 · TACTICA\nRegresa a tu mano una unidad tuya del campo. Si estaba en combate, Remuevela del combate.",
+     "CardID": 120,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_04_Oda_Nobunaga_face_1}}",
+       "BackURL": "{{URL_04_Oda_Nobunaga_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Arte del Engaño",
+     "Description": "1 Oro + F1 · TACTICA\nRegresa a tu mano una unidad tuya del campo. Si estaba en combate, Remuevela del combate.",
+     "CardID": 120,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_04_Oda_Nobunaga_face_1}}",
+       "BackURL": "{{URL_04_Oda_Nobunaga_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Arte del Engaño",
+     "Description": "1 Oro + F1 · TACTICA\nRegresa a tu mano una unidad tuya del campo. Si estaba en combate, Remuevela del combate.",
+     "CardID": 120,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_04_Oda_Nobunaga_face_1}}",
+       "BackURL": "{{URL_04_Oda_Nobunaga_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Seppuku",
+     "Description": "1 Oro · TACTICA\nComo coste adicional, sacrifica una Tropa. Una tropa gana +3 Poder e IMPARABLE este turno. Al final del turno, destrúyela.",
+     "CardID": 121,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_04_Oda_Nobunaga_face_1}}",
+       "BackURL": "{{URL_04_Oda_Nobunaga_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Seppuku",
+     "Description": "1 Oro · TACTICA\nComo coste adicional, sacrifica una Tropa. Una tropa gana +3 Poder e IMPARABLE este turno. Al final del turno, destrúyela.",
+     "CardID": 121,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_04_Oda_Nobunaga_face_1}}",
+       "BackURL": "{{URL_04_Oda_Nobunaga_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Bomba de Humo",
+     "Description": "2 Oro · TACTICA\nUna Tropa que controle un oponente no puede bloquear este turno. Roba 1 carta.",
+     "CardID": 122,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_04_Oda_Nobunaga_face_1}}",
+       "BackURL": "{{URL_04_Oda_Nobunaga_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Bomba de Humo",
+     "Description": "2 Oro · TACTICA\nUna Tropa que controle un oponente no puede bloquear este turno. Roba 1 carta.",
+     "CardID": 122,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_04_Oda_Nobunaga_face_1}}",
+       "BackURL": "{{URL_04_Oda_Nobunaga_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Bomba de Humo",
+     "Description": "2 Oro · TACTICA\nUna Tropa que controle un oponente no puede bloquear este turno. Roba 1 carta.",
+     "CardID": 122,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_04_Oda_Nobunaga_face_1}}",
+       "BackURL": "{{URL_04_Oda_Nobunaga_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Dardo Envenenado",
+     "Description": "2 Oro · TACTICA\nAl comienzo del próximo Amanecer de su controlador, destruye un Soporte objetivo que controle un oponente.",
+     "CardID": 123,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_04_Oda_Nobunaga_face_1}}",
+       "BackURL": "{{URL_04_Oda_Nobunaga_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Dardo Envenenado",
+     "Description": "2 Oro · TACTICA\nAl comienzo del próximo Amanecer de su controlador, destruye un Soporte objetivo que controle un oponente.",
+     "CardID": 123,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_04_Oda_Nobunaga_face_1}}",
+       "BackURL": "{{URL_04_Oda_Nobunaga_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Nagashino, Muralla de Arcabuces",
+     "Description": "4 Oro + F1 · EVENTO\nCansa hasta tres Tropas que controle un oponente. Luego, las Tropas Cansadas de tus oponentes pierden 3 Poder este turno. Las que lleguen a 0 Poder de esta manera son destruidas.",
+     "CardID": 124,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_04_Oda_Nobunaga_face_1}}",
+       "BackURL": "{{URL_04_Oda_Nobunaga_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Asalto de Iga",
+     "Description": "7 Oro + F2 · EVENTO\nRegresa a la mano de sus dueños todas las Tropas que controlen tus oponentes Cansadas. Después, cansa todas las Tropas que controlen tus oponentes.",
+     "CardID": 125,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_04_Oda_Nobunaga_face_1}}",
+       "BackURL": "{{URL_04_Oda_Nobunaga_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Tenka Fubu",
+     "Description": "8 Oro + F3 · EVENTO\nDestruye todas las Tropas que controlen tus oponentes.",
+     "CardID": 126,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_04_Oda_Nobunaga_face_1}}",
+       "BackURL": "{{URL_04_Oda_Nobunaga_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    }
+   ]
+  },
+  {
+   "Name": "Card",
+   "Transform": {
+    "posX": -4,
+    "posY": 1.5,
+    "posZ": 0,
+    "rotX": 0,
+    "rotY": 180,
+    "rotZ": 0,
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+   },
+   "Nickname": "Oda Nobunaga",
+   "Description": "EMPERADOR\nCuando una Tropa de un oponente quede Cansada por una carta o habilidad tuya, Una vez por turno PAGA 1 MORAL. Si lo haces, esa Tropa pierde 2 Poder este turno, hasta un mínimo de 1.",
+   "CardID": 127,
+   "SidewaysCard": false,
+   "CustomDeck": {
+    "1": {
+     "FaceURL": "{{URL_04_Oda_Nobunaga_face_1}}",
+     "BackURL": "{{URL_04_Oda_Nobunaga_back}}",
+     "NumWidth": 10,
+     "NumHeight": 3,
+     "BackIsHidden": true,
+     "UniqueBack": false,
+     "Type": 0
+    }
+   }
+  },
+  {
+   "Name": "Deck",
+   "Transform": {
+    "posX": 4,
+    "posY": 1.5,
+    "posZ": 0,
+    "rotX": 0,
+    "rotY": 180,
+    "rotZ": 180,
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+   },
+   "Nickname": "Oda Nobunaga — Oros (12)",
+   "Description": "IMPERIUM · Capa 1 · v2.15",
+   "DeckIDs": [
+    200,
+    200,
+    200,
+    200,
+    200,
+    200,
+    200,
+    200,
+    201,
+    201,
+    201,
+    201
+   ],
+   "CustomDeck": {
+    "2": {
+     "FaceURL": "{{URL_04_Oda_Nobunaga_face_2}}",
+     "BackURL": "{{URL_04_Oda_Nobunaga_back}}",
+     "NumWidth": 10,
+     "NumHeight": 1,
+     "BackIsHidden": true,
+     "UniqueBack": false,
+     "Type": 0
+    }
+   },
+   "ContainedObjects": [
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Astucia",
+     "Description": "ORO\n",
+     "CardID": 200,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "2": {
+       "FaceURL": "{{URL_04_Oda_Nobunaga_face_2}}",
+       "BackURL": "{{URL_04_Oda_Nobunaga_back}}",
+       "NumWidth": 10,
+       "NumHeight": 1,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Astucia",
+     "Description": "ORO\n",
+     "CardID": 200,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "2": {
+       "FaceURL": "{{URL_04_Oda_Nobunaga_face_2}}",
+       "BackURL": "{{URL_04_Oda_Nobunaga_back}}",
+       "NumWidth": 10,
+       "NumHeight": 1,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Astucia",
+     "Description": "ORO\n",
+     "CardID": 200,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "2": {
+       "FaceURL": "{{URL_04_Oda_Nobunaga_face_2}}",
+       "BackURL": "{{URL_04_Oda_Nobunaga_back}}",
+       "NumWidth": 10,
+       "NumHeight": 1,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Astucia",
+     "Description": "ORO\n",
+     "CardID": 200,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "2": {
+       "FaceURL": "{{URL_04_Oda_Nobunaga_face_2}}",
+       "BackURL": "{{URL_04_Oda_Nobunaga_back}}",
+       "NumWidth": 10,
+       "NumHeight": 1,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Astucia",
+     "Description": "ORO\n",
+     "CardID": 200,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "2": {
+       "FaceURL": "{{URL_04_Oda_Nobunaga_face_2}}",
+       "BackURL": "{{URL_04_Oda_Nobunaga_back}}",
+       "NumWidth": 10,
+       "NumHeight": 1,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Astucia",
+     "Description": "ORO\n",
+     "CardID": 200,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "2": {
+       "FaceURL": "{{URL_04_Oda_Nobunaga_face_2}}",
+       "BackURL": "{{URL_04_Oda_Nobunaga_back}}",
+       "NumWidth": 10,
+       "NumHeight": 1,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Astucia",
+     "Description": "ORO\n",
+     "CardID": 200,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "2": {
+       "FaceURL": "{{URL_04_Oda_Nobunaga_face_2}}",
+       "BackURL": "{{URL_04_Oda_Nobunaga_back}}",
+       "NumWidth": 10,
+       "NumHeight": 1,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Astucia",
+     "Description": "ORO\n",
+     "CardID": 200,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "2": {
+       "FaceURL": "{{URL_04_Oda_Nobunaga_face_2}}",
+       "BackURL": "{{URL_04_Oda_Nobunaga_back}}",
+       "NumWidth": 10,
+       "NumHeight": 1,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Ambición",
+     "Description": "ORO\n",
+     "CardID": 201,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "2": {
+       "FaceURL": "{{URL_04_Oda_Nobunaga_face_2}}",
+       "BackURL": "{{URL_04_Oda_Nobunaga_back}}",
+       "NumWidth": 10,
+       "NumHeight": 1,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Ambición",
+     "Description": "ORO\n",
+     "CardID": 201,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "2": {
+       "FaceURL": "{{URL_04_Oda_Nobunaga_face_2}}",
+       "BackURL": "{{URL_04_Oda_Nobunaga_back}}",
+       "NumWidth": 10,
+       "NumHeight": 1,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Ambición",
+     "Description": "ORO\n",
+     "CardID": 201,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "2": {
+       "FaceURL": "{{URL_04_Oda_Nobunaga_face_2}}",
+       "BackURL": "{{URL_04_Oda_Nobunaga_back}}",
+       "NumWidth": 10,
+       "NumHeight": 1,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Ambición",
+     "Description": "ORO\n",
+     "CardID": 201,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "2": {
+       "FaceURL": "{{URL_04_Oda_Nobunaga_face_2}}",
+       "BackURL": "{{URL_04_Oda_Nobunaga_back}}",
+       "NumWidth": 10,
+       "NumHeight": 1,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    }
+   ]
+  },
+  {
+   "Name": "Deck",
+   "Transform": {
+    "posX": 8,
+    "posY": 1.5,
+    "posZ": 0,
+    "rotX": 0,
+    "rotY": 180,
+    "rotZ": 180,
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+   },
+   "Nickname": "Oda Nobunaga — Fichas Ofrenda (6)",
+   "Description": "IMPERIUM · Capa 1 · v2.15",
+   "DeckIDs": [
+    202,
+    202,
+    202,
+    202,
+    202,
+    202
+   ],
+   "CustomDeck": {
+    "2": {
+     "FaceURL": "{{URL_04_Oda_Nobunaga_face_2}}",
+     "BackURL": "{{URL_04_Oda_Nobunaga_back}}",
+     "NumWidth": 10,
+     "NumHeight": 1,
+     "BackIsHidden": true,
+     "UniqueBack": false,
+     "Type": 0
+    }
+   },
+   "ContainedObjects": [
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Ofrenda",
+     "Description": "FICHA\nSacrifica esta Ofrenda: mira las 2 cartas superiores de tu mazo y colócalas de nuevo en la parte superior en el orden que quieras.",
+     "CardID": 202,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "2": {
+       "FaceURL": "{{URL_04_Oda_Nobunaga_face_2}}",
+       "BackURL": "{{URL_04_Oda_Nobunaga_back}}",
+       "NumWidth": 10,
+       "NumHeight": 1,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Ofrenda",
+     "Description": "FICHA\nSacrifica esta Ofrenda: mira las 2 cartas superiores de tu mazo y colócalas de nuevo en la parte superior en el orden que quieras.",
+     "CardID": 202,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "2": {
+       "FaceURL": "{{URL_04_Oda_Nobunaga_face_2}}",
+       "BackURL": "{{URL_04_Oda_Nobunaga_back}}",
+       "NumWidth": 10,
+       "NumHeight": 1,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Ofrenda",
+     "Description": "FICHA\nSacrifica esta Ofrenda: mira las 2 cartas superiores de tu mazo y colócalas de nuevo en la parte superior en el orden que quieras.",
+     "CardID": 202,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "2": {
+       "FaceURL": "{{URL_04_Oda_Nobunaga_face_2}}",
+       "BackURL": "{{URL_04_Oda_Nobunaga_back}}",
+       "NumWidth": 10,
+       "NumHeight": 1,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Ofrenda",
+     "Description": "FICHA\nSacrifica esta Ofrenda: mira las 2 cartas superiores de tu mazo y colócalas de nuevo en la parte superior en el orden que quieras.",
+     "CardID": 202,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "2": {
+       "FaceURL": "{{URL_04_Oda_Nobunaga_face_2}}",
+       "BackURL": "{{URL_04_Oda_Nobunaga_back}}",
+       "NumWidth": 10,
+       "NumHeight": 1,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Ofrenda",
+     "Description": "FICHA\nSacrifica esta Ofrenda: mira las 2 cartas superiores de tu mazo y colócalas de nuevo en la parte superior en el orden que quieras.",
+     "CardID": 202,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "2": {
+       "FaceURL": "{{URL_04_Oda_Nobunaga_face_2}}",
+       "BackURL": "{{URL_04_Oda_Nobunaga_back}}",
+       "NumWidth": 10,
+       "NumHeight": 1,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Ofrenda",
+     "Description": "FICHA\nSacrifica esta Ofrenda: mira las 2 cartas superiores de tu mazo y colócalas de nuevo en la parte superior en el orden que quieras.",
+     "CardID": 202,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "2": {
+       "FaceURL": "{{URL_04_Oda_Nobunaga_face_2}}",
+       "BackURL": "{{URL_04_Oda_Nobunaga_back}}",
+       "NumWidth": 10,
+       "NumHeight": 1,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    }
+   ]
+  }
+ ],
+ "TabStates": {},
+ "VersionNumber": ""
+}

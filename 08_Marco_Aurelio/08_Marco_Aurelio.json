@@ -1,0 +1,2120 @@
+{
+ "SaveName": "IMPERIUM Capa 1 · Marco Aurelio",
+ "GameMode": "",
+ "Gravity": 0.5,
+ "PlayArea": 0.5,
+ "Date": "",
+ "Table": "",
+ "Sky": "",
+ "Note": "",
+ "Rules": "",
+ "XmlUI": "",
+ "LuaScript": "",
+ "LuaScriptState": "",
+ "ObjectStates": [
+  {
+   "Name": "Deck",
+   "Transform": {
+    "posX": 0,
+    "posY": 1.5,
+    "posZ": 0,
+    "rotX": 0,
+    "rotY": 180,
+    "rotZ": 180,
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+   },
+   "Nickname": "Marco Aurelio — Mazo (50)",
+   "Description": "IMPERIUM · Capa 1 · v2.15",
+   "DeckIDs": [
+    100,
+    100,
+    100,
+    100,
+    101,
+    101,
+    101,
+    102,
+    102,
+    102,
+    103,
+    103,
+    103,
+    104,
+    104,
+    104,
+    105,
+    105,
+    106,
+    107,
+    108,
+    109,
+    109,
+    109,
+    110,
+    111,
+    111,
+    112,
+    113,
+    114,
+    115,
+    115,
+    116,
+    117,
+    118,
+    118,
+    118,
+    119,
+    119,
+    120,
+    120,
+    121,
+    122,
+    122,
+    122,
+    123,
+    123,
+    123,
+    124,
+    125
+   ],
+   "CustomDeck": {
+    "1": {
+     "FaceURL": "{{URL_08_Marco_Aurelio_face_1}}",
+     "BackURL": "{{URL_08_Marco_Aurelio_back}}",
+     "NumWidth": 10,
+     "NumHeight": 3,
+     "BackIsHidden": true,
+     "UniqueBack": false,
+     "Type": 0
+    }
+   },
+   "ContainedObjects": [
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Explorador de la Legión",
+     "Description": "2 Oro + F1 · TROPA · P2\nCuando una Tropa Legionario tuya haga daño a la Moral de un oponente, mira la carta superior de tu mazo. Puedes ponerla al fondo.",
+     "CardID": 100,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_08_Marco_Aurelio_face_1}}",
+       "BackURL": "{{URL_08_Marco_Aurelio_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Explorador de la Legión",
+     "Description": "2 Oro + F1 · TROPA · P2\nCuando una Tropa Legionario tuya haga daño a la Moral de un oponente, mira la carta superior de tu mazo. Puedes ponerla al fondo.",
+     "CardID": 100,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_08_Marco_Aurelio_face_1}}",
+       "BackURL": "{{URL_08_Marco_Aurelio_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Explorador de la Legión",
+     "Description": "2 Oro + F1 · TROPA · P2\nCuando una Tropa Legionario tuya haga daño a la Moral de un oponente, mira la carta superior de tu mazo. Puedes ponerla al fondo.",
+     "CardID": 100,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_08_Marco_Aurelio_face_1}}",
+       "BackURL": "{{URL_08_Marco_Aurelio_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Explorador de la Legión",
+     "Description": "2 Oro + F1 · TROPA · P2\nCuando una Tropa Legionario tuya haga daño a la Moral de un oponente, mira la carta superior de tu mazo. Puedes ponerla al fondo.",
+     "CardID": 100,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_08_Marco_Aurelio_face_1}}",
+       "BackURL": "{{URL_08_Marco_Aurelio_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Pretoriano",
+     "Description": "3 Oro · TROPA · P3\nAURA LEGIONARIA — Tus otras Tropas Legionario tienen «Cuando esta Tropa ataque, haz 1 de daño a un Soporte». Este efecto no se acumula.",
+     "CardID": 101,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_08_Marco_Aurelio_face_1}}",
+       "BackURL": "{{URL_08_Marco_Aurelio_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Pretoriano",
+     "Description": "3 Oro · TROPA · P3\nAURA LEGIONARIA — Tus otras Tropas Legionario tienen «Cuando esta Tropa ataque, haz 1 de daño a un Soporte». Este efecto no se acumula.",
+     "CardID": 101,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_08_Marco_Aurelio_face_1}}",
+       "BackURL": "{{URL_08_Marco_Aurelio_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Pretoriano",
+     "Description": "3 Oro · TROPA · P3\nAURA LEGIONARIA — Tus otras Tropas Legionario tienen «Cuando esta Tropa ataque, haz 1 de daño a un Soporte». Este efecto no se acumula.",
+     "CardID": 101,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_08_Marco_Aurelio_face_1}}",
+       "BackURL": "{{URL_08_Marco_Aurelio_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Guardia Urbana",
+     "Description": "3 Oro · TROPA · P3\nGUARDIÁN 2 (Puede bloquear hasta 2 ataques por Asalto).",
+     "CardID": 102,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_08_Marco_Aurelio_face_1}}",
+       "BackURL": "{{URL_08_Marco_Aurelio_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Guardia Urbana",
+     "Description": "3 Oro · TROPA · P3\nGUARDIÁN 2 (Puede bloquear hasta 2 ataques por Asalto).",
+     "CardID": 102,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_08_Marco_Aurelio_face_1}}",
+       "BackURL": "{{URL_08_Marco_Aurelio_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Guardia Urbana",
+     "Description": "3 Oro · TROPA · P3\nGUARDIÁN 2 (Puede bloquear hasta 2 ataques por Asalto).",
+     "CardID": 102,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_08_Marco_Aurelio_face_1}}",
+       "BackURL": "{{URL_08_Marco_Aurelio_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Legionario de la Décima",
+     "Description": "4 Oro · TROPA · P3\nDILIGENTE. Tus otras Tropas Legionario ganan +1 Poder.",
+     "CardID": 103,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_08_Marco_Aurelio_face_1}}",
+       "BackURL": "{{URL_08_Marco_Aurelio_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Legionario de la Décima",
+     "Description": "4 Oro · TROPA · P3\nDILIGENTE. Tus otras Tropas Legionario ganan +1 Poder.",
+     "CardID": 103,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_08_Marco_Aurelio_face_1}}",
+       "BackURL": "{{URL_08_Marco_Aurelio_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Legionario de la Décima",
+     "Description": "4 Oro · TROPA · P3\nDILIGENTE. Tus otras Tropas Legionario ganan +1 Poder.",
+     "CardID": 103,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_08_Marco_Aurelio_face_1}}",
+       "BackURL": "{{URL_08_Marco_Aurelio_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Triario Veterano",
+     "Description": "4 Oro · TROPA · P4\nESCUDO 1. Tus otras Tropas Legionario ganan +1 Poder mientras bloquean.",
+     "CardID": 104,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_08_Marco_Aurelio_face_1}}",
+       "BackURL": "{{URL_08_Marco_Aurelio_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Triario Veterano",
+     "Description": "4 Oro · TROPA · P4\nESCUDO 1. Tus otras Tropas Legionario ganan +1 Poder mientras bloquean.",
+     "CardID": 104,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_08_Marco_Aurelio_face_1}}",
+       "BackURL": "{{URL_08_Marco_Aurelio_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Triario Veterano",
+     "Description": "4 Oro · TROPA · P4\nESCUDO 1. Tus otras Tropas Legionario ganan +1 Poder mientras bloquean.",
+     "CardID": 104,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_08_Marco_Aurelio_face_1}}",
+       "BackURL": "{{URL_08_Marco_Aurelio_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Signifer de la Décima",
+     "Description": "4 Oro · TROPA · P3\nTus otras Tropas Legionario tienen ASALTO 1.",
+     "CardID": 105,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_08_Marco_Aurelio_face_1}}",
+       "BackURL": "{{URL_08_Marco_Aurelio_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Signifer de la Décima",
+     "Description": "4 Oro · TROPA · P3\nTus otras Tropas Legionario tienen ASALTO 1.",
+     "CardID": 105,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_08_Marco_Aurelio_face_1}}",
+       "BackURL": "{{URL_08_Marco_Aurelio_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Faustina la Menor, Madre de los Campamentos",
+     "Description": "4 Oro + F1 · TROPA · P3\nVIGILANTE. La primera vez en cada turno que una Tropa tuya bloquee, gana ESCUDO 1 este combate. Cuando un Asalto de un oponente termine sin hacer daño a tu Moral, recupera 2 Moral.",
+     "CardID": 106,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_08_Marco_Aurelio_face_1}}",
+       "BackURL": "{{URL_08_Marco_Aurelio_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Centurión",
+     "Description": "6 Oro + F1 · TROPA · P5\nVIGILANTE. Tus otras Tropas Legionario tienen ESCUDO 1.",
+     "CardID": 107,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_08_Marco_Aurelio_face_1}}",
+       "BackURL": "{{URL_08_Marco_Aurelio_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Máximo, Último General",
+     "Description": "10 Oro + F2 · TROPA · P9\nVIGILANTE. Al entrar, destruye todas las demás Tropas.",
+     "CardID": 108,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_08_Marco_Aurelio_face_1}}",
+       "BackURL": "{{URL_08_Marco_Aurelio_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Medicus",
+     "Description": "2 Oro · SOPORTE · R4\nUna vez por turno — REACCIÓN: Agota este Soporte: previene los próximos 2 daños a un objetivo este turno.",
+     "CardID": 109,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_08_Marco_Aurelio_face_1}}",
+       "BackURL": "{{URL_08_Marco_Aurelio_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Medicus",
+     "Description": "2 Oro · SOPORTE · R4\nUna vez por turno — REACCIÓN: Agota este Soporte: previene los próximos 2 daños a un objetivo este turno.",
+     "CardID": 109,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_08_Marco_Aurelio_face_1}}",
+       "BackURL": "{{URL_08_Marco_Aurelio_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Medicus",
+     "Description": "2 Oro · SOPORTE · R4\nUna vez por turno — REACCIÓN: Agota este Soporte: previene los próximos 2 daños a un objetivo este turno.",
+     "CardID": 109,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_08_Marco_Aurelio_face_1}}",
+       "BackURL": "{{URL_08_Marco_Aurelio_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Cincinato",
+     "Description": "3 Oro · SOPORTE · R4\nAl entrar, si un oponente controla más Tropas que tú, roba 1 carta. ACCIÓN: redirige hacia Cincinato el ataque de una Tropa.",
+     "CardID": 110,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_08_Marco_Aurelio_face_1}}",
+       "BackURL": "{{URL_08_Marco_Aurelio_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Cicerón",
+     "Description": "4 Oro · SOPORTE · R3\nUna vez por turno — ACCIÓN: Agota este Soporte: si un oponente tiene más cartas en mano que tú, roba 1 carta; de lo contrario, mira las 3 cartas superiores y devuélvelas en cualquier orden.",
+     "CardID": 111,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_08_Marco_Aurelio_face_1}}",
+       "BackURL": "{{URL_08_Marco_Aurelio_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Cicerón",
+     "Description": "4 Oro · SOPORTE · R3\nUna vez por turno — ACCIÓN: Agota este Soporte: si un oponente tiene más cartas en mano que tú, roba 1 carta; de lo contrario, mira las 3 cartas superiores y devuélvelas en cualquier orden.",
+     "CardID": 111,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_08_Marco_Aurelio_face_1}}",
+       "BackURL": "{{URL_08_Marco_Aurelio_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Claudio Pompeyano, Guardián del Danubio",
+     "Description": "4 Oro + F1 · SOPORTE · R4\nLa primera unidad que controle un oponente que se despliegue cada turno cuesta 1 Oro adicional. Si su controlador paga ese coste adicional, entra Cansada.",
+     "CardID": 112,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_08_Marco_Aurelio_face_1}}",
+       "BackURL": "{{URL_08_Marco_Aurelio_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Termas Romanas",
+     "Description": "3 Oro · ESTRUCTURA · R6\nAl entrar, recupera 3 Moral. Al inicio de tu turno recuperas 2 moral.",
+     "CardID": 113,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_08_Marco_Aurelio_face_1}}",
+       "BackURL": "{{URL_08_Marco_Aurelio_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Castrum Romano",
+     "Description": "3 Oro · ESTRUCTURA · R5\nLa primera vez en cada turno que un oponente declare atacantes, puedes redirigir hacia Castrum Romano uno de esos ataques.",
+     "CardID": 114,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_08_Marco_Aurelio_face_1}}",
+       "BackURL": "{{URL_08_Marco_Aurelio_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Curia Julia",
+     "Description": "4 Oro · ESTRUCTURA · R6\nUna vez durante tu turno, elige una Tropa rival de coste 5 o menos. Esa Tropa no puede atacar durante el siguiente turno del oponente.",
+     "CardID": 115,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_08_Marco_Aurelio_face_1}}",
+       "BackURL": "{{URL_08_Marco_Aurelio_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Curia Julia",
+     "Description": "4 Oro · ESTRUCTURA · R6\nUna vez durante tu turno, elige una Tropa rival de coste 5 o menos. Esa Tropa no puede atacar durante el siguiente turno del oponente.",
+     "CardID": 115,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_08_Marco_Aurelio_face_1}}",
+       "BackURL": "{{URL_08_Marco_Aurelio_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Vitis del Centurión",
+     "Description": "2 Oro · ARMAMENTO\nEquipa a una Tropa. La portadora gana +1 Poder. La primera vez en cada turno que bloquee al mismo atacante junto a otra Tropa, ambas ganan +1 Poder ese combate.",
+     "CardID": 116,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_08_Marco_Aurelio_face_1}}",
+       "BackURL": "{{URL_08_Marco_Aurelio_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Águila de la Legión",
+     "Description": "3 Oro · ARMAMENTO\nEquipa a una Tropa. Tus otras Tropas tienen +1 Poder mientras la portadora esté Activa.",
+     "CardID": 117,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_08_Marco_Aurelio_face_1}}",
+       "BackURL": "{{URL_08_Marco_Aurelio_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Bloqueo de Escudos",
+     "Description": "0 Oro + F1 · TACTICA\nUna Tropa tuya gana ESCUDO 2 este turno (Recibe 2 daños menos de cada enfrentamiento de combate).",
+     "CardID": 118,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_08_Marco_Aurelio_face_1}}",
+       "BackURL": "{{URL_08_Marco_Aurelio_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Bloqueo de Escudos",
+     "Description": "0 Oro + F1 · TACTICA\nUna Tropa tuya gana ESCUDO 2 este turno (Recibe 2 daños menos de cada enfrentamiento de combate).",
+     "CardID": 118,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_08_Marco_Aurelio_face_1}}",
+       "BackURL": "{{URL_08_Marco_Aurelio_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Bloqueo de Escudos",
+     "Description": "0 Oro + F1 · TACTICA\nUna Tropa tuya gana ESCUDO 2 este turno (Recibe 2 daños menos de cada enfrentamiento de combate).",
+     "CardID": 118,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_08_Marco_Aurelio_face_1}}",
+       "BackURL": "{{URL_08_Marco_Aurelio_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Diplomacia Romana",
+     "Description": "0 Oro + F1 · TACTICA\nElige una Tropa que controle un oponente. X es su Poder base. Gana control de esa Tropa. Cánsala y desequipa todos sus Armamentos.",
+     "CardID": 119,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_08_Marco_Aurelio_face_1}}",
+       "BackURL": "{{URL_08_Marco_Aurelio_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Diplomacia Romana",
+     "Description": "0 Oro + F1 · TACTICA\nElige una Tropa que controle un oponente. X es su Poder base. Gana control de esa Tropa. Cánsala y desequipa todos sus Armamentos.",
+     "CardID": 119,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_08_Marco_Aurelio_face_1}}",
+       "BackURL": "{{URL_08_Marco_Aurelio_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Formación Testudo",
+     "Description": "1 Oro + F1 · TACTICA\nREACCIÓN — después de declarar bloqueadores: elige una Tropa atacante bloqueada por dos o más Tropas tuyas. Esas Tropas bloqueadoras ganan +1 Poder y ESCUDO 1 este combate.",
+     "CardID": 120,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_08_Marco_Aurelio_face_1}}",
+       "BackURL": "{{URL_08_Marco_Aurelio_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Formación Testudo",
+     "Description": "1 Oro + F1 · TACTICA\nREACCIÓN — después de declarar bloqueadores: elige una Tropa atacante bloqueada por dos o más Tropas tuyas. Esas Tropas bloqueadoras ganan +1 Poder y ESCUDO 1 este combate.",
+     "CardID": 120,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_08_Marco_Aurelio_face_1}}",
+       "BackURL": "{{URL_08_Marco_Aurelio_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Meditaciones",
+     "Description": "1 Oro + F1 · TACTICA\nREACCIÓN: cancela una Táctica de coste 3 o menos. Después, mira las 2 cartas superiores de tu mazo. Deja una en la parte superior y coloca la otra en el fondo.",
+     "CardID": 121,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_08_Marco_Aurelio_face_1}}",
+       "BackURL": "{{URL_08_Marco_Aurelio_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Arbitraje del Senado",
+     "Description": "2 Oro + F1 · TACTICA\nREACCIÓN — cuando una Tropa que controle un oponente sea declarada atacante o bloqueadora: su controlador puede pagar 2 Oros. Si no lo hace, retírala del combate.",
+     "CardID": 122,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_08_Marco_Aurelio_face_1}}",
+       "BackURL": "{{URL_08_Marco_Aurelio_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Arbitraje del Senado",
+     "Description": "2 Oro + F1 · TACTICA\nREACCIÓN — cuando una Tropa que controle un oponente sea declarada atacante o bloqueadora: su controlador puede pagar 2 Oros. Si no lo hace, retírala del combate.",
+     "CardID": 122,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_08_Marco_Aurelio_face_1}}",
+       "BackURL": "{{URL_08_Marco_Aurelio_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Arbitraje del Senado",
+     "Description": "2 Oro + F1 · TACTICA\nREACCIÓN — cuando una Tropa que controle un oponente sea declarada atacante o bloqueadora: su controlador puede pagar 2 Oros. Si no lo hace, retírala del combate.",
+     "CardID": 122,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_08_Marco_Aurelio_face_1}}",
+       "BackURL": "{{URL_08_Marco_Aurelio_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Maniobra Envolvente",
+     "Description": "2 Oro · TACTICA\nCansa cualquier número de unidades que controles; cansa el mismo número de unidades. Las unidades enemigas Cansadas de esta manera no se enderezan durante su próximo Amanecer.",
+     "CardID": 123,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_08_Marco_Aurelio_face_1}}",
+       "BackURL": "{{URL_08_Marco_Aurelio_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Maniobra Envolvente",
+     "Description": "2 Oro · TACTICA\nCansa cualquier número de unidades que controles; cansa el mismo número de unidades. Las unidades enemigas Cansadas de esta manera no se enderezan durante su próximo Amanecer.",
+     "CardID": 123,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_08_Marco_Aurelio_face_1}}",
+       "BackURL": "{{URL_08_Marco_Aurelio_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Maniobra Envolvente",
+     "Description": "2 Oro · TACTICA\nCansa cualquier número de unidades que controles; cansa el mismo número de unidades. Las unidades enemigas Cansadas de esta manera no se enderezan durante su próximo Amanecer.",
+     "CardID": 123,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_08_Marco_Aurelio_face_1}}",
+       "BackURL": "{{URL_08_Marco_Aurelio_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Cruce del Rubicón",
+     "Description": "5 Oro + F1 · EVENTO\nTus Tropas ganan +1 Poder y VIGILANTE este turno. Si controlas 3 o más Tropas Activas, ganan +2 Poder en su lugar.",
+     "CardID": 124,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_08_Marco_Aurelio_face_1}}",
+       "BackURL": "{{URL_08_Marco_Aurelio_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Divide et Impera",
+     "Description": "7 Oro + F1 · EVENTO\nElige un oponente. Ese oponente elige una cantidad de Tropas que controla igual a la mitad de sus Tropas, redondeando hacia arriba. Destruye las Tropas elegidas.",
+     "CardID": 125,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_08_Marco_Aurelio_face_1}}",
+       "BackURL": "{{URL_08_Marco_Aurelio_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    }
+   ]
+  },
+  {
+   "Name": "Card",
+   "Transform": {
+    "posX": -4,
+    "posY": 1.5,
+    "posZ": 0,
+    "rotX": 0,
+    "rotY": 180,
+    "rotZ": 0,
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+   },
+   "Nickname": "Marco Aurelio",
+   "Description": "EMPERADOR\nLa primera Táctica que juegues durante el turno de un oponente cuesta 1 Oro menos.",
+   "CardID": 126,
+   "SidewaysCard": false,
+   "CustomDeck": {
+    "1": {
+     "FaceURL": "{{URL_08_Marco_Aurelio_face_1}}",
+     "BackURL": "{{URL_08_Marco_Aurelio_back}}",
+     "NumWidth": 10,
+     "NumHeight": 3,
+     "BackIsHidden": true,
+     "UniqueBack": false,
+     "Type": 0
+    }
+   }
+  },
+  {
+   "Name": "Deck",
+   "Transform": {
+    "posX": 4,
+    "posY": 1.5,
+    "posZ": 0,
+    "rotX": 0,
+    "rotY": 180,
+    "rotZ": 180,
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+   },
+   "Nickname": "Marco Aurelio — Oros (12)",
+   "Description": "IMPERIUM · Capa 1 · v2.15",
+   "DeckIDs": [
+    200,
+    200,
+    200,
+    200,
+    201,
+    201,
+    201,
+    201,
+    201,
+    201,
+    201,
+    201
+   ],
+   "CustomDeck": {
+    "2": {
+     "FaceURL": "{{URL_08_Marco_Aurelio_face_2}}",
+     "BackURL": "{{URL_08_Marco_Aurelio_back}}",
+     "NumWidth": 10,
+     "NumHeight": 1,
+     "BackIsHidden": true,
+     "UniqueBack": false,
+     "Type": 0
+    }
+   },
+   "ContainedObjects": [
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Astucia",
+     "Description": "ORO\n",
+     "CardID": 200,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "2": {
+       "FaceURL": "{{URL_08_Marco_Aurelio_face_2}}",
+       "BackURL": "{{URL_08_Marco_Aurelio_back}}",
+       "NumWidth": 10,
+       "NumHeight": 1,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Astucia",
+     "Description": "ORO\n",
+     "CardID": 200,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "2": {
+       "FaceURL": "{{URL_08_Marco_Aurelio_face_2}}",
+       "BackURL": "{{URL_08_Marco_Aurelio_back}}",
+       "NumWidth": 10,
+       "NumHeight": 1,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Astucia",
+     "Description": "ORO\n",
+     "CardID": 200,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "2": {
+       "FaceURL": "{{URL_08_Marco_Aurelio_face_2}}",
+       "BackURL": "{{URL_08_Marco_Aurelio_back}}",
+       "NumWidth": 10,
+       "NumHeight": 1,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Astucia",
+     "Description": "ORO\n",
+     "CardID": 200,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "2": {
+       "FaceURL": "{{URL_08_Marco_Aurelio_face_2}}",
+       "BackURL": "{{URL_08_Marco_Aurelio_back}}",
+       "NumWidth": 10,
+       "NumHeight": 1,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Orden",
+     "Description": "ORO\n",
+     "CardID": 201,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "2": {
+       "FaceURL": "{{URL_08_Marco_Aurelio_face_2}}",
+       "BackURL": "{{URL_08_Marco_Aurelio_back}}",
+       "NumWidth": 10,
+       "NumHeight": 1,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Orden",
+     "Description": "ORO\n",
+     "CardID": 201,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "2": {
+       "FaceURL": "{{URL_08_Marco_Aurelio_face_2}}",
+       "BackURL": "{{URL_08_Marco_Aurelio_back}}",
+       "NumWidth": 10,
+       "NumHeight": 1,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Orden",
+     "Description": "ORO\n",
+     "CardID": 201,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "2": {
+       "FaceURL": "{{URL_08_Marco_Aurelio_face_2}}",
+       "BackURL": "{{URL_08_Marco_Aurelio_back}}",
+       "NumWidth": 10,
+       "NumHeight": 1,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Orden",
+     "Description": "ORO\n",
+     "CardID": 201,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "2": {
+       "FaceURL": "{{URL_08_Marco_Aurelio_face_2}}",
+       "BackURL": "{{URL_08_Marco_Aurelio_back}}",
+       "NumWidth": 10,
+       "NumHeight": 1,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Orden",
+     "Description": "ORO\n",
+     "CardID": 201,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "2": {
+       "FaceURL": "{{URL_08_Marco_Aurelio_face_2}}",
+       "BackURL": "{{URL_08_Marco_Aurelio_back}}",
+       "NumWidth": 10,
+       "NumHeight": 1,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Orden",
+     "Description": "ORO\n",
+     "CardID": 201,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "2": {
+       "FaceURL": "{{URL_08_Marco_Aurelio_face_2}}",
+       "BackURL": "{{URL_08_Marco_Aurelio_back}}",
+       "NumWidth": 10,
+       "NumHeight": 1,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Orden",
+     "Description": "ORO\n",
+     "CardID": 201,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "2": {
+       "FaceURL": "{{URL_08_Marco_Aurelio_face_2}}",
+       "BackURL": "{{URL_08_Marco_Aurelio_back}}",
+       "NumWidth": 10,
+       "NumHeight": 1,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Orden",
+     "Description": "ORO\n",
+     "CardID": 201,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "2": {
+       "FaceURL": "{{URL_08_Marco_Aurelio_face_2}}",
+       "BackURL": "{{URL_08_Marco_Aurelio_back}}",
+       "NumWidth": 10,
+       "NumHeight": 1,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    }
+   ]
+  },
+  {
+   "Name": "Deck",
+   "Transform": {
+    "posX": 8,
+    "posY": 1.5,
+    "posZ": 0,
+    "rotX": 0,
+    "rotY": 180,
+    "rotZ": 180,
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+   },
+   "Nickname": "Marco Aurelio — Fichas Vino (4)",
+   "Description": "IMPERIUM · Capa 1 · v2.15",
+   "DeckIDs": [
+    202,
+    202,
+    202,
+    202
+   ],
+   "CustomDeck": {
+    "2": {
+     "FaceURL": "{{URL_08_Marco_Aurelio_face_2}}",
+     "BackURL": "{{URL_08_Marco_Aurelio_back}}",
+     "NumWidth": 10,
+     "NumHeight": 1,
+     "BackIsHidden": true,
+     "UniqueBack": false,
+     "Type": 0
+    }
+   },
+   "ContainedObjects": [
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Vino",
+     "Description": "FICHA\nSacrifica este Vino: recupera 2 Moral.",
+     "CardID": 202,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "2": {
+       "FaceURL": "{{URL_08_Marco_Aurelio_face_2}}",
+       "BackURL": "{{URL_08_Marco_Aurelio_back}}",
+       "NumWidth": 10,
+       "NumHeight": 1,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Vino",
+     "Description": "FICHA\nSacrifica este Vino: recupera 2 Moral.",
+     "CardID": 202,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "2": {
+       "FaceURL": "{{URL_08_Marco_Aurelio_face_2}}",
+       "BackURL": "{{URL_08_Marco_Aurelio_back}}",
+       "NumWidth": 10,
+       "NumHeight": 1,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Vino",
+     "Description": "FICHA\nSacrifica este Vino: recupera 2 Moral.",
+     "CardID": 202,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "2": {
+       "FaceURL": "{{URL_08_Marco_Aurelio_face_2}}",
+       "BackURL": "{{URL_08_Marco_Aurelio_back}}",
+       "NumWidth": 10,
+       "NumHeight": 1,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Vino",
+     "Description": "FICHA\nSacrifica este Vino: recupera 2 Moral.",
+     "CardID": 202,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "2": {
+       "FaceURL": "{{URL_08_Marco_Aurelio_face_2}}",
+       "BackURL": "{{URL_08_Marco_Aurelio_back}}",
+       "NumWidth": 10,
+       "NumHeight": 1,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    }
+   ]
+  }
+ ],
+ "TabStates": {},
+ "VersionNumber": ""
+}

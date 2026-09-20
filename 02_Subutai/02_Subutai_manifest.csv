@@ -1,0 +1,28 @@
+hoja,celda,CardID,ID,carta,copias_en_mazo
+face_1,0,100,IMP-MNG-001,"Lancero Mongol",4
+face_1,1,101,IMP-MNG-021,"Explorador Mongol",4
+face_1,2,102,IMP-MNG-005,"Caballería Ligera",4
+face_1,3,103,IMP-MNG-024,"Jinete Fantasma",2
+face_1,4,104,IMP-MNG-006,"Jinete Arquero",3
+face_1,5,105,IMP-MNG-008,"Catafracta de la Estepa",3
+face_1,6,106,IMP-MNG-012,"Jebe, Flecha del Kan",2
+face_1,7,107,SIG-005,"Uriyangkhadai, Heredero de la Estrategia",1
+face_1,8,108,SIG-004,"Batu Khan, Príncipe de la Campaña Occidental",1
+face_1,9,109,IMP-MNG-018,"Khutulun, la Indomable",1
+face_1,10,110,IMP-MNG-017,"Keshig Imperial, Punta del Gran Kan",1
+face_1,11,111,IMP-MNG-003,"Mensajero Yam",2
+face_1,12,112,IMP-MNG-025,"Bayan de los Cien Ojos",2
+face_1,13,113,IMP-MNG-014,"Torre de Señales del Yam",1
+face_1,14,114,IMP-MNG-004,"Maza de Cabeza de Pera",1
+face_1,15,115,IMP-MNG-010,"Arco Compuesto Mongol",2
+face_1,16,116,IMP-MNG-009,"Embestida Mongola",4
+face_1,17,117,IMP-MNG-023,"Tiro de Retirada",3
+face_1,18,118,IMP-MNG-022,"Cambio de Objetivo",2
+face_1,19,119,IMP-MNG-026,"Retirada Fingida",3
+face_1,20,120,SIG-006,"Mohi, Cruce Bajo la Niebla",1
+face_1,21,121,IMP-MNG-015,"Tierra Arrasada",1
+face_1,22,122,IMP-MNG-020,"Invasión Mongola",2
+face_1,23,123,EMP-MNG-002,"Subutai",1
+face_2,0,200,MONEDA-1,"Conquista",8
+face_2,1,201,MONEDA-2,"Astucia",4
+face_2,2,202,TOK-01,"Suministro",8

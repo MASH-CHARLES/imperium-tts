@@ -1,0 +1,2120 @@
+{
+ "SaveName": "IMPERIUM Capa 1 · Julio César",
+ "GameMode": "",
+ "Gravity": 0.5,
+ "PlayArea": 0.5,
+ "Date": "",
+ "Table": "",
+ "Sky": "",
+ "Note": "",
+ "Rules": "",
+ "XmlUI": "",
+ "LuaScript": "",
+ "LuaScriptState": "",
+ "ObjectStates": [
+  {
+   "Name": "Deck",
+   "Transform": {
+    "posX": 0,
+    "posY": 1.5,
+    "posZ": 0,
+    "rotX": 0,
+    "rotY": 180,
+    "rotZ": 180,
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+   },
+   "Nickname": "Julio César — Mazo (50)",
+   "Description": "IMPERIUM · Capa 1 · v2.15",
+   "DeckIDs": [
+    100,
+    100,
+    100,
+    100,
+    101,
+    101,
+    102,
+    102,
+    103,
+    103,
+    104,
+    104,
+    104,
+    104,
+    105,
+    105,
+    105,
+    105,
+    106,
+    106,
+    106,
+    106,
+    107,
+    108,
+    109,
+    109,
+    110,
+    110,
+    111,
+    112,
+    112,
+    113,
+    114,
+    115,
+    116,
+    116,
+    117,
+    118,
+    119,
+    119,
+    119,
+    120,
+    120,
+    120,
+    121,
+    121,
+    122,
+    122,
+    123,
+    124
+   ],
+   "CustomDeck": {
+    "1": {
+     "FaceURL": "{{URL_07_Julio_Cesar_face_1}}",
+     "BackURL": "{{URL_07_Julio_Cesar_back}}",
+     "NumWidth": 10,
+     "NumHeight": 3,
+     "BackIsHidden": true,
+     "UniqueBack": false,
+     "Type": 0
+    }
+   },
+   "ContainedObjects": [
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Legionario de Primera Línea",
+     "Description": "2 Oro · TROPA · P2\nTus Tropas Legionario tienen +1 Poder mientras atacan una Estructura.",
+     "CardID": 100,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_07_Julio_Cesar_face_1}}",
+       "BackURL": "{{URL_07_Julio_Cesar_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Legionario de Primera Línea",
+     "Description": "2 Oro · TROPA · P2\nTus Tropas Legionario tienen +1 Poder mientras atacan una Estructura.",
+     "CardID": 100,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_07_Julio_Cesar_face_1}}",
+       "BackURL": "{{URL_07_Julio_Cesar_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Legionario de Primera Línea",
+     "Description": "2 Oro · TROPA · P2\nTus Tropas Legionario tienen +1 Poder mientras atacan una Estructura.",
+     "CardID": 100,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_07_Julio_Cesar_face_1}}",
+       "BackURL": "{{URL_07_Julio_Cesar_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Legionario de Primera Línea",
+     "Description": "2 Oro · TROPA · P2\nTus Tropas Legionario tienen +1 Poder mientras atacan una Estructura.",
+     "CardID": 100,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_07_Julio_Cesar_face_1}}",
+       "BackURL": "{{URL_07_Julio_Cesar_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Pretoriano",
+     "Description": "3 Oro · TROPA · P3\nAURA LEGIONARIA — Tus otras Tropas Legionario tienen «Cuando esta Tropa ataque, haz 1 de daño a un Soporte». Este efecto no se acumula.",
+     "CardID": 101,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_07_Julio_Cesar_face_1}}",
+       "BackURL": "{{URL_07_Julio_Cesar_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Pretoriano",
+     "Description": "3 Oro · TROPA · P3\nAURA LEGIONARIA — Tus otras Tropas Legionario tienen «Cuando esta Tropa ataque, haz 1 de daño a un Soporte». Este efecto no se acumula.",
+     "CardID": 101,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_07_Julio_Cesar_face_1}}",
+       "BackURL": "{{URL_07_Julio_Cesar_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Guardia Urbana",
+     "Description": "3 Oro · TROPA · P3\nGUARDIÁN 2 (Puede bloquear hasta 2 ataques por Asalto).",
+     "CardID": 102,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_07_Julio_Cesar_face_1}}",
+       "BackURL": "{{URL_07_Julio_Cesar_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Guardia Urbana",
+     "Description": "3 Oro · TROPA · P3\nGUARDIÁN 2 (Puede bloquear hasta 2 ataques por Asalto).",
+     "CardID": 102,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_07_Julio_Cesar_face_1}}",
+       "BackURL": "{{URL_07_Julio_Cesar_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Équite Romano",
+     "Description": "3 Oro · TROPA · P3\nCARGA (Puede atacar el turno en que entra).",
+     "CardID": 103,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_07_Julio_Cesar_face_1}}",
+       "BackURL": "{{URL_07_Julio_Cesar_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Équite Romano",
+     "Description": "3 Oro · TROPA · P3\nCARGA (Puede atacar el turno en que entra).",
+     "CardID": 103,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_07_Julio_Cesar_face_1}}",
+       "BackURL": "{{URL_07_Julio_Cesar_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Legionario de la Décima",
+     "Description": "4 Oro · TROPA · P3\nDILIGENTE. Tus otras Tropas Legionario ganan +1 Poder.",
+     "CardID": 104,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_07_Julio_Cesar_face_1}}",
+       "BackURL": "{{URL_07_Julio_Cesar_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Legionario de la Décima",
+     "Description": "4 Oro · TROPA · P3\nDILIGENTE. Tus otras Tropas Legionario ganan +1 Poder.",
+     "CardID": 104,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_07_Julio_Cesar_face_1}}",
+       "BackURL": "{{URL_07_Julio_Cesar_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Legionario de la Décima",
+     "Description": "4 Oro · TROPA · P3\nDILIGENTE. Tus otras Tropas Legionario ganan +1 Poder.",
+     "CardID": 104,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_07_Julio_Cesar_face_1}}",
+       "BackURL": "{{URL_07_Julio_Cesar_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Legionario de la Décima",
+     "Description": "4 Oro · TROPA · P3\nDILIGENTE. Tus otras Tropas Legionario ganan +1 Poder.",
+     "CardID": 104,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_07_Julio_Cesar_face_1}}",
+       "BackURL": "{{URL_07_Julio_Cesar_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Triario Veterano",
+     "Description": "4 Oro · TROPA · P4\nESCUDO 1. Tus otras Tropas Legionario ganan +1 Poder mientras bloquean.",
+     "CardID": 105,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_07_Julio_Cesar_face_1}}",
+       "BackURL": "{{URL_07_Julio_Cesar_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Triario Veterano",
+     "Description": "4 Oro · TROPA · P4\nESCUDO 1. Tus otras Tropas Legionario ganan +1 Poder mientras bloquean.",
+     "CardID": 105,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_07_Julio_Cesar_face_1}}",
+       "BackURL": "{{URL_07_Julio_Cesar_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Triario Veterano",
+     "Description": "4 Oro · TROPA · P4\nESCUDO 1. Tus otras Tropas Legionario ganan +1 Poder mientras bloquean.",
+     "CardID": 105,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_07_Julio_Cesar_face_1}}",
+       "BackURL": "{{URL_07_Julio_Cesar_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Triario Veterano",
+     "Description": "4 Oro · TROPA · P4\nESCUDO 1. Tus otras Tropas Legionario ganan +1 Poder mientras bloquean.",
+     "CardID": 105,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_07_Julio_Cesar_face_1}}",
+       "BackURL": "{{URL_07_Julio_Cesar_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Signifer de la Décima",
+     "Description": "4 Oro · TROPA · P3\nTus otras Tropas Legionario tienen ASALTO 1.",
+     "CardID": 106,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_07_Julio_Cesar_face_1}}",
+       "BackURL": "{{URL_07_Julio_Cesar_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Signifer de la Décima",
+     "Description": "4 Oro · TROPA · P3\nTus otras Tropas Legionario tienen ASALTO 1.",
+     "CardID": 106,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_07_Julio_Cesar_face_1}}",
+       "BackURL": "{{URL_07_Julio_Cesar_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Signifer de la Décima",
+     "Description": "4 Oro · TROPA · P3\nTus otras Tropas Legionario tienen ASALTO 1.",
+     "CardID": 106,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_07_Julio_Cesar_face_1}}",
+       "BackURL": "{{URL_07_Julio_Cesar_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Signifer de la Décima",
+     "Description": "4 Oro · TROPA · P3\nTus otras Tropas Legionario tienen ASALTO 1.",
+     "CardID": 106,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_07_Julio_Cesar_face_1}}",
+       "BackURL": "{{URL_07_Julio_Cesar_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Marco Antonio, Mano Derecha de César",
+     "Description": "5 Oro + F1 · TROPA · P5\nCARGA. Tus otras Tropas Legionario tienen CARGA. Cuando Marco Antonio ataque, tus unidades atacantes ganan +2 Poder este turno.",
+     "CardID": 107,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_07_Julio_Cesar_face_1}}",
+       "BackURL": "{{URL_07_Julio_Cesar_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Tito Labieno, Legado de la Galia",
+     "Description": "5 Oro + F1 · TROPA · P4\nVIGILANTE. Tus otras Tropas Legionario tienen VIGILANTE. Cuando declares bloqueadoras, tus Tropas Legionario bloqueadoras ganan ESCUDO 2 este combate.",
+     "CardID": 108,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_07_Julio_Cesar_face_1}}",
+       "BackURL": "{{URL_07_Julio_Cesar_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Centurión",
+     "Description": "6 Oro + F1 · TROPA · P5\nVIGILANTE. Tus otras Tropas Legionario tienen ESCUDO 1.",
+     "CardID": 109,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_07_Julio_Cesar_face_1}}",
+       "BackURL": "{{URL_07_Julio_Cesar_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Centurión",
+     "Description": "6 Oro + F1 · TROPA · P5\nVIGILANTE. Tus otras Tropas Legionario tienen ESCUDO 1.",
+     "CardID": 109,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_07_Julio_Cesar_face_1}}",
+       "BackURL": "{{URL_07_Julio_Cesar_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Primus Pilus",
+     "Description": "6 Oro + F1 · TROPA · P5\nGUARDIÁN 2. Cuando juegas una tropa legionario robas 1 carta y descartas 1.",
+     "CardID": 110,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_07_Julio_Cesar_face_1}}",
+       "BackURL": "{{URL_07_Julio_Cesar_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Primus Pilus",
+     "Description": "6 Oro + F1 · TROPA · P5\nGUARDIÁN 2. Cuando juegas una tropa legionario robas 1 carta y descartas 1.",
+     "CardID": 110,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_07_Julio_Cesar_face_1}}",
+       "BackURL": "{{URL_07_Julio_Cesar_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Escipión el Africano",
+     "Description": "7 Oro + F1 · TROPA · P7\nCARGA. Cuando ataque, otra Tropa atacante que controles gana ARROLLAR este turno. Cuando una de tus Tropas haga daño a la Moral de un oponente, roba 2 cartas y luego descarta 1 carta.",
+     "CardID": 111,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_07_Julio_Cesar_face_1}}",
+       "BackURL": "{{URL_07_Julio_Cesar_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Medicus",
+     "Description": "2 Oro · SOPORTE · R4\nUna vez por turno — REACCIÓN: Agota este Soporte: previene los próximos 2 daños a un objetivo este turno.",
+     "CardID": 112,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_07_Julio_Cesar_face_1}}",
+       "BackURL": "{{URL_07_Julio_Cesar_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Medicus",
+     "Description": "2 Oro · SOPORTE · R4\nUna vez por turno — REACCIÓN: Agota este Soporte: previene los próximos 2 daños a un objetivo este turno.",
+     "CardID": 112,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_07_Julio_Cesar_face_1}}",
+       "BackURL": "{{URL_07_Julio_Cesar_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Cincinato",
+     "Description": "3 Oro · SOPORTE · R4\nAl entrar, si un oponente controla más Tropas que tú, roba 1 carta. ACCIÓN: redirige hacia Cincinato el ataque de una Tropa.",
+     "CardID": 113,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_07_Julio_Cesar_face_1}}",
+       "BackURL": "{{URL_07_Julio_Cesar_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Termas Romanas",
+     "Description": "3 Oro · ESTRUCTURA · R6\nAl entrar, recupera 3 Moral. Al inicio de tu turno recuperas 2 moral.",
+     "CardID": 114,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_07_Julio_Cesar_face_1}}",
+       "BackURL": "{{URL_07_Julio_Cesar_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Castrum Romano",
+     "Description": "3 Oro · ESTRUCTURA · R5\nLa primera vez en cada turno que un oponente declare atacantes, puedes redirigir hacia Castrum Romano uno de esos ataques.",
+     "CardID": 115,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_07_Julio_Cesar_face_1}}",
+       "BackURL": "{{URL_07_Julio_Cesar_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Pilum Legionario",
+     "Description": "1 Oro · ARMAMENTO\nEquipa a una Tropa. La portadora gana +1 Poder. Una vez por turno — ACCIÓN: Desequipa Pilum Legionario: una Tropa que controles gana CARGA este turno.",
+     "CardID": 116,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_07_Julio_Cesar_face_1}}",
+       "BackURL": "{{URL_07_Julio_Cesar_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Pilum Legionario",
+     "Description": "1 Oro · ARMAMENTO\nEquipa a una Tropa. La portadora gana +1 Poder. Una vez por turno — ACCIÓN: Desequipa Pilum Legionario: una Tropa que controles gana CARGA este turno.",
+     "CardID": 116,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_07_Julio_Cesar_face_1}}",
+       "BackURL": "{{URL_07_Julio_Cesar_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Vitis del Centurión",
+     "Description": "2 Oro · ARMAMENTO\nEquipa a una Tropa. La portadora gana +1 Poder. La primera vez en cada turno que bloquee al mismo atacante junto a otra Tropa, ambas ganan +1 Poder ese combate.",
+     "CardID": 117,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_07_Julio_Cesar_face_1}}",
+       "BackURL": "{{URL_07_Julio_Cesar_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Águila de la Legión",
+     "Description": "3 Oro · ARMAMENTO\nEquipa a una Tropa. Tus otras Tropas tienen +1 Poder mientras la portadora esté Activa.",
+     "CardID": 118,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_07_Julio_Cesar_face_1}}",
+       "BackURL": "{{URL_07_Julio_Cesar_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Bloqueo de Escudos",
+     "Description": "0 Oro + F1 · TACTICA\nUna Tropa tuya gana ESCUDO 2 este turno (Recibe 2 daños menos de cada enfrentamiento de combate).",
+     "CardID": 119,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_07_Julio_Cesar_face_1}}",
+       "BackURL": "{{URL_07_Julio_Cesar_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Bloqueo de Escudos",
+     "Description": "0 Oro + F1 · TACTICA\nUna Tropa tuya gana ESCUDO 2 este turno (Recibe 2 daños menos de cada enfrentamiento de combate).",
+     "CardID": 119,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_07_Julio_Cesar_face_1}}",
+       "BackURL": "{{URL_07_Julio_Cesar_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Bloqueo de Escudos",
+     "Description": "0 Oro + F1 · TACTICA\nUna Tropa tuya gana ESCUDO 2 este turno (Recibe 2 daños menos de cada enfrentamiento de combate).",
+     "CardID": 119,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_07_Julio_Cesar_face_1}}",
+       "BackURL": "{{URL_07_Julio_Cesar_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Formación Testudo",
+     "Description": "1 Oro + F1 · TACTICA\nREACCIÓN — después de declarar bloqueadores: elige una Tropa atacante bloqueada por dos o más Tropas tuyas. Esas Tropas bloqueadoras ganan +1 Poder y ESCUDO 1 este combate.",
+     "CardID": 120,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_07_Julio_Cesar_face_1}}",
+       "BackURL": "{{URL_07_Julio_Cesar_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Formación Testudo",
+     "Description": "1 Oro + F1 · TACTICA\nREACCIÓN — después de declarar bloqueadores: elige una Tropa atacante bloqueada por dos o más Tropas tuyas. Esas Tropas bloqueadoras ganan +1 Poder y ESCUDO 1 este combate.",
+     "CardID": 120,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_07_Julio_Cesar_face_1}}",
+       "BackURL": "{{URL_07_Julio_Cesar_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Formación Testudo",
+     "Description": "1 Oro + F1 · TACTICA\nREACCIÓN — después de declarar bloqueadores: elige una Tropa atacante bloqueada por dos o más Tropas tuyas. Esas Tropas bloqueadoras ganan +1 Poder y ESCUDO 1 este combate.",
+     "CardID": 120,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_07_Julio_Cesar_face_1}}",
+       "BackURL": "{{URL_07_Julio_Cesar_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Arbitraje del Senado",
+     "Description": "2 Oro + F1 · TACTICA\nREACCIÓN — cuando una Tropa que controle un oponente sea declarada atacante o bloqueadora: su controlador puede pagar 2 Oros. Si no lo hace, retírala del combate.",
+     "CardID": 121,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_07_Julio_Cesar_face_1}}",
+       "BackURL": "{{URL_07_Julio_Cesar_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Arbitraje del Senado",
+     "Description": "2 Oro + F1 · TACTICA\nREACCIÓN — cuando una Tropa que controle un oponente sea declarada atacante o bloqueadora: su controlador puede pagar 2 Oros. Si no lo hace, retírala del combate.",
+     "CardID": 121,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_07_Julio_Cesar_face_1}}",
+       "BackURL": "{{URL_07_Julio_Cesar_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Cruce del Rubicón",
+     "Description": "5 Oro + F1 · EVENTO\nTus Tropas ganan +1 Poder y VIGILANTE este turno. Si controlas 3 o más Tropas Activas, ganan +2 Poder en su lugar.",
+     "CardID": 122,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_07_Julio_Cesar_face_1}}",
+       "BackURL": "{{URL_07_Julio_Cesar_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Cruce del Rubicón",
+     "Description": "5 Oro + F1 · EVENTO\nTus Tropas ganan +1 Poder y VIGILANTE este turno. Si controlas 3 o más Tropas Activas, ganan +2 Poder en su lugar.",
+     "CardID": 122,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_07_Julio_Cesar_face_1}}",
+       "BackURL": "{{URL_07_Julio_Cesar_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Alesia, Murallas en Dos Frentes",
+     "Description": "6 Oro + F1 · EVENTO\nTus Legionarios ganan ARROLLAR este turno. Elige hasta dos Tropas que controle un oponente. Una no puede bloquear este turno. La otra no puede atacar durante el siguiente turno de su controlador.",
+     "CardID": 123,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_07_Julio_Cesar_face_1}}",
+       "BackURL": "{{URL_07_Julio_Cesar_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Triunfo del César",
+     "Description": "7 Oro + F1 · EVENTO\nTus Tropas ganan +1 Poder y VIGILANTE este turno. Cada vez que una Tropa tuya ataque este turno, el jugador al que ataque pierde 1 Moral.",
+     "CardID": 124,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_07_Julio_Cesar_face_1}}",
+       "BackURL": "{{URL_07_Julio_Cesar_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    }
+   ]
+  },
+  {
+   "Name": "Card",
+   "Transform": {
+    "posX": -4,
+    "posY": 1.5,
+    "posZ": 0,
+    "rotX": 0,
+    "rotY": 180,
+    "rotZ": 0,
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+   },
+   "Nickname": "Julio César",
+   "Description": "EMPERADOR\nLa primera vez en cada turno que despliegues una Tropa Legionario, mira las 2 cartas superiores de tu mazo. Puedes revelar una Tropa Legionario y ponerla en tu mano. Pon el resto al fondo de tu mazo en cualquier orden.",
+   "CardID": 125,
+   "SidewaysCard": false,
+   "CustomDeck": {
+    "1": {
+     "FaceURL": "{{URL_07_Julio_Cesar_face_1}}",
+     "BackURL": "{{URL_07_Julio_Cesar_back}}",
+     "NumWidth": 10,
+     "NumHeight": 3,
+     "BackIsHidden": true,
+     "UniqueBack": false,
+     "Type": 0
+    }
+   }
+  },
+  {
+   "Name": "Deck",
+   "Transform": {
+    "posX": 4,
+    "posY": 1.5,
+    "posZ": 0,
+    "rotX": 0,
+    "rotY": 180,
+    "rotZ": 180,
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+   },
+   "Nickname": "Julio César — Oros (12)",
+   "Description": "IMPERIUM · Capa 1 · v2.15",
+   "DeckIDs": [
+    200,
+    200,
+    200,
+    200,
+    201,
+    201,
+    201,
+    201,
+    201,
+    201,
+    201,
+    201
+   ],
+   "CustomDeck": {
+    "2": {
+     "FaceURL": "{{URL_07_Julio_Cesar_face_2}}",
+     "BackURL": "{{URL_07_Julio_Cesar_back}}",
+     "NumWidth": 10,
+     "NumHeight": 1,
+     "BackIsHidden": true,
+     "UniqueBack": false,
+     "Type": 0
+    }
+   },
+   "ContainedObjects": [
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Conquista",
+     "Description": "ORO\n",
+     "CardID": 200,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "2": {
+       "FaceURL": "{{URL_07_Julio_Cesar_face_2}}",
+       "BackURL": "{{URL_07_Julio_Cesar_back}}",
+       "NumWidth": 10,
+       "NumHeight": 1,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Conquista",
+     "Description": "ORO\n",
+     "CardID": 200,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "2": {
+       "FaceURL": "{{URL_07_Julio_Cesar_face_2}}",
+       "BackURL": "{{URL_07_Julio_Cesar_back}}",
+       "NumWidth": 10,
+       "NumHeight": 1,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Conquista",
+     "Description": "ORO\n",
+     "CardID": 200,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "2": {
+       "FaceURL": "{{URL_07_Julio_Cesar_face_2}}",
+       "BackURL": "{{URL_07_Julio_Cesar_back}}",
+       "NumWidth": 10,
+       "NumHeight": 1,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Conquista",
+     "Description": "ORO\n",
+     "CardID": 200,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "2": {
+       "FaceURL": "{{URL_07_Julio_Cesar_face_2}}",
+       "BackURL": "{{URL_07_Julio_Cesar_back}}",
+       "NumWidth": 10,
+       "NumHeight": 1,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Orden",
+     "Description": "ORO\n",
+     "CardID": 201,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "2": {
+       "FaceURL": "{{URL_07_Julio_Cesar_face_2}}",
+       "BackURL": "{{URL_07_Julio_Cesar_back}}",
+       "NumWidth": 10,
+       "NumHeight": 1,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Orden",
+     "Description": "ORO\n",
+     "CardID": 201,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "2": {
+       "FaceURL": "{{URL_07_Julio_Cesar_face_2}}",
+       "BackURL": "{{URL_07_Julio_Cesar_back}}",
+       "NumWidth": 10,
+       "NumHeight": 1,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Orden",
+     "Description": "ORO\n",
+     "CardID": 201,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "2": {
+       "FaceURL": "{{URL_07_Julio_Cesar_face_2}}",
+       "BackURL": "{{URL_07_Julio_Cesar_back}}",
+       "NumWidth": 10,
+       "NumHeight": 1,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Orden",
+     "Description": "ORO\n",
+     "CardID": 201,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "2": {
+       "FaceURL": "{{URL_07_Julio_Cesar_face_2}}",
+       "BackURL": "{{URL_07_Julio_Cesar_back}}",
+       "NumWidth": 10,
+       "NumHeight": 1,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Orden",
+     "Description": "ORO\n",
+     "CardID": 201,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "2": {
+       "FaceURL": "{{URL_07_Julio_Cesar_face_2}}",
+       "BackURL": "{{URL_07_Julio_Cesar_back}}",
+       "NumWidth": 10,
+       "NumHeight": 1,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Orden",
+     "Description": "ORO\n",
+     "CardID": 201,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "2": {
+       "FaceURL": "{{URL_07_Julio_Cesar_face_2}}",
+       "BackURL": "{{URL_07_Julio_Cesar_back}}",
+       "NumWidth": 10,
+       "NumHeight": 1,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Orden",
+     "Description": "ORO\n",
+     "CardID": 201,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "2": {
+       "FaceURL": "{{URL_07_Julio_Cesar_face_2}}",
+       "BackURL": "{{URL_07_Julio_Cesar_back}}",
+       "NumWidth": 10,
+       "NumHeight": 1,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Orden",
+     "Description": "ORO\n",
+     "CardID": 201,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "2": {
+       "FaceURL": "{{URL_07_Julio_Cesar_face_2}}",
+       "BackURL": "{{URL_07_Julio_Cesar_back}}",
+       "NumWidth": 10,
+       "NumHeight": 1,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    }
+   ]
+  },
+  {
+   "Name": "Deck",
+   "Transform": {
+    "posX": 8,
+    "posY": 1.5,
+    "posZ": 0,
+    "rotX": 0,
+    "rotY": 180,
+    "rotZ": 180,
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+   },
+   "Nickname": "Julio César — Fichas Vino (4)",
+   "Description": "IMPERIUM · Capa 1 · v2.15",
+   "DeckIDs": [
+    202,
+    202,
+    202,
+    202
+   ],
+   "CustomDeck": {
+    "2": {
+     "FaceURL": "{{URL_07_Julio_Cesar_face_2}}",
+     "BackURL": "{{URL_07_Julio_Cesar_back}}",
+     "NumWidth": 10,
+     "NumHeight": 1,
+     "BackIsHidden": true,
+     "UniqueBack": false,
+     "Type": 0
+    }
+   },
+   "ContainedObjects": [
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Vino",
+     "Description": "FICHA\nSacrifica este Vino: recupera 2 Moral.",
+     "CardID": 202,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "2": {
+       "FaceURL": "{{URL_07_Julio_Cesar_face_2}}",
+       "BackURL": "{{URL_07_Julio_Cesar_back}}",
+       "NumWidth": 10,
+       "NumHeight": 1,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Vino",
+     "Description": "FICHA\nSacrifica este Vino: recupera 2 Moral.",
+     "CardID": 202,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "2": {
+       "FaceURL": "{{URL_07_Julio_Cesar_face_2}}",
+       "BackURL": "{{URL_07_Julio_Cesar_back}}",
+       "NumWidth": 10,
+       "NumHeight": 1,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Vino",
+     "Description": "FICHA\nSacrifica este Vino: recupera 2 Moral.",
+     "CardID": 202,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "2": {
+       "FaceURL": "{{URL_07_Julio_Cesar_face_2}}",
+       "BackURL": "{{URL_07_Julio_Cesar_back}}",
+       "NumWidth": 10,
+       "NumHeight": 1,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Vino",
+     "Description": "FICHA\nSacrifica este Vino: recupera 2 Moral.",
+     "CardID": 202,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "2": {
+       "FaceURL": "{{URL_07_Julio_Cesar_face_2}}",
+       "BackURL": "{{URL_07_Julio_Cesar_back}}",
+       "NumWidth": 10,
+       "NumHeight": 1,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    }
+   ]
+  }
+ ],
+ "TabStates": {},
+ "VersionNumber": ""
+}

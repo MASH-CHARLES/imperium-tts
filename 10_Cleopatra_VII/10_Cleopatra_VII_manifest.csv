@@ -1,0 +1,30 @@
+hoja,celda,CardID,ID,carta,copias_en_mazo
+face_1,0,100,IMP-EGY-001,"Campesino del Nilo",3
+face_1,1,101,IMP-EGY-003,"Lancero Egipcio",3
+face_1,2,102,IMP-EGY-031,"Cobra Sagrada",4
+face_1,3,103,IMP-EGY-028,"Siervo Embalsamado",3
+face_1,4,104,IMP-EGY-002,"Carro de Pi-Ramsés",3
+face_1,5,105,IMP-EGY-004,"Carro Ligero Egipcio",1
+face_1,6,106,IMP-EGY-027,"Sombra de Anubis",2
+face_1,7,107,SIG-029,"Marco Antonio, Triunviro de Oriente",1
+face_1,8,108,IMP-EGY-034,"Devoradora Ammit",1
+face_1,9,109,IMP-EGY-015,"Behemot del Nilo",1
+face_1,10,110,IMP-EGY-017,"Elefante de Guerra Kushita",1
+face_1,11,111,IMP-EGY-032,"Embalsamador",2
+face_1,12,112,IMP-EGY-033,"Sacerdote de Set",3
+face_1,13,113,IMP-EGY-009,"Barca Mercante del Nilo",1
+face_1,14,114,SIG-028,"Charmion, Voz de Isis",1
+face_1,15,115,IMP-EGY-005,"Granero del Nilo",2
+face_1,16,116,IMP-EGY-037,"Necrópolis de Saqqara",1
+face_1,17,117,IMP-EGY-016,"Arco Gigante Kushita",1
+face_1,18,118,IMP-EGY-007,"Cosecha de Emmer",3
+face_1,19,119,IMP-EGY-029,"Juicio de Anubis",3
+face_1,20,120,IMP-EGY-030,"Ritual de Momificación",2
+face_1,21,121,IMP-EGY-035,"Pacto del Duat",3
+face_1,22,122,IMP-EGY-036,"Tributo al Duat",3
+face_1,23,123,SIG-030,"Maldición de Isis",1
+face_1,24,124,IMP-EGY-038,"Apertura del Duat",1
+face_1,25,125,EMP-EGY-001,"Cleopatra VII",1
+face_2,0,200,MONEDA-3,"Prosperidad",5
+face_2,1,201,MONEDA-4,"Ambición",7
+face_2,2,202,TOK-04,"Grano",8

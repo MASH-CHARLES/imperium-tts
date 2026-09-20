@@ -1,0 +1,2180 @@
+{
+ "SaveName": "IMPERIUM Capa 1 · Toyotomi Hideyoshi",
+ "GameMode": "",
+ "Gravity": 0.5,
+ "PlayArea": 0.5,
+ "Date": "",
+ "Table": "",
+ "Sky": "",
+ "Note": "",
+ "Rules": "",
+ "XmlUI": "",
+ "LuaScript": "",
+ "LuaScriptState": "",
+ "ObjectStates": [
+  {
+   "Name": "Deck",
+   "Transform": {
+    "posX": 0,
+    "posY": 1.5,
+    "posZ": 0,
+    "rotX": 0,
+    "rotY": 180,
+    "rotZ": 180,
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+   },
+   "Nickname": "Toyotomi Hideyoshi — Mazo (50)",
+   "Description": "IMPERIUM · Capa 1 · v2.15",
+   "DeckIDs": [
+    100,
+    100,
+    101,
+    101,
+    101,
+    101,
+    102,
+    102,
+    102,
+    102,
+    103,
+    103,
+    104,
+    104,
+    104,
+    105,
+    105,
+    106,
+    107,
+    108,
+    109,
+    110,
+    110,
+    110,
+    111,
+    111,
+    112,
+    113,
+    113,
+    114,
+    114,
+    115,
+    116,
+    117,
+    117,
+    118,
+    119,
+    120,
+    121,
+    121,
+    122,
+    122,
+    123,
+    124,
+    124,
+    125,
+    125,
+    125,
+    126,
+    127
+   ],
+   "CustomDeck": {
+    "1": {
+     "FaceURL": "{{URL_06_Toyotomi_Hideyoshi_face_1}}",
+     "BackURL": "{{URL_06_Toyotomi_Hideyoshi_back}}",
+     "NumWidth": 10,
+     "NumHeight": 3,
+     "BackIsHidden": true,
+     "UniqueBack": false,
+     "Type": 0
+    }
+   },
+   "ContainedObjects": [
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Ashigaru Explorador",
+     "Description": "1 Oro · TROPA · P1\nAl entrar, una Tropa que controle un oponente no puede bloquear este turno.",
+     "CardID": 100,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_06_Toyotomi_Hideyoshi_face_1}}",
+       "BackURL": "{{URL_06_Toyotomi_Hideyoshi_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Ashigaru Explorador",
+     "Description": "1 Oro · TROPA · P1\nAl entrar, una Tropa que controle un oponente no puede bloquear este turno.",
+     "CardID": 100,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_06_Toyotomi_Hideyoshi_face_1}}",
+       "BackURL": "{{URL_06_Toyotomi_Hideyoshi_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Shinobi de Iga",
+     "Description": "1 Oro + F1 · TROPA · P2\nEMBOSCADA (Puedes desplegarla en la ventana de Tácticas antes de asignar bloqueadoras. Puede bloquear ese combate).",
+     "CardID": 101,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_06_Toyotomi_Hideyoshi_face_1}}",
+       "BackURL": "{{URL_06_Toyotomi_Hideyoshi_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Shinobi de Iga",
+     "Description": "1 Oro + F1 · TROPA · P2\nEMBOSCADA (Puedes desplegarla en la ventana de Tácticas antes de asignar bloqueadoras. Puede bloquear ese combate).",
+     "CardID": 101,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_06_Toyotomi_Hideyoshi_face_1}}",
+       "BackURL": "{{URL_06_Toyotomi_Hideyoshi_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Shinobi de Iga",
+     "Description": "1 Oro + F1 · TROPA · P2\nEMBOSCADA (Puedes desplegarla en la ventana de Tácticas antes de asignar bloqueadoras. Puede bloquear ese combate).",
+     "CardID": 101,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_06_Toyotomi_Hideyoshi_face_1}}",
+       "BackURL": "{{URL_06_Toyotomi_Hideyoshi_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Shinobi de Iga",
+     "Description": "1 Oro + F1 · TROPA · P2\nEMBOSCADA (Puedes desplegarla en la ventana de Tácticas antes de asignar bloqueadoras. Puede bloquear ese combate).",
+     "CardID": 101,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_06_Toyotomi_Hideyoshi_face_1}}",
+       "BackURL": "{{URL_06_Toyotomi_Hideyoshi_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Aldeano del Arroz",
+     "Description": "1 Oro · TROPA · P2\nDILIGENTE (En tu turno, se endereza tras su primer trabajo y no puede volver a trabajar ese turno).",
+     "CardID": 102,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_06_Toyotomi_Hideyoshi_face_1}}",
+       "BackURL": "{{URL_06_Toyotomi_Hideyoshi_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Aldeano del Arroz",
+     "Description": "1 Oro · TROPA · P2\nDILIGENTE (En tu turno, se endereza tras su primer trabajo y no puede volver a trabajar ese turno).",
+     "CardID": 102,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_06_Toyotomi_Hideyoshi_face_1}}",
+       "BackURL": "{{URL_06_Toyotomi_Hideyoshi_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Aldeano del Arroz",
+     "Description": "1 Oro · TROPA · P2\nDILIGENTE (En tu turno, se endereza tras su primer trabajo y no puede volver a trabajar ese turno).",
+     "CardID": 102,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_06_Toyotomi_Hideyoshi_face_1}}",
+       "BackURL": "{{URL_06_Toyotomi_Hideyoshi_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Aldeano del Arroz",
+     "Description": "1 Oro · TROPA · P2\nDILIGENTE (En tu turno, se endereza tras su primer trabajo y no puede volver a trabajar ese turno).",
+     "CardID": 102,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_06_Toyotomi_Hideyoshi_face_1}}",
+       "BackURL": "{{URL_06_Toyotomi_Hideyoshi_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Kunoichi de Kōga",
+     "Description": "2 Oro · TROPA · P2\nAl entrar, una Tropa que controle un oponente pierde 2 Poder este turno, hasta un mínimo de 1.",
+     "CardID": 103,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_06_Toyotomi_Hideyoshi_face_1}}",
+       "BackURL": "{{URL_06_Toyotomi_Hideyoshi_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Kunoichi de Kōga",
+     "Description": "2 Oro · TROPA · P2\nAl entrar, una Tropa que controle un oponente pierde 2 Poder este turno, hasta un mínimo de 1.",
+     "CardID": 103,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_06_Toyotomi_Hideyoshi_face_1}}",
+       "BackURL": "{{URL_06_Toyotomi_Hideyoshi_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Momochi Sandayū",
+     "Description": "4 Oro · TROPA · P3\nEMBOSCADA. Al entrar, mira las 5 cartas superiores de tu mazo; puedes revelar una Táctica o una Tropa Shinobi y ponerla en tu mano. Pon el resto al fondo.",
+     "CardID": 104,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_06_Toyotomi_Hideyoshi_face_1}}",
+       "BackURL": "{{URL_06_Toyotomi_Hideyoshi_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Momochi Sandayū",
+     "Description": "4 Oro · TROPA · P3\nEMBOSCADA. Al entrar, mira las 5 cartas superiores de tu mazo; puedes revelar una Táctica o una Tropa Shinobi y ponerla en tu mano. Pon el resto al fondo.",
+     "CardID": 104,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_06_Toyotomi_Hideyoshi_face_1}}",
+       "BackURL": "{{URL_06_Toyotomi_Hideyoshi_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Momochi Sandayū",
+     "Description": "4 Oro · TROPA · P3\nEMBOSCADA. Al entrar, mira las 5 cartas superiores de tu mazo; puedes revelar una Táctica o una Tropa Shinobi y ponerla en tu mano. Pon el resto al fondo.",
+     "CardID": 104,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_06_Toyotomi_Hideyoshi_face_1}}",
+       "BackURL": "{{URL_06_Toyotomi_Hideyoshi_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Hattori Hanzō",
+     "Description": "4 Oro · TROPA · P3\nEMBOSCADA. Al entrar, cansa una Tropa que controle un oponente. Una vez por turno — ACCIÓN, solo durante tu turno: FUNDE 1 Oro de Astucia: regresa a Hattori Hanzō a tu mano.",
+     "CardID": 105,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_06_Toyotomi_Hideyoshi_face_1}}",
+       "BackURL": "{{URL_06_Toyotomi_Hideyoshi_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Hattori Hanzō",
+     "Description": "4 Oro · TROPA · P3\nEMBOSCADA. Al entrar, cansa una Tropa que controle un oponente. Una vez por turno — ACCIÓN, solo durante tu turno: FUNDE 1 Oro de Astucia: regresa a Hattori Hanzō a tu mano.",
+     "CardID": 105,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_06_Toyotomi_Hideyoshi_face_1}}",
+       "BackURL": "{{URL_06_Toyotomi_Hideyoshi_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Takenaka Hanbei, Estratega de Mino",
+     "Description": "5 Oro + F1 · TROPA · P3\nAl entrar, mira las cinco primeras cartas de tu mazo. Puedes revelar una Táctica/Estructura y ponerla en tu mano. Pon el resto al fondo en cualquier orden. Juega la carta sin pagar su costo este turno.",
+     "CardID": 106,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_06_Toyotomi_Hideyoshi_face_1}}",
+       "BackURL": "{{URL_06_Toyotomi_Hideyoshi_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Katō Kiyomasa, Constructor de Castillos",
+     "Description": "5 Oro + F1 · TROPA · P5\nDILIGENTE. Katō Trabaja solo una vez por turno. Cuando Katō trabaje una Estructura, después de activarla, endereza a Katō. Luego, Katō gana +1 Poder por el resto de la partida.",
+     "CardID": 107,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_06_Toyotomi_Hideyoshi_face_1}}",
+       "BackURL": "{{URL_06_Toyotomi_Hideyoshi_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Tomoe Gozen",
+     "Description": "6 Oro + F1 · TROPA · P5\nEMBOSCADA. FILO VELOZ. Al entrar, todas las Tropas que controlen tus oponentes pierden 3 Poder este turno, hasta un mínimo de 1.",
+     "CardID": 108,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_06_Toyotomi_Hideyoshi_face_1}}",
+       "BackURL": "{{URL_06_Toyotomi_Hideyoshi_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Date Masamune",
+     "Description": "10 Oro + F3 · TROPA · P8\nCARGA. Al entrar, hasta el final del turno, tus oponentes no pueden jugar Tácticas. Puedes jugar este turno un Evento Histórico de tu descarte sin pagar su coste.",
+     "CardID": 109,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_06_Toyotomi_Hideyoshi_face_1}}",
+       "BackURL": "{{URL_06_Toyotomi_Hideyoshi_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Carpintero de Templos",
+     "Description": "1 Oro · SOPORTE · R2\nDILIGENTE. Una vez por turno — ACCIÓN: Agota este Soporte: tu próxima estructura cuesta 2 Oro menos este turno.",
+     "CardID": 110,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_06_Toyotomi_Hideyoshi_face_1}}",
+       "BackURL": "{{URL_06_Toyotomi_Hideyoshi_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Carpintero de Templos",
+     "Description": "1 Oro · SOPORTE · R2\nDILIGENTE. Una vez por turno — ACCIÓN: Agota este Soporte: tu próxima estructura cuesta 2 Oro menos este turno.",
+     "CardID": 110,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_06_Toyotomi_Hideyoshi_face_1}}",
+       "BackURL": "{{URL_06_Toyotomi_Hideyoshi_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Carpintero de Templos",
+     "Description": "1 Oro · SOPORTE · R2\nDILIGENTE. Una vez por turno — ACCIÓN: Agota este Soporte: tu próxima estructura cuesta 2 Oro menos este turno.",
+     "CardID": 110,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_06_Toyotomi_Hideyoshi_face_1}}",
+       "BackURL": "{{URL_06_Toyotomi_Hideyoshi_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Maiko Danzante",
+     "Description": "2 Oro · SOPORTE · R4\nDILIGENTE. Una vez por turno — ACCIÓN: Agota este Soporte: crea 1 Ofrenda.",
+     "CardID": 111,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_06_Toyotomi_Hideyoshi_face_1}}",
+       "BackURL": "{{URL_06_Toyotomi_Hideyoshi_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Maiko Danzante",
+     "Description": "2 Oro · SOPORTE · R4\nDILIGENTE. Una vez por turno — ACCIÓN: Agota este Soporte: crea 1 Ofrenda.",
+     "CardID": 111,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_06_Toyotomi_Hideyoshi_face_1}}",
+       "BackURL": "{{URL_06_Toyotomi_Hideyoshi_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Murasaki Shikibu",
+     "Description": "4 Oro · SOPORTE · R3\nUna vez por turno — ACCIÓN: Agota este Soporte: mira las 5 cartas superiores de tu mazo; puedes revelar un Evento Histórico o un Soporte y ponerlo en tu mano. Pon el resto al fondo.",
+     "CardID": 112,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_06_Toyotomi_Hideyoshi_face_1}}",
+       "BackURL": "{{URL_06_Toyotomi_Hideyoshi_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Dōjō del Bakufu",
+     "Description": "2 Oro · ESTRUCTURA · R5\nUna vez por turno — REACCIÓN: Agota 1 unidad: otra Tropa tuya gana FILO VELOZ este combate. Si ya tenía FILO VELOZ, gana +2 Poder este turno en su lugar.",
+     "CardID": 113,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_06_Toyotomi_Hideyoshi_face_1}}",
+       "BackURL": "{{URL_06_Toyotomi_Hideyoshi_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Dōjō del Bakufu",
+     "Description": "2 Oro · ESTRUCTURA · R5\nUna vez por turno — REACCIÓN: Agota 1 unidad: otra Tropa tuya gana FILO VELOZ este combate. Si ya tenía FILO VELOZ, gana +2 Poder este turno en su lugar.",
+     "CardID": 113,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_06_Toyotomi_Hideyoshi_face_1}}",
+       "BackURL": "{{URL_06_Toyotomi_Hideyoshi_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Aldea Fortificada de Iga",
+     "Description": "3 Oro · ESTRUCTURA · R5\nUna vez por turno — REACCIÓN: Agota 1 unidad: mira las 5 cartas superiores de tu mazo. Puedes revelar una Tropa y ponerla en tu mano. Puedes desplegar esa Tropa este turno como si tuviera EMBOSCADA pagando su coste. Pon el resto al fondo de tu mazo.",
+     "CardID": 114,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_06_Toyotomi_Hideyoshi_face_1}}",
+       "BackURL": "{{URL_06_Toyotomi_Hideyoshi_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Aldea Fortificada de Iga",
+     "Description": "3 Oro · ESTRUCTURA · R5\nUna vez por turno — REACCIÓN: Agota 1 unidad: mira las 5 cartas superiores de tu mazo. Puedes revelar una Tropa y ponerla en tu mano. Puedes desplegar esa Tropa este turno como si tuviera EMBOSCADA pagando su coste. Pon el resto al fondo de tu mazo.",
+     "CardID": 114,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_06_Toyotomi_Hideyoshi_face_1}}",
+       "BackURL": "{{URL_06_Toyotomi_Hideyoshi_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Forja Sakai",
+     "Description": "3 Oro · ESTRUCTURA · R5\nUna vez por turno — ACCIÓN: Agota 1 unidad: mira las 6 cartas superiores de tu mazo. Puedes revelar un Armamento y ponerlo en tu mano. Pon el resto al fondo de tu mazo.",
+     "CardID": 115,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_06_Toyotomi_Hideyoshi_face_1}}",
+       "BackURL": "{{URL_06_Toyotomi_Hideyoshi_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Sunomata, Castillo de una Noche",
+     "Description": "3 Oro + F1 · ESTRUCTURA · R5\nSunomata solo puede trabajarse durante tu fase de combate. Una vez por turno — ACCIÓN: Agota 1 unidad: despliega una unidad con EMBOSCADA de tu mano atacando. Al final del turno, devuélvela a tu mano.",
+     "CardID": 116,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_06_Toyotomi_Hideyoshi_face_1}}",
+       "BackURL": "{{URL_06_Toyotomi_Hideyoshi_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Castillo de Osaka",
+     "Description": "7 Oro + F1 · ESTRUCTURA · R9\nCada oponente debe pagar 1 Oro por cada Tropa que declare como atacante. Una vez por turno — ACCIÓN: Agota 1 unidad Arquero o Fusilero: haz 5 de daño a una Tropa que controle un oponente.",
+     "CardID": 117,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_06_Toyotomi_Hideyoshi_face_1}}",
+       "BackURL": "{{URL_06_Toyotomi_Hideyoshi_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Castillo de Osaka",
+     "Description": "7 Oro + F1 · ESTRUCTURA · R9\nCada oponente debe pagar 1 Oro por cada Tropa que declare como atacante. Una vez por turno — ACCIÓN: Agota 1 unidad Arquero o Fusilero: haz 5 de daño a una Tropa que controle un oponente.",
+     "CardID": 117,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_06_Toyotomi_Hideyoshi_face_1}}",
+       "BackURL": "{{URL_06_Toyotomi_Hideyoshi_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Arco Yumi de Yabusame",
+     "Description": "1 Oro + F1 · ARMAMENTO\nEquipa a una Tropa. La portadora gana +1 Poder; gana +2 en su lugar si es Arquero. Tiene FILO VELOZ mientras ataca.",
+     "CardID": 118,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_06_Toyotomi_Hideyoshi_face_1}}",
+       "BackURL": "{{URL_06_Toyotomi_Hideyoshi_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Kusarigama de Iga",
+     "Description": "2 Oro · ARMAMENTO\nEquipa a una Tropa. La portadora gana +1 Poder. Cuando ataque, cansa una unidad que controle un oponente.",
+     "CardID": 119,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_06_Toyotomi_Hideyoshi_face_1}}",
+       "BackURL": "{{URL_06_Toyotomi_Hideyoshi_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Arcabuz Tanegashima",
+     "Description": "2 Oro + F1 · ARMAMENTO\nEquipa a una Tropa. La portadora gana +2 Poder y es IMPARABLE mientras ataca un Soporte o una Estructura.",
+     "CardID": 120,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_06_Toyotomi_Hideyoshi_face_1}}",
+       "BackURL": "{{URL_06_Toyotomi_Hideyoshi_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Daishō de Linaje de Kioto",
+     "Description": "2 Oro + F1 · ARMAMENTO\nEquipa a una Tropa. La portadora gana +3 Poder. Cuando la portadora abandone el campo, puedes equipar Daishō de Linaje de Kioto a otra Tropa legal que controles.",
+     "CardID": 121,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_06_Toyotomi_Hideyoshi_face_1}}",
+       "BackURL": "{{URL_06_Toyotomi_Hideyoshi_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Daishō de Linaje de Kioto",
+     "Description": "2 Oro + F1 · ARMAMENTO\nEquipa a una Tropa. La portadora gana +3 Poder. Cuando la portadora abandone el campo, puedes equipar Daishō de Linaje de Kioto a otra Tropa legal que controles.",
+     "CardID": 121,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_06_Toyotomi_Hideyoshi_face_1}}",
+       "BackURL": "{{URL_06_Toyotomi_Hideyoshi_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Ceremonia del Té",
+     "Description": "1 Oro · TACTICA\nCoste adicional: sacrifica una Ofrenda, Mira las 6 cartas superiores de tu mazo, elige una y colocala en tu mano, manda el resto al fondo.",
+     "CardID": 122,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_06_Toyotomi_Hideyoshi_face_1}}",
+       "BackURL": "{{URL_06_Toyotomi_Hideyoshi_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Ceremonia del Té",
+     "Description": "1 Oro · TACTICA\nCoste adicional: sacrifica una Ofrenda, Mira las 6 cartas superiores de tu mazo, elige una y colocala en tu mano, manda el resto al fondo.",
+     "CardID": 122,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_06_Toyotomi_Hideyoshi_face_1}}",
+       "BackURL": "{{URL_06_Toyotomi_Hideyoshi_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Emboscada",
+     "Description": "1 Oro · TACTICA\nDespliega una Tropa de coste 4 o menos de tu mano pagando su coste.",
+     "CardID": 123,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_06_Toyotomi_Hideyoshi_face_1}}",
+       "BackURL": "{{URL_06_Toyotomi_Hideyoshi_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Arte del Engaño",
+     "Description": "1 Oro + F1 · TACTICA\nRegresa a tu mano una unidad tuya del campo. Si estaba en combate, Remuevela del combate.",
+     "CardID": 124,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_06_Toyotomi_Hideyoshi_face_1}}",
+       "BackURL": "{{URL_06_Toyotomi_Hideyoshi_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Arte del Engaño",
+     "Description": "1 Oro + F1 · TACTICA\nRegresa a tu mano una unidad tuya del campo. Si estaba en combate, Remuevela del combate.",
+     "CardID": 124,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_06_Toyotomi_Hideyoshi_face_1}}",
+       "BackURL": "{{URL_06_Toyotomi_Hideyoshi_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Bomba de Humo",
+     "Description": "2 Oro · TACTICA\nUna Tropa que controle un oponente no puede bloquear este turno. Roba 1 carta.",
+     "CardID": 125,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_06_Toyotomi_Hideyoshi_face_1}}",
+       "BackURL": "{{URL_06_Toyotomi_Hideyoshi_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Bomba de Humo",
+     "Description": "2 Oro · TACTICA\nUna Tropa que controle un oponente no puede bloquear este turno. Roba 1 carta.",
+     "CardID": 125,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_06_Toyotomi_Hideyoshi_face_1}}",
+       "BackURL": "{{URL_06_Toyotomi_Hideyoshi_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Bomba de Humo",
+     "Description": "2 Oro · TACTICA\nUna Tropa que controle un oponente no puede bloquear este turno. Roba 1 carta.",
+     "CardID": 125,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_06_Toyotomi_Hideyoshi_face_1}}",
+       "BackURL": "{{URL_06_Toyotomi_Hideyoshi_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Botín del Daimyō",
+     "Description": "3 Oro + F1 · TACTICA\nGana control de un Armamento que controle un oponente y desequípalo. Puedes equiparlo inmediatamente a una portadora legal que controles sin pagar su coste de Equipar.",
+     "CardID": 126,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_06_Toyotomi_Hideyoshi_face_1}}",
+       "BackURL": "{{URL_06_Toyotomi_Hideyoshi_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Asalto de Iga",
+     "Description": "7 Oro + F2 · EVENTO\nRegresa a la mano de sus dueños todas las Tropas que controlen tus oponentes Cansadas. Después, cansa todas las Tropas que controlen tus oponentes.",
+     "CardID": 127,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "{{URL_06_Toyotomi_Hideyoshi_face_1}}",
+       "BackURL": "{{URL_06_Toyotomi_Hideyoshi_back}}",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    }
+   ]
+  },
+  {
+   "Name": "Card",
+   "Transform": {
+    "posX": -4,
+    "posY": 1.5,
+    "posZ": 0,
+    "rotX": 0,
+    "rotY": 180,
+    "rotZ": 0,
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+   },
+   "Nickname": "Toyotomi Hideyoshi",
+   "Description": "EMPERADOR\nLa primera vez en cada turno que trabajes una Estructura, tu próxima Táctica cuesta 1 Oro menos hasta tu siguiente Amanecer.",
+   "CardID": 128,
+   "SidewaysCard": false,
+   "CustomDeck": {
+    "1": {
+     "FaceURL": "{{URL_06_Toyotomi_Hideyoshi_face_1}}",
+     "BackURL": "{{URL_06_Toyotomi_Hideyoshi_back}}",
+     "NumWidth": 10,
+     "NumHeight": 3,
+     "BackIsHidden": true,
+     "UniqueBack": false,
+     "Type": 0
+    }
+   }
+  },
+  {
+   "Name": "Deck",
+   "Transform": {
+    "posX": 4,
+    "posY": 1.5,
+    "posZ": 0,
+    "rotX": 0,
+    "rotY": 180,
+    "rotZ": 180,
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+   },
+   "Nickname": "Toyotomi Hideyoshi — Oros (12)",
+   "Description": "IMPERIUM · Capa 1 · v2.15",
+   "DeckIDs": [
+    200,
+    200,
+    200,
+    200,
+    200,
+    200,
+    200,
+    200,
+    201,
+    201,
+    201,
+    201
+   ],
+   "CustomDeck": {
+    "2": {
+     "FaceURL": "{{URL_06_Toyotomi_Hideyoshi_face_2}}",
+     "BackURL": "{{URL_06_Toyotomi_Hideyoshi_back}}",
+     "NumWidth": 10,
+     "NumHeight": 1,
+     "BackIsHidden": true,
+     "UniqueBack": false,
+     "Type": 0
+    }
+   },
+   "ContainedObjects": [
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Astucia",
+     "Description": "ORO\n",
+     "CardID": 200,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "2": {
+       "FaceURL": "{{URL_06_Toyotomi_Hideyoshi_face_2}}",
+       "BackURL": "{{URL_06_Toyotomi_Hideyoshi_back}}",
+       "NumWidth": 10,
+       "NumHeight": 1,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Astucia",
+     "Description": "ORO\n",
+     "CardID": 200,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "2": {
+       "FaceURL": "{{URL_06_Toyotomi_Hideyoshi_face_2}}",
+       "BackURL": "{{URL_06_Toyotomi_Hideyoshi_back}}",
+       "NumWidth": 10,
+       "NumHeight": 1,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Astucia",
+     "Description": "ORO\n",
+     "CardID": 200,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "2": {
+       "FaceURL": "{{URL_06_Toyotomi_Hideyoshi_face_2}}",
+       "BackURL": "{{URL_06_Toyotomi_Hideyoshi_back}}",
+       "NumWidth": 10,
+       "NumHeight": 1,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Astucia",
+     "Description": "ORO\n",
+     "CardID": 200,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "2": {
+       "FaceURL": "{{URL_06_Toyotomi_Hideyoshi_face_2}}",
+       "BackURL": "{{URL_06_Toyotomi_Hideyoshi_back}}",
+       "NumWidth": 10,
+       "NumHeight": 1,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Astucia",
+     "Description": "ORO\n",
+     "CardID": 200,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "2": {
+       "FaceURL": "{{URL_06_Toyotomi_Hideyoshi_face_2}}",
+       "BackURL": "{{URL_06_Toyotomi_Hideyoshi_back}}",
+       "NumWidth": 10,
+       "NumHeight": 1,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Astucia",
+     "Description": "ORO\n",
+     "CardID": 200,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "2": {
+       "FaceURL": "{{URL_06_Toyotomi_Hideyoshi_face_2}}",
+       "BackURL": "{{URL_06_Toyotomi_Hideyoshi_back}}",
+       "NumWidth": 10,
+       "NumHeight": 1,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Astucia",
+     "Description": "ORO\n",
+     "CardID": 200,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "2": {
+       "FaceURL": "{{URL_06_Toyotomi_Hideyoshi_face_2}}",
+       "BackURL": "{{URL_06_Toyotomi_Hideyoshi_back}}",
+       "NumWidth": 10,
+       "NumHeight": 1,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Astucia",
+     "Description": "ORO\n",
+     "CardID": 200,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "2": {
+       "FaceURL": "{{URL_06_Toyotomi_Hideyoshi_face_2}}",
+       "BackURL": "{{URL_06_Toyotomi_Hideyoshi_back}}",
+       "NumWidth": 10,
+       "NumHeight": 1,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Legado",
+     "Description": "ORO\n",
+     "CardID": 201,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "2": {
+       "FaceURL": "{{URL_06_Toyotomi_Hideyoshi_face_2}}",
+       "BackURL": "{{URL_06_Toyotomi_Hideyoshi_back}}",
+       "NumWidth": 10,
+       "NumHeight": 1,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Legado",
+     "Description": "ORO\n",
+     "CardID": 201,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "2": {
+       "FaceURL": "{{URL_06_Toyotomi_Hideyoshi_face_2}}",
+       "BackURL": "{{URL_06_Toyotomi_Hideyoshi_back}}",
+       "NumWidth": 10,
+       "NumHeight": 1,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Legado",
+     "Description": "ORO\n",
+     "CardID": 201,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "2": {
+       "FaceURL": "{{URL_06_Toyotomi_Hideyoshi_face_2}}",
+       "BackURL": "{{URL_06_Toyotomi_Hideyoshi_back}}",
+       "NumWidth": 10,
+       "NumHeight": 1,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Legado",
+     "Description": "ORO\n",
+     "CardID": 201,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "2": {
+       "FaceURL": "{{URL_06_Toyotomi_Hideyoshi_face_2}}",
+       "BackURL": "{{URL_06_Toyotomi_Hideyoshi_back}}",
+       "NumWidth": 10,
+       "NumHeight": 1,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    }
+   ]
+  },
+  {
+   "Name": "Deck",
+   "Transform": {
+    "posX": 8,
+    "posY": 1.5,
+    "posZ": 0,
+    "rotX": 0,
+    "rotY": 180,
+    "rotZ": 180,
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+   },
+   "Nickname": "Toyotomi Hideyoshi — Fichas Ofrenda (6)",
+   "Description": "IMPERIUM · Capa 1 · v2.15",
+   "DeckIDs": [
+    202,
+    202,
+    202,
+    202,
+    202,
+    202
+   ],
+   "CustomDeck": {
+    "2": {
+     "FaceURL": "{{URL_06_Toyotomi_Hideyoshi_face_2}}",
+     "BackURL": "{{URL_06_Toyotomi_Hideyoshi_back}}",
+     "NumWidth": 10,
+     "NumHeight": 1,
+     "BackIsHidden": true,
+     "UniqueBack": false,
+     "Type": 0
+    }
+   },
+   "ContainedObjects": [
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Ofrenda",
+     "Description": "FICHA\nSacrifica esta Ofrenda: mira las 2 cartas superiores de tu mazo y colócalas de nuevo en la parte superior en el orden que quieras.",
+     "CardID": 202,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "2": {
+       "FaceURL": "{{URL_06_Toyotomi_Hideyoshi_face_2}}",
+       "BackURL": "{{URL_06_Toyotomi_Hideyoshi_back}}",
+       "NumWidth": 10,
+       "NumHeight": 1,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Ofrenda",
+     "Description": "FICHA\nSacrifica esta Ofrenda: mira las 2 cartas superiores de tu mazo y colócalas de nuevo en la parte superior en el orden que quieras.",
+     "CardID": 202,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "2": {
+       "FaceURL": "{{URL_06_Toyotomi_Hideyoshi_face_2}}",
+       "BackURL": "{{URL_06_Toyotomi_Hideyoshi_back}}",
+       "NumWidth": 10,
+       "NumHeight": 1,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Ofrenda",
+     "Description": "FICHA\nSacrifica esta Ofrenda: mira las 2 cartas superiores de tu mazo y colócalas de nuevo en la parte superior en el orden que quieras.",
+     "CardID": 202,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "2": {
+       "FaceURL": "{{URL_06_Toyotomi_Hideyoshi_face_2}}",
+       "BackURL": "{{URL_06_Toyotomi_Hideyoshi_back}}",
+       "NumWidth": 10,
+       "NumHeight": 1,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Ofrenda",
+     "Description": "FICHA\nSacrifica esta Ofrenda: mira las 2 cartas superiores de tu mazo y colócalas de nuevo en la parte superior en el orden que quieras.",
+     "CardID": 202,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "2": {
+       "FaceURL": "{{URL_06_Toyotomi_Hideyoshi_face_2}}",
+       "BackURL": "{{URL_06_Toyotomi_Hideyoshi_back}}",
+       "NumWidth": 10,
+       "NumHeight": 1,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Ofrenda",
+     "Description": "FICHA\nSacrifica esta Ofrenda: mira las 2 cartas superiores de tu mazo y colócalas de nuevo en la parte superior en el orden que quieras.",
+     "CardID": 202,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "2": {
+       "FaceURL": "{{URL_06_Toyotomi_Hideyoshi_face_2}}",
+       "BackURL": "{{URL_06_Toyotomi_Hideyoshi_back}}",
+       "NumWidth": 10,
+       "NumHeight": 1,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Ofrenda",
+     "Description": "FICHA\nSacrifica esta Ofrenda: mira las 2 cartas superiores de tu mazo y colócalas de nuevo en la parte superior en el orden que quieras.",
+     "CardID": 202,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "2": {
+       "FaceURL": "{{URL_06_Toyotomi_Hideyoshi_face_2}}",
+       "BackURL": "{{URL_06_Toyotomi_Hideyoshi_back}}",
+       "NumWidth": 10,
+       "NumHeight": 1,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    }
+   ]
+  }
+ ],
+ "TabStates": {},
+ "VersionNumber": ""
+}
