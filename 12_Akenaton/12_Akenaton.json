@@ -26,7 +26,7 @@
     "scaleZ": 1
    },
    "Nickname": "Akenatón — Mazo (50)",
-   "Description": "IMPERIUM · Capa 1 · v2.15",
+   "Description": "IMPERIUM · Capa 1 · Compendio v2.19 · Mazos v0.2",
    "DeckIDs": [
     100,
     100,
@@ -42,7 +42,7 @@
     103,
     103,
     104,
-    104,
+    105,
     105,
     106,
     107,
@@ -62,12 +62,12 @@
     116,
     116,
     117,
-    117,
     118,
     119,
+    119,
+    120,
     120,
     121,
-    122,
     122,
     123,
     123,
@@ -81,8 +81,8 @@
    ],
    "CustomDeck": {
     "1": {
-     "FaceURL": "{{URL_12_Akenaton_face_1}}",
-     "BackURL": "{{URL_12_Akenaton_back}}",
+     "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_face_1.png",
+     "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_back.png",
      "NumWidth": 10,
      "NumHeight": 3,
      "BackIsHidden": true,
@@ -110,8 +110,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "{{URL_12_Akenaton_face_1}}",
-       "BackURL": "{{URL_12_Akenaton_back}}",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_face_1.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_back.png",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -139,8 +139,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "{{URL_12_Akenaton_face_1}}",
-       "BackURL": "{{URL_12_Akenaton_back}}",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_face_1.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_back.png",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -168,8 +168,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "{{URL_12_Akenaton_face_1}}",
-       "BackURL": "{{URL_12_Akenaton_back}}",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_face_1.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_back.png",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -197,8 +197,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "{{URL_12_Akenaton_face_1}}",
-       "BackURL": "{{URL_12_Akenaton_back}}",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_face_1.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_back.png",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -226,8 +226,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "{{URL_12_Akenaton_face_1}}",
-       "BackURL": "{{URL_12_Akenaton_back}}",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_face_1.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_back.png",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -255,8 +255,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "{{URL_12_Akenaton_face_1}}",
-       "BackURL": "{{URL_12_Akenaton_back}}",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_face_1.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_back.png",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -284,8 +284,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "{{URL_12_Akenaton_face_1}}",
-       "BackURL": "{{URL_12_Akenaton_back}}",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_face_1.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_back.png",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -313,8 +313,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "{{URL_12_Akenaton_face_1}}",
-       "BackURL": "{{URL_12_Akenaton_back}}",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_face_1.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_back.png",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -342,8 +342,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "{{URL_12_Akenaton_face_1}}",
-       "BackURL": "{{URL_12_Akenaton_back}}",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_face_1.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_back.png",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -371,8 +371,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "{{URL_12_Akenaton_face_1}}",
-       "BackURL": "{{URL_12_Akenaton_back}}",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_face_1.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_back.png",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -400,8 +400,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "{{URL_12_Akenaton_face_1}}",
-       "BackURL": "{{URL_12_Akenaton_back}}",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_face_1.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_back.png",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -429,8 +429,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "{{URL_12_Akenaton_face_1}}",
-       "BackURL": "{{URL_12_Akenaton_back}}",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_face_1.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_back.png",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -458,8 +458,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "{{URL_12_Akenaton_face_1}}",
-       "BackURL": "{{URL_12_Akenaton_back}}",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_face_1.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_back.png",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -487,37 +487,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "{{URL_12_Akenaton_face_1}}",
-       "BackURL": "{{URL_12_Akenaton_back}}",
-       "NumWidth": 10,
-       "NumHeight": 3,
-       "BackIsHidden": true,
-       "UniqueBack": false,
-       "Type": 0
-      }
-     }
-    },
-    {
-     "Name": "Card",
-     "Transform": {
-      "posX": 0,
-      "posY": 0,
-      "posZ": 0,
-      "rotX": 0,
-      "rotY": 180,
-      "rotZ": 180,
-      "scaleX": 1,
-      "scaleY": 1,
-      "scaleZ": 1
-     },
-     "Nickname": "Carro Ligero Egipcio",
-     "Description": "3 Oro · TROPA · P4\nSolo puede ser bloqueado por Tropas Lancero o Caballería.",
-     "CardID": 104,
-     "SidewaysCard": false,
-     "CustomDeck": {
-      "1": {
-       "FaceURL": "{{URL_12_Akenaton_face_1}}",
-       "BackURL": "{{URL_12_Akenaton_back}}",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_face_1.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_back.png",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -545,8 +516,37 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "{{URL_12_Akenaton_face_1}}",
-       "BackURL": "{{URL_12_Akenaton_back}}",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_face_1.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_back.png",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Guardia de Karnak",
+     "Description": "4 Oro · TROPA · P5\nCuando bloquee una Tropa Asesino, gana +2 Poder y ESCUDO 1 ese combate.",
+     "CardID": 105,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_face_1.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_back.png",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -569,13 +569,13 @@
       "scaleZ": 1
      },
      "Nickname": "Nefertiti, Gran Esposa de Atón",
-     "Description": "4 Oro + F1 · TROPA · P3\nLa primera vez en cada turno que trabajes una Estructura, recupera 1 Moral. Si esa Estructura cuesta 5 o más, añade 1 Oro Cansado a tu Tesoro.",
+     "Description": "4 Oro + F1 · TROPA · P3 · General de Akenatón\nLa primera vez en cada turno que trabajes una Estructura, recupera 1 Moral. Si esa Estructura cuesta 5 o más, añade 1 Oro Cansado a tu Tesoro.",
      "CardID": 106,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "{{URL_12_Akenaton_face_1}}",
-       "BackURL": "{{URL_12_Akenaton_back}}",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_face_1.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_back.png",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -603,8 +603,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "{{URL_12_Akenaton_face_1}}",
-       "BackURL": "{{URL_12_Akenaton_back}}",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_face_1.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_back.png",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -632,8 +632,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "{{URL_12_Akenaton_face_1}}",
-       "BackURL": "{{URL_12_Akenaton_back}}",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_face_1.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_back.png",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -661,8 +661,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "{{URL_12_Akenaton_face_1}}",
-       "BackURL": "{{URL_12_Akenaton_back}}",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_face_1.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_back.png",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -690,8 +690,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "{{URL_12_Akenaton_face_1}}",
-       "BackURL": "{{URL_12_Akenaton_back}}",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_face_1.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_back.png",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -719,8 +719,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "{{URL_12_Akenaton_face_1}}",
-       "BackURL": "{{URL_12_Akenaton_back}}",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_face_1.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_back.png",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -748,8 +748,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "{{URL_12_Akenaton_face_1}}",
-       "BackURL": "{{URL_12_Akenaton_back}}",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_face_1.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_back.png",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -777,8 +777,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "{{URL_12_Akenaton_face_1}}",
-       "BackURL": "{{URL_12_Akenaton_back}}",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_face_1.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_back.png",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -806,8 +806,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "{{URL_12_Akenaton_face_1}}",
-       "BackURL": "{{URL_12_Akenaton_back}}",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_face_1.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_back.png",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -835,8 +835,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "{{URL_12_Akenaton_face_1}}",
-       "BackURL": "{{URL_12_Akenaton_back}}",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_face_1.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_back.png",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -864,8 +864,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "{{URL_12_Akenaton_face_1}}",
-       "BackURL": "{{URL_12_Akenaton_back}}",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_face_1.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_back.png",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -888,13 +888,13 @@
       "scaleZ": 1
      },
      "Nickname": "Tutmose, Maestro de Amarna",
-     "Description": "4 Oro + F1 · SOPORTE · R4\nAl entrar, devuelve una Estructura de tu descarte a tu mano. Cuando Tutmose trabaje una Estructura, puedes agotar otra unidad. Si lo haces, activa esa Estructura una segunda vez.",
+     "Description": "4 Oro + F1 · SOPORTE · R4 · General de Akenatón\nAl entrar, devuelve una Estructura de tu descarte a tu mano. Cuando Tutmose trabaje una Estructura, puedes agotar otra unidad. Si lo haces, activa esa Estructura una segunda vez.",
      "CardID": 114,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "{{URL_12_Akenaton_face_1}}",
-       "BackURL": "{{URL_12_Akenaton_back}}",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_face_1.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_back.png",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -917,13 +917,13 @@
       "scaleZ": 1
      },
      "Nickname": "Granero del Nilo",
-     "Description": "3 Oro · ESTRUCTURA · R5\nAl entrar, crea 1 Grano. Una vez por turno — ACCIÓN: Agota 1 unidad: crea 1 Grano.",
+     "Description": "3 Oro · ESTRUCTURA · R5 · ⚒1\nAl entrar, crea 1 Grano. Una vez por turno — ACCIÓN: Agota 1 unidad: crea 1 Grano.",
      "CardID": 115,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "{{URL_12_Akenaton_face_1}}",
-       "BackURL": "{{URL_12_Akenaton_back}}",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_face_1.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_back.png",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -946,13 +946,13 @@
       "scaleZ": 1
      },
      "Nickname": "Granero del Nilo",
-     "Description": "3 Oro · ESTRUCTURA · R5\nAl entrar, crea 1 Grano. Una vez por turno — ACCIÓN: Agota 1 unidad: crea 1 Grano.",
+     "Description": "3 Oro · ESTRUCTURA · R5 · ⚒1\nAl entrar, crea 1 Grano. Una vez por turno — ACCIÓN: Agota 1 unidad: crea 1 Grano.",
      "CardID": 115,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "{{URL_12_Akenaton_face_1}}",
-       "BackURL": "{{URL_12_Akenaton_back}}",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_face_1.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_back.png",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -975,13 +975,13 @@
       "scaleZ": 1
      },
      "Nickname": "Granero del Nilo",
-     "Description": "3 Oro · ESTRUCTURA · R5\nAl entrar, crea 1 Grano. Una vez por turno — ACCIÓN: Agota 1 unidad: crea 1 Grano.",
+     "Description": "3 Oro · ESTRUCTURA · R5 · ⚒1\nAl entrar, crea 1 Grano. Una vez por turno — ACCIÓN: Agota 1 unidad: crea 1 Grano.",
      "CardID": 115,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "{{URL_12_Akenaton_face_1}}",
-       "BackURL": "{{URL_12_Akenaton_back}}",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_face_1.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_back.png",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1004,13 +1004,13 @@
       "scaleZ": 1
      },
      "Nickname": "Mercado de Tebas",
-     "Description": "3 Oro · ESTRUCTURA · R5\nUna vez por turno — ACCIÓN: Agota 1 unidad y funde 1 Oro de Prosperidad: gana 2 Oros temporales este turno.",
+     "Description": "3 Oro · ESTRUCTURA · R5 · ⚒1\nUna vez por turno — ACCIÓN: Agota 1 unidad y funde 1 Oro de Prosperidad: gana 2 Oros temporales este turno.",
      "CardID": 116,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "{{URL_12_Akenaton_face_1}}",
-       "BackURL": "{{URL_12_Akenaton_back}}",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_face_1.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_back.png",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1033,13 +1033,13 @@
       "scaleZ": 1
      },
      "Nickname": "Mercado de Tebas",
-     "Description": "3 Oro · ESTRUCTURA · R5\nUna vez por turno — ACCIÓN: Agota 1 unidad y funde 1 Oro de Prosperidad: gana 2 Oros temporales este turno.",
+     "Description": "3 Oro · ESTRUCTURA · R5 · ⚒1\nUna vez por turno — ACCIÓN: Agota 1 unidad y funde 1 Oro de Prosperidad: gana 2 Oros temporales este turno.",
      "CardID": 116,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "{{URL_12_Akenaton_face_1}}",
-       "BackURL": "{{URL_12_Akenaton_back}}",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_face_1.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_back.png",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1062,42 +1062,13 @@
       "scaleZ": 1
      },
      "Nickname": "Casa de la Vida",
-     "Description": "3 Oro · ESTRUCTURA · R5\nTus soportes ganan +1 resistencia.  Una vez por turno — ACCIÓN: Agota 1 unidad:puedes regresar un Soporte de coste 3 o menos de tu descarte a tu mano.",
+     "Description": "3 Oro · ESTRUCTURA · R5 · ⚒1\nTus soportes ganan +1 resistencia.  Una vez por turno — ACCIÓN: Agota 1 unidad:puedes regresar un Soporte de coste 3 o menos de tu descarte a tu mano.",
      "CardID": 117,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "{{URL_12_Akenaton_face_1}}",
-       "BackURL": "{{URL_12_Akenaton_back}}",
-       "NumWidth": 10,
-       "NumHeight": 3,
-       "BackIsHidden": true,
-       "UniqueBack": false,
-       "Type": 0
-      }
-     }
-    },
-    {
-     "Name": "Card",
-     "Transform": {
-      "posX": 0,
-      "posY": 0,
-      "posZ": 0,
-      "rotX": 0,
-      "rotY": 180,
-      "rotZ": 180,
-      "scaleX": 1,
-      "scaleY": 1,
-      "scaleZ": 1
-     },
-     "Nickname": "Casa de la Vida",
-     "Description": "3 Oro · ESTRUCTURA · R5\nTus soportes ganan +1 resistencia.  Una vez por turno — ACCIÓN: Agota 1 unidad:puedes regresar un Soporte de coste 3 o menos de tu descarte a tu mano.",
-     "CardID": 117,
-     "SidewaysCard": false,
-     "CustomDeck": {
-      "1": {
-       "FaceURL": "{{URL_12_Akenaton_face_1}}",
-       "BackURL": "{{URL_12_Akenaton_back}}",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_face_1.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_back.png",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1120,13 +1091,13 @@
       "scaleZ": 1
      },
      "Nickname": "Obelisco de Ra",
-     "Description": "4 Oro · ESTRUCTURA · R5\nUna vez por turno — REACCIÓN: Agota 1 unidad y elige una Estructura tuya que no sea Obelisco de Ra: la primera vez que fuera a ser destruida este turno, elimina todo el daño marcado en ella en su lugar.",
+     "Description": "4 Oro · ESTRUCTURA · R5 · ⚒1\nUna vez por turno — REACCIÓN: Agota 1 unidad y elige una Estructura tuya que no sea Obelisco de Ra: la primera vez que fuera a ser destruida este turno, elimina todo el daño marcado en ella en su lugar.",
      "CardID": 118,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "{{URL_12_Akenaton_face_1}}",
-       "BackURL": "{{URL_12_Akenaton_back}}",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_face_1.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_back.png",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1149,13 +1120,42 @@
       "scaleZ": 1
      },
      "Nickname": "Templo de Karnak",
-     "Description": "6 Oro + F1 · ESTRUCTURA · R8\nUna vez por turno — ACCIÓN: Agota 2 unidades y elige dos opciones diferentes: gana 3 Oros temporales este turno; recupera 3 Moral; una Estructura gana +3 Resistencia; tu próxima Tropa de coste 6 o más cuesta 2 Oros menos este turno.",
+     "Description": "6 Oro + F1 · ESTRUCTURA · R8 · ⚒2\nUna vez por turno — ACCIÓN: Agota 2 unidades y elige dos opciones diferentes: gana 3 Oros temporales este turno; recupera 3 Moral; una Estructura gana +3 Resistencia; tu próxima Tropa de coste 6 o más cuesta 2 Oros menos este turno.",
      "CardID": 119,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "{{URL_12_Akenaton_face_1}}",
-       "BackURL": "{{URL_12_Akenaton_back}}",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_face_1.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_back.png",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Templo de Karnak",
+     "Description": "6 Oro + F1 · ESTRUCTURA · R8 · ⚒2\nUna vez por turno — ACCIÓN: Agota 2 unidades y elige dos opciones diferentes: gana 3 Oros temporales este turno; recupera 3 Moral; una Estructura gana +3 Resistencia; tu próxima Tropa de coste 6 o más cuesta 2 Oros menos este turno.",
+     "CardID": 119,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_face_1.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_back.png",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1178,13 +1178,42 @@
       "scaleZ": 1
      },
      "Nickname": "Faro de Alejandría",
-     "Description": "7 Oro + F1 · ESTRUCTURA · R9\nUna vez por turno — ACCIÓN: Agota 1 unidades: mira las 6 cartas superiores de tu mazo; puedes revelar una carta de coste 5 o más y ponerlo en tu mano. Pon el resto al fondo de tu mazo.",
+     "Description": "7 Oro + F1 · ESTRUCTURA · R9 · ⚒1\nUna vez por turno — ACCIÓN: Agota 1 unidades: mira las 6 cartas superiores de tu mazo; puedes revelar una carta de coste 5 o más y ponerlo en tu mano. Pon el resto al fondo de tu mazo.",
      "CardID": 120,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "{{URL_12_Akenaton_face_1}}",
-       "BackURL": "{{URL_12_Akenaton_back}}",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_face_1.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_back.png",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Faro de Alejandría",
+     "Description": "7 Oro + F1 · ESTRUCTURA · R9 · ⚒1\nUna vez por turno — ACCIÓN: Agota 1 unidades: mira las 6 cartas superiores de tu mazo; puedes revelar una carta de coste 5 o más y ponerlo en tu mano. Pon el resto al fondo de tu mazo.",
+     "CardID": 120,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_face_1.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_back.png",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1207,13 +1236,13 @@
       "scaleZ": 1
      },
      "Nickname": "Pirámide de Giza",
-     "Description": "9 Oro + F2 · ESTRUCTURA · R11\nACCIÓN: Agota 10 unidades. Durante tu próximo Amanecer, si Pirámide de Giza sigue en juego, ganas la partida.",
+     "Description": "9 Oro + F2 · ESTRUCTURA · R11 · ⚒10\nACCIÓN: Agota 10 unidades. Durante tu próximo Amanecer, si Pirámide de Giza sigue en juego, ganas la partida.",
      "CardID": 121,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "{{URL_12_Akenaton_face_1}}",
-       "BackURL": "{{URL_12_Akenaton_back}}",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_face_1.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_back.png",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1236,42 +1265,13 @@
       "scaleZ": 1
      },
      "Nickname": "Arco Gigante Kushita",
-     "Description": "4 Oro · ARMAMENTO\nEquipa a una Tropa. La portadora gana +2 Poder. Si controlas entre 6 y 9 Oros, gana +3 Poder en su lugar. Si controlas 10 o más Oros, gana +5 Poder en su lugar.",
+     "Description": "4 Oro · Equipar 4 · ARMAMENTO\nEquipa a una Tropa. La portadora gana +2 Poder. Si controlas entre 6 y 9 Oros, gana +3 Poder en su lugar. Si controlas 10 o más Oros, gana +5 Poder en su lugar.",
      "CardID": 122,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "{{URL_12_Akenaton_face_1}}",
-       "BackURL": "{{URL_12_Akenaton_back}}",
-       "NumWidth": 10,
-       "NumHeight": 3,
-       "BackIsHidden": true,
-       "UniqueBack": false,
-       "Type": 0
-      }
-     }
-    },
-    {
-     "Name": "Card",
-     "Transform": {
-      "posX": 0,
-      "posY": 0,
-      "posZ": 0,
-      "rotX": 0,
-      "rotY": 180,
-      "rotZ": 180,
-      "scaleX": 1,
-      "scaleY": 1,
-      "scaleZ": 1
-     },
-     "Nickname": "Arco Gigante Kushita",
-     "Description": "4 Oro · ARMAMENTO\nEquipa a una Tropa. La portadora gana +2 Poder. Si controlas entre 6 y 9 Oros, gana +3 Poder en su lugar. Si controlas 10 o más Oros, gana +5 Poder en su lugar.",
-     "CardID": 122,
-     "SidewaysCard": false,
-     "CustomDeck": {
-      "1": {
-       "FaceURL": "{{URL_12_Akenaton_face_1}}",
-       "BackURL": "{{URL_12_Akenaton_back}}",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_face_1.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_back.png",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1294,13 +1294,13 @@
       "scaleZ": 1
      },
      "Nickname": "Cosecha de Emmer",
-     "Description": "0 Oro · TACTICA\nTu próximo Soporte o Estructura cuesta 1 Oro menos este turno, hasta un mínimo de 1. Crea 1 Grano.",
+     "Description": "0 Oro · TÁCTICA\nTu próximo Soporte o Estructura cuesta 1 Oro menos este turno, hasta un mínimo de 1. Crea 1 Grano.",
      "CardID": 123,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "{{URL_12_Akenaton_face_1}}",
-       "BackURL": "{{URL_12_Akenaton_back}}",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_face_1.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_back.png",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1323,13 +1323,13 @@
       "scaleZ": 1
      },
      "Nickname": "Cosecha de Emmer",
-     "Description": "0 Oro · TACTICA\nTu próximo Soporte o Estructura cuesta 1 Oro menos este turno, hasta un mínimo de 1. Crea 1 Grano.",
+     "Description": "0 Oro · TÁCTICA\nTu próximo Soporte o Estructura cuesta 1 Oro menos este turno, hasta un mínimo de 1. Crea 1 Grano.",
      "CardID": 123,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "{{URL_12_Akenaton_face_1}}",
-       "BackURL": "{{URL_12_Akenaton_back}}",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_face_1.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_back.png",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1352,13 +1352,13 @@
       "scaleZ": 1
      },
      "Nickname": "Cosecha de Emmer",
-     "Description": "0 Oro · TACTICA\nTu próximo Soporte o Estructura cuesta 1 Oro menos este turno, hasta un mínimo de 1. Crea 1 Grano.",
+     "Description": "0 Oro · TÁCTICA\nTu próximo Soporte o Estructura cuesta 1 Oro menos este turno, hasta un mínimo de 1. Crea 1 Grano.",
      "CardID": 123,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "{{URL_12_Akenaton_face_1}}",
-       "BackURL": "{{URL_12_Akenaton_back}}",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_face_1.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_back.png",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1381,13 +1381,13 @@
       "scaleZ": 1
      },
      "Nickname": "Cosecha de Emmer",
-     "Description": "0 Oro · TACTICA\nTu próximo Soporte o Estructura cuesta 1 Oro menos este turno, hasta un mínimo de 1. Crea 1 Grano.",
+     "Description": "0 Oro · TÁCTICA\nTu próximo Soporte o Estructura cuesta 1 Oro menos este turno, hasta un mínimo de 1. Crea 1 Grano.",
      "CardID": 123,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "{{URL_12_Akenaton_face_1}}",
-       "BackURL": "{{URL_12_Akenaton_back}}",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_face_1.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_back.png",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1410,13 +1410,13 @@
       "scaleZ": 1
      },
      "Nickname": "Piedra sobre Piedra",
-     "Description": "0 Oro + F1 · TACTICA\nUna Estructura gana +3 Resistencia este turno. Si fue trabajada este turno, previene los próximos 2 daños que reciba este turno.",
+     "Description": "0 Oro + F1 · TÁCTICA\nUna Estructura gana +3 Resistencia este turno. Si fue trabajada este turno, previene los próximos 2 daños que reciba este turno.",
      "CardID": 124,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "{{URL_12_Akenaton_face_1}}",
-       "BackURL": "{{URL_12_Akenaton_back}}",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_face_1.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_back.png",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1439,13 +1439,13 @@
       "scaleZ": 1
      },
      "Nickname": "Piedra sobre Piedra",
-     "Description": "0 Oro + F1 · TACTICA\nUna Estructura gana +3 Resistencia este turno. Si fue trabajada este turno, previene los próximos 2 daños que reciba este turno.",
+     "Description": "0 Oro + F1 · TÁCTICA\nUna Estructura gana +3 Resistencia este turno. Si fue trabajada este turno, previene los próximos 2 daños que reciba este turno.",
      "CardID": 124,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "{{URL_12_Akenaton_face_1}}",
-       "BackURL": "{{URL_12_Akenaton_back}}",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_face_1.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_back.png",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1468,13 +1468,13 @@
       "scaleZ": 1
      },
      "Nickname": "Crecida del Nilo",
-     "Description": "4 Oro · EVENTO\nCada jugador recibe 2 Oros de sus Arcas a su Tesoro. Luego, cada jugador endereza hasta 4 Oros de su Tesoro.",
+     "Description": "4 Oro · EVENTO HISTÓRICO\nCada jugador recibe 2 Oros de sus Arcas a su Tesoro. Luego, cada jugador endereza hasta 4 Oros de su Tesoro.",
      "CardID": 125,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "{{URL_12_Akenaton_face_1}}",
-       "BackURL": "{{URL_12_Akenaton_back}}",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_face_1.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_back.png",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1497,13 +1497,13 @@
       "scaleZ": 1
      },
      "Nickname": "Fundación de Akhetatón",
-     "Description": "4 Oro + F1 · EVENTO\nMira las 7 cartas superiores de tu mazo. revela hasta dos Estructuras. Pon una de las cartas reveladas en tu mano.  la otra en la parte superior de tu mazo. Pon el resto al fondo de tu mazo en cualquier orden.",
+     "Description": "4 Oro + F1 · EVENTO HISTÓRICO · Signature de Akenatón\nMira las 7 cartas superiores de tu mazo. revela hasta dos Estructuras. Pon una de las cartas reveladas en tu mano.  la otra en la parte superior de tu mazo. Pon el resto al fondo de tu mazo en cualquier orden.",
      "CardID": 126,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "{{URL_12_Akenaton_face_1}}",
-       "BackURL": "{{URL_12_Akenaton_back}}",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_face_1.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_back.png",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1526,13 +1526,13 @@
       "scaleZ": 1
      },
      "Nickname": "Reforma de Atón",
-     "Description": "6 Oro + F1 · EVENTO\nRegresa una Estructura de tu descarte al campo. Puedes trabajarla inmediatamente.",
+     "Description": "6 Oro + F1 · EVENTO HISTÓRICO\nRegresa una Estructura de tu descarte al campo. Puedes trabajarla inmediatamente.",
      "CardID": 127,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "{{URL_12_Akenaton_face_1}}",
-       "BackURL": "{{URL_12_Akenaton_back}}",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_face_1.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_back.png",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1557,13 +1557,13 @@
     "scaleZ": 1
    },
    "Nickname": "Akenatón",
-   "Description": "EMPERADOR\nCuando trabajes tu segunda Estructura distinta durante tu turno, añade 1 Oro Cansado a tu Tesoro.",
+   "Description": "EMPERADOR · Culto Solar\nCuando trabajes tu segunda Estructura distinta durante tu turno, añade 1 Oro Cansado a tu Tesoro.",
    "CardID": 128,
    "SidewaysCard": false,
    "CustomDeck": {
     "1": {
-     "FaceURL": "{{URL_12_Akenaton_face_1}}",
-     "BackURL": "{{URL_12_Akenaton_back}}",
+     "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_face_1.png",
+     "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_back.png",
      "NumWidth": 10,
      "NumHeight": 3,
      "BackIsHidden": true,
@@ -1586,7 +1586,7 @@
     "scaleZ": 1
    },
    "Nickname": "Akenatón — Oros (12)",
-   "Description": "IMPERIUM · Capa 1 · v2.15",
+   "Description": "IMPERIUM · Capa 1 · Compendio v2.19 · Mazos v0.2",
    "DeckIDs": [
     200,
     200,
@@ -1603,8 +1603,8 @@
    ],
    "CustomDeck": {
     "2": {
-     "FaceURL": "{{URL_12_Akenaton_face_2}}",
-     "BackURL": "{{URL_12_Akenaton_back}}",
+     "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_face_2.png",
+     "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_back.png",
      "NumWidth": 10,
      "NumHeight": 1,
      "BackIsHidden": true,
@@ -1632,8 +1632,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "{{URL_12_Akenaton_face_2}}",
-       "BackURL": "{{URL_12_Akenaton_back}}",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_face_2.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_back.png",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
@@ -1661,8 +1661,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "{{URL_12_Akenaton_face_2}}",
-       "BackURL": "{{URL_12_Akenaton_back}}",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_face_2.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_back.png",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
@@ -1690,8 +1690,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "{{URL_12_Akenaton_face_2}}",
-       "BackURL": "{{URL_12_Akenaton_back}}",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_face_2.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_back.png",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
@@ -1719,8 +1719,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "{{URL_12_Akenaton_face_2}}",
-       "BackURL": "{{URL_12_Akenaton_back}}",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_face_2.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_back.png",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
@@ -1748,8 +1748,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "{{URL_12_Akenaton_face_2}}",
-       "BackURL": "{{URL_12_Akenaton_back}}",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_face_2.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_back.png",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
@@ -1777,8 +1777,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "{{URL_12_Akenaton_face_2}}",
-       "BackURL": "{{URL_12_Akenaton_back}}",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_face_2.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_back.png",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
@@ -1806,8 +1806,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "{{URL_12_Akenaton_face_2}}",
-       "BackURL": "{{URL_12_Akenaton_back}}",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_face_2.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_back.png",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
@@ -1835,8 +1835,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "{{URL_12_Akenaton_face_2}}",
-       "BackURL": "{{URL_12_Akenaton_back}}",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_face_2.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_back.png",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
@@ -1864,8 +1864,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "{{URL_12_Akenaton_face_2}}",
-       "BackURL": "{{URL_12_Akenaton_back}}",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_face_2.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_back.png",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
@@ -1893,8 +1893,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "{{URL_12_Akenaton_face_2}}",
-       "BackURL": "{{URL_12_Akenaton_back}}",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_face_2.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_back.png",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
@@ -1922,8 +1922,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "{{URL_12_Akenaton_face_2}}",
-       "BackURL": "{{URL_12_Akenaton_back}}",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_face_2.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_back.png",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
@@ -1951,8 +1951,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "{{URL_12_Akenaton_face_2}}",
-       "BackURL": "{{URL_12_Akenaton_back}}",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_face_2.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_back.png",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
@@ -1977,7 +1977,7 @@
     "scaleZ": 1
    },
    "Nickname": "Akenatón — Fichas Grano (8)",
-   "Description": "IMPERIUM · Capa 1 · v2.15",
+   "Description": "IMPERIUM · Capa 1 · Compendio v2.19 · Mazos v0.2",
    "DeckIDs": [
     202,
     202,
@@ -1990,8 +1990,8 @@
    ],
    "CustomDeck": {
     "2": {
-     "FaceURL": "{{URL_12_Akenaton_face_2}}",
-     "BackURL": "{{URL_12_Akenaton_back}}",
+     "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_face_2.png",
+     "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_back.png",
      "NumWidth": 10,
      "NumHeight": 1,
      "BackIsHidden": true,
@@ -2014,13 +2014,13 @@
       "scaleZ": 1
      },
      "Nickname": "Grano",
-     "Description": "FICHA\nSacrifica este Grano: genera 1 Oro temporal este turno.",
+     "Description": "FICHA · ACCIÓN\nSacrifica este Grano: genera 1 Oro temporal este turno.",
      "CardID": 202,
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "{{URL_12_Akenaton_face_2}}",
-       "BackURL": "{{URL_12_Akenaton_back}}",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_face_2.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_back.png",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
@@ -2043,13 +2043,13 @@
       "scaleZ": 1
      },
      "Nickname": "Grano",
-     "Description": "FICHA\nSacrifica este Grano: genera 1 Oro temporal este turno.",
+     "Description": "FICHA · ACCIÓN\nSacrifica este Grano: genera 1 Oro temporal este turno.",
      "CardID": 202,
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "{{URL_12_Akenaton_face_2}}",
-       "BackURL": "{{URL_12_Akenaton_back}}",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_face_2.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_back.png",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
@@ -2072,13 +2072,13 @@
       "scaleZ": 1
      },
      "Nickname": "Grano",
-     "Description": "FICHA\nSacrifica este Grano: genera 1 Oro temporal este turno.",
+     "Description": "FICHA · ACCIÓN\nSacrifica este Grano: genera 1 Oro temporal este turno.",
      "CardID": 202,
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "{{URL_12_Akenaton_face_2}}",
-       "BackURL": "{{URL_12_Akenaton_back}}",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_face_2.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_back.png",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
@@ -2101,13 +2101,13 @@
       "scaleZ": 1
      },
      "Nickname": "Grano",
-     "Description": "FICHA\nSacrifica este Grano: genera 1 Oro temporal este turno.",
+     "Description": "FICHA · ACCIÓN\nSacrifica este Grano: genera 1 Oro temporal este turno.",
      "CardID": 202,
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "{{URL_12_Akenaton_face_2}}",
-       "BackURL": "{{URL_12_Akenaton_back}}",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_face_2.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_back.png",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
@@ -2130,13 +2130,13 @@
       "scaleZ": 1
      },
      "Nickname": "Grano",
-     "Description": "FICHA\nSacrifica este Grano: genera 1 Oro temporal este turno.",
+     "Description": "FICHA · ACCIÓN\nSacrifica este Grano: genera 1 Oro temporal este turno.",
      "CardID": 202,
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "{{URL_12_Akenaton_face_2}}",
-       "BackURL": "{{URL_12_Akenaton_back}}",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_face_2.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_back.png",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
@@ -2159,13 +2159,13 @@
       "scaleZ": 1
      },
      "Nickname": "Grano",
-     "Description": "FICHA\nSacrifica este Grano: genera 1 Oro temporal este turno.",
+     "Description": "FICHA · ACCIÓN\nSacrifica este Grano: genera 1 Oro temporal este turno.",
      "CardID": 202,
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "{{URL_12_Akenaton_face_2}}",
-       "BackURL": "{{URL_12_Akenaton_back}}",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_face_2.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_back.png",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
@@ -2188,13 +2188,13 @@
       "scaleZ": 1
      },
      "Nickname": "Grano",
-     "Description": "FICHA\nSacrifica este Grano: genera 1 Oro temporal este turno.",
+     "Description": "FICHA · ACCIÓN\nSacrifica este Grano: genera 1 Oro temporal este turno.",
      "CardID": 202,
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "{{URL_12_Akenaton_face_2}}",
-       "BackURL": "{{URL_12_Akenaton_back}}",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_face_2.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_back.png",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
@@ -2217,13 +2217,13 @@
       "scaleZ": 1
      },
      "Nickname": "Grano",
-     "Description": "FICHA\nSacrifica este Grano: genera 1 Oro temporal este turno.",
+     "Description": "FICHA · ACCIÓN\nSacrifica este Grano: genera 1 Oro temporal este turno.",
      "CardID": 202,
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "{{URL_12_Akenaton_face_2}}",
-       "BackURL": "{{URL_12_Akenaton_back}}",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_face_2.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/12_Akenaton/12_Akenaton_back.png",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,

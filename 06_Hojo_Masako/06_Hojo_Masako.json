@@ -1,5 +1,5 @@
 {
- "SaveName": "IMPERIUM Capa 1 · Cleopatra VII",
+ "SaveName": "IMPERIUM Capa 1 · Hōjō Masako, la Shōgun Monja",
  "GameMode": "",
  "Gravity": 0.5,
  "PlayArea": 0.5,
@@ -25,7 +25,7 @@
     "scaleY": 1,
     "scaleZ": 1
    },
-   "Nickname": "Cleopatra VII — Mazo (50)",
+   "Nickname": "Hōjō Masako, la Shōgun Monja — Mazo (50)",
    "Description": "IMPERIUM · Capa 1 · Compendio v2.19 · Mazos v0.2",
    "DeckIDs": [
     100,
@@ -42,47 +42,47 @@
     103,
     104,
     104,
-    104,
     105,
     105,
-    106,
     106,
     106,
     107,
     108,
     109,
     109,
-    109,
-    110,
     110,
     110,
     111,
+    111,
+    111,
     112,
-    112,
+    113,
+    113,
+    113,
     113,
     114,
     114,
     115,
-    115,
-    115,
-    116,
     116,
     116,
     117,
-    117,
     118,
     118,
-    118,
-    119,
     119,
     119,
     120,
-    121
+    121,
+    121,
+    121,
+    122,
+    122,
+    123,
+    124
    ],
    "CustomDeck": {
     "1": {
-     "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png",
-     "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png",
+     "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png",
+     "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png",
      "NumWidth": 10,
      "NumHeight": 3,
      "BackIsHidden": true,
@@ -104,14 +104,14 @@
       "scaleY": 1,
       "scaleZ": 1
      },
-     "Nickname": "Campesino del Nilo",
-     "Description": "1 Oro · TROPA · P1\nDILIGENTE (En tu turno, se endereza tras su primer trabajo y no puede volver a trabajar ese turno).",
+     "Nickname": "Ashigaru Explorador",
+     "Description": "1 Oro · TROPA · P1\nAl entrar, una Tropa que controle un oponente no puede bloquear este turno.",
      "CardID": 100,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -133,14 +133,14 @@
       "scaleY": 1,
       "scaleZ": 1
      },
-     "Nickname": "Campesino del Nilo",
-     "Description": "1 Oro · TROPA · P1\nDILIGENTE (En tu turno, se endereza tras su primer trabajo y no puede volver a trabajar ese turno).",
+     "Nickname": "Ashigaru Explorador",
+     "Description": "1 Oro · TROPA · P1\nAl entrar, una Tropa que controle un oponente no puede bloquear este turno.",
      "CardID": 100,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -162,14 +162,14 @@
       "scaleY": 1,
       "scaleZ": 1
      },
-     "Nickname": "Lancero Egipcio",
-     "Description": "1 Oro · TROPA · P2\nMientras esté en combate con una Tropa Caballería, gana +1 Poder.",
+     "Nickname": "Shinobi de Iga",
+     "Description": "1 Oro + F1 · TROPA · P2\nEMBOSCADA (Puedes desplegarla en la ventana de Tácticas antes de asignar bloqueadoras. Puede bloquear ese combate).",
      "CardID": 101,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -191,14 +191,14 @@
       "scaleY": 1,
       "scaleZ": 1
      },
-     "Nickname": "Lancero Egipcio",
-     "Description": "1 Oro · TROPA · P2\nMientras esté en combate con una Tropa Caballería, gana +1 Poder.",
+     "Nickname": "Shinobi de Iga",
+     "Description": "1 Oro + F1 · TROPA · P2\nEMBOSCADA (Puedes desplegarla en la ventana de Tácticas antes de asignar bloqueadoras. Puede bloquear ese combate).",
      "CardID": 101,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -220,14 +220,14 @@
       "scaleY": 1,
       "scaleZ": 1
      },
-     "Nickname": "Lancero Egipcio",
-     "Description": "1 Oro · TROPA · P2\nMientras esté en combate con una Tropa Caballería, gana +1 Poder.",
+     "Nickname": "Shinobi de Iga",
+     "Description": "1 Oro + F1 · TROPA · P2\nEMBOSCADA (Puedes desplegarla en la ventana de Tácticas antes de asignar bloqueadoras. Puede bloquear ese combate).",
      "CardID": 101,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -249,14 +249,14 @@
       "scaleY": 1,
       "scaleZ": 1
      },
-     "Nickname": "Cobra Sagrada",
-     "Description": "1 Oro · TROPA · P1\nCuando muera, un oponente pierde 2 Moral.",
+     "Nickname": "Novicia del Santuario",
+     "Description": "1 Oro · TROPA · P1\nAl entrar, crea 1 Ofrenda.",
      "CardID": 102,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -278,14 +278,14 @@
       "scaleY": 1,
       "scaleZ": 1
      },
-     "Nickname": "Cobra Sagrada",
-     "Description": "1 Oro · TROPA · P1\nCuando muera, un oponente pierde 2 Moral.",
+     "Nickname": "Novicia del Santuario",
+     "Description": "1 Oro · TROPA · P1\nAl entrar, crea 1 Ofrenda.",
      "CardID": 102,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -307,14 +307,14 @@
       "scaleY": 1,
       "scaleZ": 1
      },
-     "Nickname": "Cobra Sagrada",
-     "Description": "1 Oro · TROPA · P1\nCuando muera, un oponente pierde 2 Moral.",
+     "Nickname": "Novicia del Santuario",
+     "Description": "1 Oro · TROPA · P1\nAl entrar, crea 1 Ofrenda.",
      "CardID": 102,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -336,14 +336,14 @@
       "scaleY": 1,
       "scaleZ": 1
      },
-     "Nickname": "Cobra Sagrada",
-     "Description": "1 Oro · TROPA · P1\nCuando muera, un oponente pierde 2 Moral.",
+     "Nickname": "Novicia del Santuario",
+     "Description": "1 Oro · TROPA · P1\nAl entrar, crea 1 Ofrenda.",
      "CardID": 102,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -365,14 +365,14 @@
       "scaleY": 1,
       "scaleZ": 1
      },
-     "Nickname": "Siervo Embalsamado",
-     "Description": "2 Oro + F1 · TROPA · P2\nDILIGENTE. Cuando muera, puedes pagar 1 Oro. Si lo haces, regrésalo a tu mano.",
+     "Nickname": "Aldeano del Arroz",
+     "Description": "1 Oro · TROPA · P2\nDILIGENTE (En tu turno, se endereza tras su primer trabajo y no puede volver a trabajar ese turno).",
      "CardID": 103,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -394,14 +394,14 @@
       "scaleY": 1,
       "scaleZ": 1
      },
-     "Nickname": "Siervo Embalsamado",
-     "Description": "2 Oro + F1 · TROPA · P2\nDILIGENTE. Cuando muera, puedes pagar 1 Oro. Si lo haces, regrésalo a tu mano.",
+     "Nickname": "Aldeano del Arroz",
+     "Description": "1 Oro · TROPA · P2\nDILIGENTE (En tu turno, se endereza tras su primer trabajo y no puede volver a trabajar ese turno).",
      "CardID": 103,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -423,14 +423,14 @@
       "scaleY": 1,
       "scaleZ": 1
      },
-     "Nickname": "Siervo Embalsamado",
-     "Description": "2 Oro + F1 · TROPA · P2\nDILIGENTE. Cuando muera, puedes pagar 1 Oro. Si lo haces, regrésalo a tu mano.",
+     "Nickname": "Aldeano del Arroz",
+     "Description": "1 Oro · TROPA · P2\nDILIGENTE (En tu turno, se endereza tras su primer trabajo y no puede volver a trabajar ese turno).",
      "CardID": 103,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -452,14 +452,14 @@
       "scaleY": 1,
       "scaleZ": 1
      },
-     "Nickname": "Carro de Pi-Ramsés",
-     "Description": "3 Oro + F1 · TROPA · P5\nARROLLAR (El daño de combate que exceda lo necesario para superar a las bloqueadoras pasa al objetivo original del ataque).",
+     "Nickname": "Kunoichi de Kōga",
+     "Description": "2 Oro · TROPA · P2\nAl entrar, una Tropa que controle un oponente pierde 2 Poder este turno, hasta un mínimo de 1.",
      "CardID": 104,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -481,14 +481,14 @@
       "scaleY": 1,
       "scaleZ": 1
      },
-     "Nickname": "Carro de Pi-Ramsés",
-     "Description": "3 Oro + F1 · TROPA · P5\nARROLLAR (El daño de combate que exceda lo necesario para superar a las bloqueadoras pasa al objetivo original del ataque).",
+     "Nickname": "Kunoichi de Kōga",
+     "Description": "2 Oro · TROPA · P2\nAl entrar, una Tropa que controle un oponente pierde 2 Poder este turno, hasta un mínimo de 1.",
      "CardID": 104,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -510,43 +510,14 @@
       "scaleY": 1,
       "scaleZ": 1
      },
-     "Nickname": "Carro de Pi-Ramsés",
-     "Description": "3 Oro + F1 · TROPA · P5\nARROLLAR (El daño de combate que exceda lo necesario para superar a las bloqueadoras pasa al objetivo original del ataque).",
-     "CardID": 104,
-     "SidewaysCard": false,
-     "CustomDeck": {
-      "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png",
-       "NumWidth": 10,
-       "NumHeight": 3,
-       "BackIsHidden": true,
-       "UniqueBack": false,
-       "Type": 0
-      }
-     }
-    },
-    {
-     "Name": "Card",
-     "Transform": {
-      "posX": 0,
-      "posY": 0,
-      "posZ": 0,
-      "rotX": 0,
-      "rotY": 180,
-      "rotZ": 180,
-      "scaleX": 1,
-      "scaleY": 1,
-      "scaleZ": 1
-     },
-     "Nickname": "Carro Ligero Egipcio",
-     "Description": "3 Oro · TROPA · P4\nSolo puede ser bloqueado por Tropas Lancero o Caballería.",
+     "Nickname": "Momochi Sandayū",
+     "Description": "4 Oro · TROPA · P3\nEMBOSCADA. Al entrar, mira las 5 cartas superiores de tu mazo; puedes revelar una Táctica o una Tropa Infantería y ponerla en tu mano. Pon el resto al fondo.",
      "CardID": 105,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -568,14 +539,14 @@
       "scaleY": 1,
       "scaleZ": 1
      },
-     "Nickname": "Carro Ligero Egipcio",
-     "Description": "3 Oro · TROPA · P4\nSolo puede ser bloqueado por Tropas Lancero o Caballería.",
+     "Nickname": "Momochi Sandayū",
+     "Description": "4 Oro · TROPA · P3\nEMBOSCADA. Al entrar, mira las 5 cartas superiores de tu mazo; puedes revelar una Táctica o una Tropa Infantería y ponerla en tu mano. Pon el resto al fondo.",
      "CardID": 105,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -597,14 +568,14 @@
       "scaleY": 1,
       "scaleZ": 1
      },
-     "Nickname": "Sombra de Anubis",
-     "Description": "3 Oro · TROPA · P2\nIMPARABLE.",
+     "Nickname": "Hattori Hanzō",
+     "Description": "4 Oro · TROPA · P3\nEMBOSCADA. Al entrar, cansa una Tropa que controle un oponente. Una vez por turno — ACCIÓN, solo durante tu turno: FUNDE 1 Oro de Astucia: regresa a Hattori Hanzō a tu mano.",
      "CardID": 106,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -626,14 +597,14 @@
       "scaleY": 1,
       "scaleZ": 1
      },
-     "Nickname": "Sombra de Anubis",
-     "Description": "3 Oro · TROPA · P2\nIMPARABLE.",
+     "Nickname": "Hattori Hanzō",
+     "Description": "4 Oro · TROPA · P3\nEMBOSCADA. Al entrar, cansa una Tropa que controle un oponente. Una vez por turno — ACCIÓN, solo durante tu turno: FUNDE 1 Oro de Astucia: regresa a Hattori Hanzō a tu mano.",
      "CardID": 106,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -655,43 +626,14 @@
       "scaleY": 1,
       "scaleZ": 1
      },
-     "Nickname": "Sombra de Anubis",
-     "Description": "3 Oro · TROPA · P2\nIMPARABLE.",
-     "CardID": 106,
-     "SidewaysCard": false,
-     "CustomDeck": {
-      "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png",
-       "NumWidth": 10,
-       "NumHeight": 3,
-       "BackIsHidden": true,
-       "UniqueBack": false,
-       "Type": 0
-      }
-     }
-    },
-    {
-     "Name": "Card",
-     "Transform": {
-      "posX": 0,
-      "posY": 0,
-      "posZ": 0,
-      "rotX": 0,
-      "rotY": 180,
-      "rotZ": 180,
-      "scaleX": 1,
-      "scaleY": 1,
-      "scaleZ": 1
-     },
-     "Nickname": "Marco Antonio, Triunviro de Oriente",
-     "Description": "5 Oro + F1 · TROPA · P2 · General de Cleopatra VII\nIMPARABLE. Al entrar, destruye una Tropa o Soporte que controle un oponente. Marco Antonio gana +1 Poder por cada Tropa en tu descarte.",
+     "Nickname": "Tomoe Gozen, Filo de Awazu",
+     "Description": "5 Oro + F1 · TROPA · P4 · Signature de Hōjō Masako\nEMBOSCADA. FILO VELOZ. Una vez por turno al sacrificar una ofrenda, una Tropa rival pierde 3 Poder este turno, hasta un mínimo de 1.",
      "CardID": 107,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -713,14 +655,14 @@
       "scaleY": 1,
       "scaleZ": 1
      },
-     "Nickname": "Devoradora Ammit",
-     "Description": "7 Oro + F1 · TROPA · P9\nACCIÓN — FUNDIR 1 Ambición y sacrifica otra Tropa: una Tropa que controle un oponente pierde Poder igual al Poder de la Tropa sacrificada este turno.",
+     "Nickname": "Hangaku Gozen, Guardiana de Torisaka",
+     "Description": "5 Oro + F1 · TROPA · P5 · Signature de Hōjō Masako\nDILIGENTE. CIEN FLECHAS — Una vez por turno — REACCIÓN: Cuando un oponente declare dos o más atacantes, puedes sacrificar una Ofrenda. Si lo haces, reparte 4 de daño como quieras entre hasta dos Tropas atacantes.",
      "CardID": 108,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -742,14 +684,14 @@
       "scaleY": 1,
       "scaleZ": 1
      },
-     "Nickname": "Embalsamador",
-     "Description": "2 Oro · SOPORTE · R3\nUna vez por turno — Agota este Soporte: regresa una Tropa de coste 2 o menos de tu descarte a tu mano.",
+     "Nickname": "Maestra de Tomoe",
+     "Description": "6 Oro + F1 · TROPA · P5\nEMBOSCADA. CARGA. Al entrar, todas las Tropas que controlen tus oponentes pierden 3 Poder este turno, hasta un mínimo de 1.",
      "CardID": 109,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -771,14 +713,14 @@
       "scaleY": 1,
       "scaleZ": 1
      },
-     "Nickname": "Embalsamador",
-     "Description": "2 Oro · SOPORTE · R3\nUna vez por turno — Agota este Soporte: regresa una Tropa de coste 2 o menos de tu descarte a tu mano.",
+     "Nickname": "Maestra de Tomoe",
+     "Description": "6 Oro + F1 · TROPA · P5\nEMBOSCADA. CARGA. Al entrar, todas las Tropas que controlen tus oponentes pierden 3 Poder este turno, hasta un mínimo de 1.",
      "CardID": 109,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -800,43 +742,14 @@
       "scaleY": 1,
       "scaleZ": 1
      },
-     "Nickname": "Embalsamador",
-     "Description": "2 Oro · SOPORTE · R3\nUna vez por turno — Agota este Soporte: regresa una Tropa de coste 2 o menos de tu descarte a tu mano.",
-     "CardID": 109,
-     "SidewaysCard": false,
-     "CustomDeck": {
-      "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png",
-       "NumWidth": 10,
-       "NumHeight": 3,
-       "BackIsHidden": true,
-       "UniqueBack": false,
-       "Type": 0
-      }
-     }
-    },
-    {
-     "Name": "Card",
-     "Transform": {
-      "posX": 0,
-      "posY": 0,
-      "posZ": 0,
-      "rotX": 0,
-      "rotY": 180,
-      "rotZ": 180,
-      "scaleX": 1,
-      "scaleY": 1,
-      "scaleZ": 1
-     },
-     "Nickname": "Sacerdote de Set",
-     "Description": "2 Oro · SOPORTE · R2\nUna vez por turno — ACCIÓN: Agota este Soporte y pierde 2 Moral: roba 1 carta.",
+     "Nickname": "Carpintero de Templos",
+     "Description": "1 Oro · SOPORTE · R2\nDILIGENTE. Una vez por turno — ACCIÓN: Agota este Soporte: tu próxima estructura cuesta 2 Oro menos este turno.",
      "CardID": 110,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -858,14 +771,14 @@
       "scaleY": 1,
       "scaleZ": 1
      },
-     "Nickname": "Sacerdote de Set",
-     "Description": "2 Oro · SOPORTE · R2\nUna vez por turno — ACCIÓN: Agota este Soporte y pierde 2 Moral: roba 1 carta.",
+     "Nickname": "Carpintero de Templos",
+     "Description": "1 Oro · SOPORTE · R2\nDILIGENTE. Una vez por turno — ACCIÓN: Agota este Soporte: tu próxima estructura cuesta 2 Oro menos este turno.",
      "CardID": 110,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -887,43 +800,14 @@
       "scaleY": 1,
       "scaleZ": 1
      },
-     "Nickname": "Sacerdote de Set",
-     "Description": "2 Oro · SOPORTE · R2\nUna vez por turno — ACCIÓN: Agota este Soporte y pierde 2 Moral: roba 1 carta.",
-     "CardID": 110,
-     "SidewaysCard": false,
-     "CustomDeck": {
-      "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png",
-       "NumWidth": 10,
-       "NumHeight": 3,
-       "BackIsHidden": true,
-       "UniqueBack": false,
-       "Type": 0
-      }
-     }
-    },
-    {
-     "Name": "Card",
-     "Transform": {
-      "posX": 0,
-      "posY": 0,
-      "posZ": 0,
-      "rotX": 0,
-      "rotY": 180,
-      "rotZ": 180,
-      "scaleX": 1,
-      "scaleY": 1,
-      "scaleZ": 1
-     },
-     "Nickname": "Charmion, Voz de Isis",
-     "Description": "4 Oro + F1 · SOPORTE · R3 · General de Cleopatra VII\nREACCIÓN — Agota este Soporte y FUNDIR 1 Prosperidad: la próxima vez que una unidad fuera a ser destruida por daño este turno, evita esa destrucción y elimina el daño que fuera a destruirla.",
+     "Nickname": "Maiko Danzante",
+     "Description": "2 Oro · SOPORTE · R4\nDILIGENTE. Una vez por turno — ACCIÓN: Agota este Soporte: crea 1 Ofrenda.",
      "CardID": 111,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -945,14 +829,72 @@
       "scaleY": 1,
       "scaleZ": 1
      },
-     "Nickname": "Granero del Nilo",
-     "Description": "3 Oro · ESTRUCTURA · R5 · ⚒1\nAl entrar, crea 1 Grano. Una vez por turno — ACCIÓN: Agota 1 unidad: crea 1 Grano.",
+     "Nickname": "Maiko Danzante",
+     "Description": "2 Oro · SOPORTE · R4\nDILIGENTE. Una vez por turno — ACCIÓN: Agota este Soporte: crea 1 Ofrenda.",
+     "CardID": 111,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Maiko Danzante",
+     "Description": "2 Oro · SOPORTE · R4\nDILIGENTE. Una vez por turno — ACCIÓN: Agota este Soporte: crea 1 Ofrenda.",
+     "CardID": 111,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Dōjō del Bakufu",
+     "Description": "2 Oro · ESTRUCTURA · R5 · ⚒1\nUna vez por turno — REACCIÓN: Agota 1 unidad: otra Tropa tuya gana FILO VELOZ hasta tu siguiente Ocaso. Si ya tenía FILO VELOZ, gana +2 Poder este turno en su lugar.",
      "CardID": 112,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -974,43 +916,14 @@
       "scaleY": 1,
       "scaleZ": 1
      },
-     "Nickname": "Granero del Nilo",
-     "Description": "3 Oro · ESTRUCTURA · R5 · ⚒1\nAl entrar, crea 1 Grano. Una vez por turno — ACCIÓN: Agota 1 unidad: crea 1 Grano.",
-     "CardID": 112,
-     "SidewaysCard": false,
-     "CustomDeck": {
-      "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png",
-       "NumWidth": 10,
-       "NumHeight": 3,
-       "BackIsHidden": true,
-       "UniqueBack": false,
-       "Type": 0
-      }
-     }
-    },
-    {
-     "Name": "Card",
-     "Transform": {
-      "posX": 0,
-      "posY": 0,
-      "posZ": 0,
-      "rotX": 0,
-      "rotY": 180,
-      "rotZ": 180,
-      "scaleX": 1,
-      "scaleY": 1,
-      "scaleZ": 1
-     },
-     "Nickname": "Panadería y Cervecería",
-     "Description": "3 Oro · ESTRUCTURA · R5\nAl entrar, crea 1 Grano. Una vez por turno — ACCIÓN: Sacrifica 1 Grano: una unidad gana +3 Poder y ARROLLAR este turno. Esa unidad no se endereza durante tu próximo Amanecer.",
+     "Nickname": "Santuario de Tsurugaoka Hachimangū",
+     "Description": "2 Oro · ESTRUCTURA · R4 · ⚒1\nAl entrar, crea 1 Ofrenda. Una vez por turno — ACCIÓN: Agota 1 unidad: crea 1 Ofrenda.",
      "CardID": 113,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1032,14 +945,101 @@
       "scaleY": 1,
       "scaleZ": 1
      },
-     "Nickname": "Necrópolis de Saqqara",
-     "Description": "5 Oro · ESTRUCTURA · R6 · ⚒1\nUna vez por turno — ACCIÓN: Agota 1 unidad y paga 2 Moral: regresa al campo Cansada una Tropa de coste 3 o menos de tu descarte.",
+     "Nickname": "Santuario de Tsurugaoka Hachimangū",
+     "Description": "2 Oro · ESTRUCTURA · R4 · ⚒1\nAl entrar, crea 1 Ofrenda. Una vez por turno — ACCIÓN: Agota 1 unidad: crea 1 Ofrenda.",
+     "CardID": 113,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Santuario de Tsurugaoka Hachimangū",
+     "Description": "2 Oro · ESTRUCTURA · R4 · ⚒1\nAl entrar, crea 1 Ofrenda. Una vez por turno — ACCIÓN: Agota 1 unidad: crea 1 Ofrenda.",
+     "CardID": 113,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Santuario de Tsurugaoka Hachimangū",
+     "Description": "2 Oro · ESTRUCTURA · R4 · ⚒1\nAl entrar, crea 1 Ofrenda. Una vez por turno — ACCIÓN: Agota 1 unidad: crea 1 Ofrenda.",
+     "CardID": 113,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Aldea Fortificada de Iga",
+     "Description": "3 Oro · ESTRUCTURA · R5 · ⚒1\nUna vez por turno — REACCIÓN: Agota 1 unidad: mira las 5 cartas superiores de tu mazo. Puedes revelar una Tropa y ponerla en tu mano. Puedes desplegar esa Tropa este turno como si tuviera EMBOSCADA pagando su coste. Pon el resto al fondo de tu mazo.",
      "CardID": 114,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1061,14 +1061,14 @@
       "scaleY": 1,
       "scaleZ": 1
      },
-     "Nickname": "Necrópolis de Saqqara",
-     "Description": "5 Oro · ESTRUCTURA · R6 · ⚒1\nUna vez por turno — ACCIÓN: Agota 1 unidad y paga 2 Moral: regresa al campo Cansada una Tropa de coste 3 o menos de tu descarte.",
+     "Nickname": "Aldea Fortificada de Iga",
+     "Description": "3 Oro · ESTRUCTURA · R5 · ⚒1\nUna vez por turno — REACCIÓN: Agota 1 unidad: mira las 5 cartas superiores de tu mazo. Puedes revelar una Tropa y ponerla en tu mano. Puedes desplegar esa Tropa este turno como si tuviera EMBOSCADA pagando su coste. Pon el resto al fondo de tu mazo.",
      "CardID": 114,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1090,14 +1090,14 @@
       "scaleY": 1,
       "scaleZ": 1
      },
-     "Nickname": "Cosecha de Emmer",
-     "Description": "0 Oro · TÁCTICA\nTu próximo Soporte o Estructura cuesta 1 Oro menos este turno, hasta un mínimo de 1. Crea 1 Grano.",
+     "Nickname": "Jufuku-ji, Legado de la Shōgun Monja",
+     "Description": "4 Oro + F1 · ESTRUCTURA · R6 · ⚒1 · Signature de Hōjō Masako\nAl entrar, crea 2 Ofrendas. Una vez por turno — ACCIÓN: Agota 1 unidad y sacrifica una Ofrenda: mira las 5 cartas superiores de tu mazo. Puedes revelar una Tropa o un Armamento y ponerlo en tu mano. Pon el resto al fondo en cualquier orden.",
      "CardID": 115,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1119,72 +1119,14 @@
       "scaleY": 1,
       "scaleZ": 1
      },
-     "Nickname": "Cosecha de Emmer",
-     "Description": "0 Oro · TÁCTICA\nTu próximo Soporte o Estructura cuesta 1 Oro menos este turno, hasta un mínimo de 1. Crea 1 Grano.",
-     "CardID": 115,
-     "SidewaysCard": false,
-     "CustomDeck": {
-      "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png",
-       "NumWidth": 10,
-       "NumHeight": 3,
-       "BackIsHidden": true,
-       "UniqueBack": false,
-       "Type": 0
-      }
-     }
-    },
-    {
-     "Name": "Card",
-     "Transform": {
-      "posX": 0,
-      "posY": 0,
-      "posZ": 0,
-      "rotX": 0,
-      "rotY": 180,
-      "rotZ": 180,
-      "scaleX": 1,
-      "scaleY": 1,
-      "scaleZ": 1
-     },
-     "Nickname": "Cosecha de Emmer",
-     "Description": "0 Oro · TÁCTICA\nTu próximo Soporte o Estructura cuesta 1 Oro menos este turno, hasta un mínimo de 1. Crea 1 Grano.",
-     "CardID": 115,
-     "SidewaysCard": false,
-     "CustomDeck": {
-      "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png",
-       "NumWidth": 10,
-       "NumHeight": 3,
-       "BackIsHidden": true,
-       "UniqueBack": false,
-       "Type": 0
-      }
-     }
-    },
-    {
-     "Name": "Card",
-     "Transform": {
-      "posX": 0,
-      "posY": 0,
-      "posZ": 0,
-      "rotX": 0,
-      "rotY": 180,
-      "rotZ": 180,
-      "scaleX": 1,
-      "scaleY": 1,
-      "scaleZ": 1
-     },
-     "Nickname": "Juicio de Anubis",
-     "Description": "1 Oro + F1 · TÁCTICA\nUna Tropa que controle un oponente Cansada pierde 4 Poder este turno. Si su Poder llega a 0 de esta manera, destrúyela.",
+     "Nickname": "Arco Yumi de Yabusame",
+     "Description": "1 Oro + F1 · Equipar 1 · ARMAMENTO\nEquipa a una Tropa. La portadora gana +1 Poder; gana +2 en su lugar si es Arquero. Tiene FILO VELOZ mientras ataca.",
      "CardID": 116,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1206,14 +1148,14 @@
       "scaleY": 1,
       "scaleZ": 1
      },
-     "Nickname": "Juicio de Anubis",
-     "Description": "1 Oro + F1 · TÁCTICA\nUna Tropa que controle un oponente Cansada pierde 4 Poder este turno. Si su Poder llega a 0 de esta manera, destrúyela.",
+     "Nickname": "Arco Yumi de Yabusame",
+     "Description": "1 Oro + F1 · Equipar 1 · ARMAMENTO\nEquipa a una Tropa. La portadora gana +1 Poder; gana +2 en su lugar si es Arquero. Tiene FILO VELOZ mientras ataca.",
      "CardID": 116,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1235,43 +1177,14 @@
       "scaleY": 1,
       "scaleZ": 1
      },
-     "Nickname": "Juicio de Anubis",
-     "Description": "1 Oro + F1 · TÁCTICA\nUna Tropa que controle un oponente Cansada pierde 4 Poder este turno. Si su Poder llega a 0 de esta manera, destrúyela.",
-     "CardID": 116,
-     "SidewaysCard": false,
-     "CustomDeck": {
-      "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png",
-       "NumWidth": 10,
-       "NumHeight": 3,
-       "BackIsHidden": true,
-       "UniqueBack": false,
-       "Type": 0
-      }
-     }
-    },
-    {
-     "Name": "Card",
-     "Transform": {
-      "posX": 0,
-      "posY": 0,
-      "posZ": 0,
-      "rotX": 0,
-      "rotY": 180,
-      "rotZ": 180,
-      "scaleX": 1,
-      "scaleY": 1,
-      "scaleZ": 1
-     },
-     "Nickname": "Ritual de Momificación",
-     "Description": "2 Oro · TÁCTICA\nRegresa una Tropa de tu descarte a tu mano.",
+     "Nickname": "Kusarigama de Iga",
+     "Description": "2 Oro · Equipar F1 · ARMAMENTO\nEquipa a una Tropa. La portadora gana +1 Poder. Cuando ataque, cansa una unidad que controle un oponente.",
      "CardID": 117,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1293,43 +1206,14 @@
       "scaleY": 1,
       "scaleZ": 1
      },
-     "Nickname": "Ritual de Momificación",
-     "Description": "2 Oro · TÁCTICA\nRegresa una Tropa de tu descarte a tu mano.",
-     "CardID": 117,
-     "SidewaysCard": false,
-     "CustomDeck": {
-      "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png",
-       "NumWidth": 10,
-       "NumHeight": 3,
-       "BackIsHidden": true,
-       "UniqueBack": false,
-       "Type": 0
-      }
-     }
-    },
-    {
-     "Name": "Card",
-     "Transform": {
-      "posX": 0,
-      "posY": 0,
-      "posZ": 0,
-      "rotX": 0,
-      "rotY": 180,
-      "rotZ": 180,
-      "scaleX": 1,
-      "scaleY": 1,
-      "scaleZ": 1
-     },
-     "Nickname": "Pacto del Duat",
-     "Description": "2 Oro · TÁCTICA\nPierde 2 Moral: roba 2 cartas.",
+     "Nickname": "Daishō de Linaje de Kioto",
+     "Description": "2 Oro + F1 · Equipar 2 · ARMAMENTO\nEquipa a una Tropa. La portadora gana +3 Poder. Cuando la portadora abandone el campo, puedes equipar Daishō de Linaje de Kioto a otra Tropa legal que controles.",
      "CardID": 118,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1351,14 +1235,14 @@
       "scaleY": 1,
       "scaleZ": 1
      },
-     "Nickname": "Pacto del Duat",
-     "Description": "2 Oro · TÁCTICA\nPierde 2 Moral: roba 2 cartas.",
+     "Nickname": "Daishō de Linaje de Kioto",
+     "Description": "2 Oro + F1 · Equipar 2 · ARMAMENTO\nEquipa a una Tropa. La portadora gana +3 Poder. Cuando la portadora abandone el campo, puedes equipar Daishō de Linaje de Kioto a otra Tropa legal que controles.",
      "CardID": 118,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1380,43 +1264,14 @@
       "scaleY": 1,
       "scaleZ": 1
      },
-     "Nickname": "Pacto del Duat",
-     "Description": "2 Oro · TÁCTICA\nPierde 2 Moral: roba 2 cartas.",
-     "CardID": 118,
-     "SidewaysCard": false,
-     "CustomDeck": {
-      "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png",
-       "NumWidth": 10,
-       "NumHeight": 3,
-       "BackIsHidden": true,
-       "UniqueBack": false,
-       "Type": 0
-      }
-     }
-    },
-    {
-     "Name": "Card",
-     "Transform": {
-      "posX": 0,
-      "posY": 0,
-      "posZ": 0,
-      "rotX": 0,
-      "rotY": 180,
-      "rotZ": 180,
-      "scaleX": 1,
-      "scaleY": 1,
-      "scaleZ": 1
-     },
-     "Nickname": "Tributo al Duat",
-     "Description": "2 Oro + F1 · TÁCTICA\nComo coste adicional, sacrifica una Tropa tuya. Haz 3 de daño a la Moral de un oponente y recupera 3 Moral.",
+     "Nickname": "Ceremonia del Té",
+     "Description": "1 Oro · TÁCTICA\nCoste adicional: sacrifica una Ofrenda, Mira las 6 cartas superiores de tu mazo, elige una y colocala en tu mano, manda el resto al fondo.",
      "CardID": 119,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1438,14 +1293,14 @@
       "scaleY": 1,
       "scaleZ": 1
      },
-     "Nickname": "Tributo al Duat",
-     "Description": "2 Oro + F1 · TÁCTICA\nComo coste adicional, sacrifica una Tropa tuya. Haz 3 de daño a la Moral de un oponente y recupera 3 Moral.",
+     "Nickname": "Ceremonia del Té",
+     "Description": "1 Oro · TÁCTICA\nCoste adicional: sacrifica una Ofrenda, Mira las 6 cartas superiores de tu mazo, elige una y colocala en tu mano, manda el resto al fondo.",
      "CardID": 119,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1467,43 +1322,14 @@
       "scaleY": 1,
       "scaleZ": 1
      },
-     "Nickname": "Tributo al Duat",
-     "Description": "2 Oro + F1 · TÁCTICA\nComo coste adicional, sacrifica una Tropa tuya. Haz 3 de daño a la Moral de un oponente y recupera 3 Moral.",
-     "CardID": 119,
-     "SidewaysCard": false,
-     "CustomDeck": {
-      "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png",
-       "NumWidth": 10,
-       "NumHeight": 3,
-       "BackIsHidden": true,
-       "UniqueBack": false,
-       "Type": 0
-      }
-     }
-    },
-    {
-     "Name": "Card",
-     "Transform": {
-      "posX": 0,
-      "posY": 0,
-      "posZ": 0,
-      "rotX": 0,
-      "rotY": 180,
-      "rotZ": 180,
-      "scaleX": 1,
-      "scaleY": 1,
-      "scaleZ": 1
-     },
-     "Nickname": "Maldición de Isis",
-     "Description": "4 Oro + F1 · EVENTO HISTÓRICO · Signature de Cleopatra VII\nUna Tropa Pierde X Poder este turno,  X es la cantidad de Tropas en tu descarte. Si es destruida, recupera X Moral y regresa al campo una Tropa de tu descarte con Poder base X.",
+     "Nickname": "Arte del Engaño",
+     "Description": "1 Oro + F1 · TÁCTICA\nRegresa a tu mano una unidad tuya del campo. Si estaba en combate, Remuevela del combate.",
      "CardID": 120,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1525,14 +1351,188 @@
       "scaleY": 1,
       "scaleZ": 1
      },
-     "Nickname": "Apertura del Duat",
-     "Description": "8 Oro + F1 · EVENTO HISTÓRICO\nPierde 4 Moral. Regresa al campo Cansadas todas las Tropas de coste 5 o menos de tu descarte.",
+     "Nickname": "Voto ante el Santuario",
+     "Description": "1 Oro · TÁCTICA\nCoste adicional: sacrifica una Ofrenda. REACCIÓN — durante un combate: una Tropa tuya gana +2 Poder y FILO VELOZ este combate.",
      "CardID": 121,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Voto ante el Santuario",
+     "Description": "1 Oro · TÁCTICA\nCoste adicional: sacrifica una Ofrenda. REACCIÓN — durante un combate: una Tropa tuya gana +2 Poder y FILO VELOZ este combate.",
+     "CardID": 121,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Voto ante el Santuario",
+     "Description": "1 Oro · TÁCTICA\nCoste adicional: sacrifica una Ofrenda. REACCIÓN — durante un combate: una Tropa tuya gana +2 Poder y FILO VELOZ este combate.",
+     "CardID": 121,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Bomba de Humo",
+     "Description": "2 Oro · TÁCTICA\nUna Tropa que controle un oponente no puede bloquear este turno. Roba 1 carta.",
+     "CardID": 122,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Bomba de Humo",
+     "Description": "2 Oro · TÁCTICA\nUna Tropa que controle un oponente no puede bloquear este turno. Roba 1 carta.",
+     "CardID": 122,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Botín del Daimyō",
+     "Description": "3 Oro + F1 · TÁCTICA\nGana control de un Armamento que controle un oponente y desequípalo. Puedes equiparlo inmediatamente a una portadora legal que controles sin pagar su coste de Equipar.",
+     "CardID": 123,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Asalto de Iga",
+     "Description": "7 Oro + F2 · EVENTO HISTÓRICO\nRegresa a la mano de sus dueños todas las Tropas que controlen tus oponentes Cansadas. Después, cansa todas las Tropas que controlen tus oponentes.",
+     "CardID": 124,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1556,14 +1556,14 @@
     "scaleY": 1,
     "scaleZ": 1
    },
-   "Nickname": "Cleopatra VII",
-   "Description": "EMPERADOR · Favor de Isis\nLa primera vez en cada turno que sacrifiques una unidad o pierdas Moral por una carta o habilidad tuya, gana 1 Oro temporal este turno.",
-   "CardID": 122,
+   "Nickname": "Hōjō Masako, la Shōgun Monja",
+   "Description": "EMPERADOR · Voluntad de Kamakura\nLa primera vez en cada turno que sacrifiques una Ofrenda, puedes enderezar una Tropa que controles. Esa Tropa no puede trabajar durante el resto del turno.",
+   "CardID": 125,
    "SidewaysCard": false,
    "CustomDeck": {
     "1": {
-     "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png",
-     "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png",
+     "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png",
+     "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png",
      "NumWidth": 10,
      "NumHeight": 3,
      "BackIsHidden": true,
@@ -1585,17 +1585,17 @@
     "scaleY": 1,
     "scaleZ": 1
    },
-   "Nickname": "Cleopatra VII — Oros (12)",
+   "Nickname": "Hōjō Masako, la Shōgun Monja — Oros (12)",
    "Description": "IMPERIUM · Capa 1 · Compendio v2.19 · Mazos v0.2",
    "DeckIDs": [
     200,
     200,
     200,
     200,
-    201,
-    201,
-    201,
-    201,
+    200,
+    200,
+    200,
+    200,
     201,
     201,
     201,
@@ -1603,8 +1603,8 @@
    ],
    "CustomDeck": {
     "2": {
-     "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_2.png",
-     "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png",
+     "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_2.png",
+     "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png",
      "NumWidth": 10,
      "NumHeight": 1,
      "BackIsHidden": true,
@@ -1626,14 +1626,14 @@
       "scaleY": 1,
       "scaleZ": 1
      },
-     "Nickname": "Prosperidad",
+     "Nickname": "Astucia",
      "Description": "ORO\n",
      "CardID": 200,
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_2.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_2.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
@@ -1655,14 +1655,14 @@
       "scaleY": 1,
       "scaleZ": 1
      },
-     "Nickname": "Prosperidad",
+     "Nickname": "Astucia",
      "Description": "ORO\n",
      "CardID": 200,
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_2.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_2.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
@@ -1684,14 +1684,14 @@
       "scaleY": 1,
       "scaleZ": 1
      },
-     "Nickname": "Prosperidad",
+     "Nickname": "Astucia",
      "Description": "ORO\n",
      "CardID": 200,
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_2.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_2.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
@@ -1713,14 +1713,14 @@
       "scaleY": 1,
       "scaleZ": 1
      },
-     "Nickname": "Prosperidad",
+     "Nickname": "Astucia",
      "Description": "ORO\n",
      "CardID": 200,
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_2.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_2.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
@@ -1742,14 +1742,14 @@
       "scaleY": 1,
       "scaleZ": 1
      },
-     "Nickname": "Ambición",
+     "Nickname": "Astucia",
      "Description": "ORO\n",
-     "CardID": 201,
+     "CardID": 200,
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_2.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_2.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
@@ -1771,14 +1771,14 @@
       "scaleY": 1,
       "scaleZ": 1
      },
-     "Nickname": "Ambición",
+     "Nickname": "Astucia",
      "Description": "ORO\n",
-     "CardID": 201,
+     "CardID": 200,
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_2.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_2.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
@@ -1800,14 +1800,14 @@
       "scaleY": 1,
       "scaleZ": 1
      },
-     "Nickname": "Ambición",
+     "Nickname": "Astucia",
      "Description": "ORO\n",
-     "CardID": 201,
+     "CardID": 200,
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_2.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_2.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
@@ -1829,14 +1829,14 @@
       "scaleY": 1,
       "scaleZ": 1
      },
-     "Nickname": "Ambición",
+     "Nickname": "Astucia",
      "Description": "ORO\n",
-     "CardID": 201,
+     "CardID": 200,
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_2.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_2.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
@@ -1858,14 +1858,14 @@
       "scaleY": 1,
       "scaleZ": 1
      },
-     "Nickname": "Ambición",
+     "Nickname": "Legado",
      "Description": "ORO\n",
      "CardID": 201,
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_2.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_2.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
@@ -1887,14 +1887,14 @@
       "scaleY": 1,
       "scaleZ": 1
      },
-     "Nickname": "Ambición",
+     "Nickname": "Legado",
      "Description": "ORO\n",
      "CardID": 201,
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_2.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_2.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
@@ -1916,14 +1916,14 @@
       "scaleY": 1,
       "scaleZ": 1
      },
-     "Nickname": "Ambición",
+     "Nickname": "Legado",
      "Description": "ORO\n",
      "CardID": 201,
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_2.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_2.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
@@ -1945,14 +1945,14 @@
       "scaleY": 1,
       "scaleZ": 1
      },
-     "Nickname": "Ambición",
+     "Nickname": "Legado",
      "Description": "ORO\n",
      "CardID": 201,
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_2.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_2.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
@@ -1976,11 +1976,9 @@
     "scaleY": 1,
     "scaleZ": 1
    },
-   "Nickname": "Cleopatra VII — Fichas Grano (8)",
+   "Nickname": "Hōjō Masako, la Shōgun Monja — Fichas Ofrenda (6)",
    "Description": "IMPERIUM · Capa 1 · Compendio v2.19 · Mazos v0.2",
    "DeckIDs": [
-    202,
-    202,
     202,
     202,
     202,
@@ -1990,8 +1988,8 @@
    ],
    "CustomDeck": {
     "2": {
-     "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_2.png",
-     "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png",
+     "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_2.png",
+     "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png",
      "NumWidth": 10,
      "NumHeight": 1,
      "BackIsHidden": true,
@@ -2013,14 +2011,14 @@
       "scaleY": 1,
       "scaleZ": 1
      },
-     "Nickname": "Grano",
-     "Description": "FICHA · ACCIÓN\nSacrifica este Grano: genera 1 Oro temporal este turno.",
+     "Nickname": "Ofrenda",
+     "Description": "FICHA · ACCIÓN\nSacrifica esta Ofrenda: mira las 2 cartas superiores de tu mazo y colócalas de nuevo en la parte superior en el orden que quieras.",
      "CardID": 202,
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_2.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_2.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
@@ -2042,14 +2040,14 @@
       "scaleY": 1,
       "scaleZ": 1
      },
-     "Nickname": "Grano",
-     "Description": "FICHA · ACCIÓN\nSacrifica este Grano: genera 1 Oro temporal este turno.",
+     "Nickname": "Ofrenda",
+     "Description": "FICHA · ACCIÓN\nSacrifica esta Ofrenda: mira las 2 cartas superiores de tu mazo y colócalas de nuevo en la parte superior en el orden que quieras.",
      "CardID": 202,
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_2.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_2.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
@@ -2071,14 +2069,14 @@
       "scaleY": 1,
       "scaleZ": 1
      },
-     "Nickname": "Grano",
-     "Description": "FICHA · ACCIÓN\nSacrifica este Grano: genera 1 Oro temporal este turno.",
+     "Nickname": "Ofrenda",
+     "Description": "FICHA · ACCIÓN\nSacrifica esta Ofrenda: mira las 2 cartas superiores de tu mazo y colócalas de nuevo en la parte superior en el orden que quieras.",
      "CardID": 202,
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_2.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_2.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
@@ -2100,14 +2098,14 @@
       "scaleY": 1,
       "scaleZ": 1
      },
-     "Nickname": "Grano",
-     "Description": "FICHA · ACCIÓN\nSacrifica este Grano: genera 1 Oro temporal este turno.",
+     "Nickname": "Ofrenda",
+     "Description": "FICHA · ACCIÓN\nSacrifica esta Ofrenda: mira las 2 cartas superiores de tu mazo y colócalas de nuevo en la parte superior en el orden que quieras.",
      "CardID": 202,
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_2.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_2.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
@@ -2129,14 +2127,14 @@
       "scaleY": 1,
       "scaleZ": 1
      },
-     "Nickname": "Grano",
-     "Description": "FICHA · ACCIÓN\nSacrifica este Grano: genera 1 Oro temporal este turno.",
+     "Nickname": "Ofrenda",
+     "Description": "FICHA · ACCIÓN\nSacrifica esta Ofrenda: mira las 2 cartas superiores de tu mazo y colócalas de nuevo en la parte superior en el orden que quieras.",
      "CardID": 202,
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_2.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_2.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
@@ -2158,72 +2156,14 @@
       "scaleY": 1,
       "scaleZ": 1
      },
-     "Nickname": "Grano",
-     "Description": "FICHA · ACCIÓN\nSacrifica este Grano: genera 1 Oro temporal este turno.",
+     "Nickname": "Ofrenda",
+     "Description": "FICHA · ACCIÓN\nSacrifica esta Ofrenda: mira las 2 cartas superiores de tu mazo y colócalas de nuevo en la parte superior en el orden que quieras.",
      "CardID": 202,
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_2.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png",
-       "NumWidth": 10,
-       "NumHeight": 1,
-       "BackIsHidden": true,
-       "UniqueBack": false,
-       "Type": 0
-      }
-     }
-    },
-    {
-     "Name": "Card",
-     "Transform": {
-      "posX": 0,
-      "posY": 0,
-      "posZ": 0,
-      "rotX": 0,
-      "rotY": 180,
-      "rotZ": 180,
-      "scaleX": 1,
-      "scaleY": 1,
-      "scaleZ": 1
-     },
-     "Nickname": "Grano",
-     "Description": "FICHA · ACCIÓN\nSacrifica este Grano: genera 1 Oro temporal este turno.",
-     "CardID": 202,
-     "SidewaysCard": false,
-     "CustomDeck": {
-      "2": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_2.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png",
-       "NumWidth": 10,
-       "NumHeight": 1,
-       "BackIsHidden": true,
-       "UniqueBack": false,
-       "Type": 0
-      }
-     }
-    },
-    {
-     "Name": "Card",
-     "Transform": {
-      "posX": 0,
-      "posY": 0,
-      "posZ": 0,
-      "rotX": 0,
-      "rotY": 180,
-      "rotZ": 180,
-      "scaleX": 1,
-      "scaleY": 1,
-      "scaleZ": 1
-     },
-     "Nickname": "Grano",
-     "Description": "FICHA · ACCIÓN\nSacrifica este Grano: genera 1 Oro temporal este turno.",
-     "CardID": 202,
-     "SidewaysCard": false,
-     "CustomDeck": {
-      "2": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_2.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_2.png",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
