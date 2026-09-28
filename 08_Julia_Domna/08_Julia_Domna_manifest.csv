@@ -6,19 +6,20 @@ face_1,3,103,IMP-ROM-004,Guardia Urbana,4
 face_1,4,104,IMP-ROM-013,Cincinato,3
 face_1,5,105,SIG-022,"Papiniano, Prefecto del Pretorio",1
 face_1,6,106,IMP-ROM-020,"Faustina la Menor, Madre de los Campamentos",2
-face_1,7,107,SIG-023,"Diógenes Laercio, Cronista de los Filósofos",1
-face_1,8,108,IMP-ROM-009,Termas Romanas,1
-face_1,9,109,IMP-ROM-010,Castrum Romano,1
-face_1,10,110,IMP-ROM-019,Curia Julia,1
-face_1,11,111,IMP-ROM-007,Bloqueo de Escudos,4
-face_1,12,112,IMP-ROM-031,Diplomacia Romana,2
-face_1,13,113,IMP-ROM-006,Formación Testudo,3
-face_1,14,114,SIG-024,Intervención de la Augusta,1
-face_1,15,115,IMP-ROM-016,Arbitraje del Senado,4
-face_1,16,116,IMP-ROM-025,Meditaciones,4
-face_1,17,117,IMP-ROM-028,Maniobra Envolvente,4
-face_1,18,118,IMP-ROM-017,Cruce del Rubicón,3
-face_1,19,119,IMP-ROM-032,Divide et Impera,1
-face_1,20,120,EMP-ROM-002,"Julia Domna, Protectora del Saber",1
+face_1,7,107,IMP-ROM-030,Cicerón,2
+face_1,8,108,SIG-023,"Diógenes Laercio, Cronista de los Filósofos",1
+face_1,9,109,IMP-ROM-009,Termas Romanas,1
+face_1,10,110,IMP-ROM-010,Castrum Romano,1
+face_1,11,111,IMP-ROM-019,Curia Julia,1
+face_1,12,112,IMP-ROM-007,Bloqueo de Escudos,4
+face_1,13,113,IMP-ROM-031,Diplomacia Romana,2
+face_1,14,114,IMP-ROM-006,Formación Testudo,2
+face_1,15,115,SIG-024,Intervención de la Augusta,1
+face_1,16,116,IMP-ROM-016,Arbitraje del Senado,4
+face_1,17,117,IMP-ROM-025,Meditaciones,4
+face_1,18,118,IMP-ROM-028,Maniobra Envolvente,3
+face_1,19,119,IMP-ROM-017,Cruce del Rubicón,3
+face_1,20,120,IMP-ROM-032,Divide et Impera,1
+face_1,21,121,EMP-ROM-002,"Julia Domna, Protectora del Saber",1
 face_2,0,200,MONEDA-2,Astucia,5
 face_2,1,201,MONEDA-6,Orden,7

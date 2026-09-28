@@ -11,22 +11,23 @@ face_1,8,108,IMP-JPN-011,Momochi Sandayū,3
 face_1,9,109,IMP-JPN-017,Hattori Hanzō,3
 face_1,10,110,IMP-JPN-031,Consejera de Kamakura,1
 face_1,11,111,SIG-013,"Acha no Tsubone, Voz de Osaka",1
-face_1,12,112,IMP-JPN-027,Maestra de Tomoe,2
-face_1,13,113,SIG-014,"Honda Tadakatsu, Guerrero sin Heridas",1
-face_1,14,114,IMP-JPN-009,Dōjō del Bakufu,2
-face_1,15,115,IMP-JPN-015,Aldea Fortificada de Iga,1
-face_1,16,116,IMP-JPN-004,Arco Yumi de Yabusame,1
-face_1,17,117,IMP-JPN-018,Arcabuz Tanegashima,1
-face_1,18,118,IMP-JPN-028,Naginata de la Sōhei,2
-face_1,19,119,IMP-JPN-019,Arte del Engaño,1
-face_1,20,120,IMP-JPN-026,Formación Bushidō,3
-face_1,21,121,IMP-JPN-037,Voto ante el Santuario,2
-face_1,22,122,IMP-JPN-007,Cortina de Humo,2
-face_1,23,123,IMP-JPN-012,Iaijutsu,2
-face_1,24,124,IMP-JPN-008,Emboscada,1
-face_1,25,125,SIG-015,Fundación del Bakufu de Edo,1
-face_1,26,126,IMP-JPN-030,Batalla de Sekigahara,1
-face_1,27,127,EMP-JPN-002,Tokugawa Ieyasu,1
+face_1,12,112,IMP-JPN-027,Maestra de Tomoe,1
+face_1,13,113,IMP-JPN-038,Date Masamune,1
+face_1,14,114,SIG-014,"Honda Tadakatsu, Guerrero sin Heridas",1
+face_1,15,115,IMP-JPN-009,Dōjō del Bakufu,2
+face_1,16,116,IMP-JPN-015,Aldea Fortificada de Iga,1
+face_1,17,117,IMP-JPN-004,Arco Yumi de Yabusame,1
+face_1,18,118,IMP-JPN-018,Arcabuz Tanegashima,1
+face_1,19,119,IMP-JPN-028,Naginata de la Sōhei,2
+face_1,20,120,IMP-JPN-019,Arte del Engaño,1
+face_1,21,121,IMP-JPN-026,Formación Bushidō,3
+face_1,22,122,IMP-JPN-037,Voto ante el Santuario,2
+face_1,23,123,IMP-JPN-007,Cortina de Humo,2
+face_1,24,124,IMP-JPN-012,Iaijutsu,2
+face_1,25,125,IMP-JPN-008,Emboscada,1
+face_1,26,126,SIG-015,Fundación del Bakufu de Edo,1
+face_1,27,127,IMP-JPN-030,Batalla de Sekigahara,1
+face_1,28,128,EMP-JPN-002,Tokugawa Ieyasu,1
 face_2,0,200,MONEDA-2,Astucia,7
 face_2,1,201,MONEDA-6,Orden,5
 face_2,2,202,TOK-02,Ofrenda,6
