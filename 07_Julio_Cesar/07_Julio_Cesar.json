@@ -26,12 +26,11 @@
     "scaleZ": 1
    },
    "Nickname": "Julio César — Mazo (50)",
-   "Description": "IMPERIUM · Capa 1 · Compendio v2.19 · Mazos v0.2",
+   "Description": "IMPERIUM · Capa 1 · Compendio v2.20 · Mazos v0.3",
    "DeckIDs": [
     100,
     100,
     100,
-    100,
     101,
     101,
     101,
@@ -39,50 +38,51 @@
     102,
     102,
     102,
-    103,
-    103,
-    103,
+    102,
     103,
     104,
     104,
     104,
     104,
+    105,
     105,
     105,
     105,
     106,
+    106,
+    106,
+    106,
     107,
-    108,
+    107,
+    107,
+    107,
     108,
     109,
     110,
     111,
-    111,
     112,
+    113,
     113,
     114,
     114,
-    114,
     115,
     115,
+    115,
     116,
     116,
-    116,
-    116,
+    117,
     117,
     117,
     118,
     118,
     118,
     119,
-    119,
-    120,
-    121
+    120
    ],
    "CustomDeck": {
     "1": {
-     "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_1.png",
-     "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png",
+     "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_1.png?v=220",
+     "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png?v=220",
      "NumWidth": 10,
      "NumHeight": 3,
      "BackIsHidden": true,
@@ -104,797 +104,14 @@
       "scaleY": 1,
       "scaleZ": 1
      },
-     "Nickname": "Legionario de Primera Línea",
-     "Description": "2 Oro · TROPA · P2\nTus Tropas Legionario tienen +1 Poder mientras atacan una Estructura.",
+     "Nickname": "Medicus",
+     "Description": "2 Oro · UNIDAD · P1\nUna vez por turno — REACCIÓN: Agota esta Unidad: previene los próximos 2 daños a un objetivo este turno.",
      "CardID": 100,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png",
-       "NumWidth": 10,
-       "NumHeight": 3,
-       "BackIsHidden": true,
-       "UniqueBack": false,
-       "Type": 0
-      }
-     }
-    },
-    {
-     "Name": "Card",
-     "Transform": {
-      "posX": 0,
-      "posY": 0,
-      "posZ": 0,
-      "rotX": 0,
-      "rotY": 180,
-      "rotZ": 180,
-      "scaleX": 1,
-      "scaleY": 1,
-      "scaleZ": 1
-     },
-     "Nickname": "Legionario de Primera Línea",
-     "Description": "2 Oro · TROPA · P2\nTus Tropas Legionario tienen +1 Poder mientras atacan una Estructura.",
-     "CardID": 100,
-     "SidewaysCard": false,
-     "CustomDeck": {
-      "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png",
-       "NumWidth": 10,
-       "NumHeight": 3,
-       "BackIsHidden": true,
-       "UniqueBack": false,
-       "Type": 0
-      }
-     }
-    },
-    {
-     "Name": "Card",
-     "Transform": {
-      "posX": 0,
-      "posY": 0,
-      "posZ": 0,
-      "rotX": 0,
-      "rotY": 180,
-      "rotZ": 180,
-      "scaleX": 1,
-      "scaleY": 1,
-      "scaleZ": 1
-     },
-     "Nickname": "Legionario de Primera Línea",
-     "Description": "2 Oro · TROPA · P2\nTus Tropas Legionario tienen +1 Poder mientras atacan una Estructura.",
-     "CardID": 100,
-     "SidewaysCard": false,
-     "CustomDeck": {
-      "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png",
-       "NumWidth": 10,
-       "NumHeight": 3,
-       "BackIsHidden": true,
-       "UniqueBack": false,
-       "Type": 0
-      }
-     }
-    },
-    {
-     "Name": "Card",
-     "Transform": {
-      "posX": 0,
-      "posY": 0,
-      "posZ": 0,
-      "rotX": 0,
-      "rotY": 180,
-      "rotZ": 180,
-      "scaleX": 1,
-      "scaleY": 1,
-      "scaleZ": 1
-     },
-     "Nickname": "Legionario de Primera Línea",
-     "Description": "2 Oro · TROPA · P2\nTus Tropas Legionario tienen +1 Poder mientras atacan una Estructura.",
-     "CardID": 100,
-     "SidewaysCard": false,
-     "CustomDeck": {
-      "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png",
-       "NumWidth": 10,
-       "NumHeight": 3,
-       "BackIsHidden": true,
-       "UniqueBack": false,
-       "Type": 0
-      }
-     }
-    },
-    {
-     "Name": "Card",
-     "Transform": {
-      "posX": 0,
-      "posY": 0,
-      "posZ": 0,
-      "rotX": 0,
-      "rotY": 180,
-      "rotZ": 180,
-      "scaleX": 1,
-      "scaleY": 1,
-      "scaleZ": 1
-     },
-     "Nickname": "Pretoriano",
-     "Description": "3 Oro · TROPA · P3\nAURA LEGIONARIA — Tus otras Tropas Legionario tienen «Cuando esta Tropa ataque, haz 1 de daño a un Soporte». Este efecto no se acumula.",
-     "CardID": 101,
-     "SidewaysCard": false,
-     "CustomDeck": {
-      "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png",
-       "NumWidth": 10,
-       "NumHeight": 3,
-       "BackIsHidden": true,
-       "UniqueBack": false,
-       "Type": 0
-      }
-     }
-    },
-    {
-     "Name": "Card",
-     "Transform": {
-      "posX": 0,
-      "posY": 0,
-      "posZ": 0,
-      "rotX": 0,
-      "rotY": 180,
-      "rotZ": 180,
-      "scaleX": 1,
-      "scaleY": 1,
-      "scaleZ": 1
-     },
-     "Nickname": "Pretoriano",
-     "Description": "3 Oro · TROPA · P3\nAURA LEGIONARIA — Tus otras Tropas Legionario tienen «Cuando esta Tropa ataque, haz 1 de daño a un Soporte». Este efecto no se acumula.",
-     "CardID": 101,
-     "SidewaysCard": false,
-     "CustomDeck": {
-      "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png",
-       "NumWidth": 10,
-       "NumHeight": 3,
-       "BackIsHidden": true,
-       "UniqueBack": false,
-       "Type": 0
-      }
-     }
-    },
-    {
-     "Name": "Card",
-     "Transform": {
-      "posX": 0,
-      "posY": 0,
-      "posZ": 0,
-      "rotX": 0,
-      "rotY": 180,
-      "rotZ": 180,
-      "scaleX": 1,
-      "scaleY": 1,
-      "scaleZ": 1
-     },
-     "Nickname": "Pretoriano",
-     "Description": "3 Oro · TROPA · P3\nAURA LEGIONARIA — Tus otras Tropas Legionario tienen «Cuando esta Tropa ataque, haz 1 de daño a un Soporte». Este efecto no se acumula.",
-     "CardID": 101,
-     "SidewaysCard": false,
-     "CustomDeck": {
-      "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png",
-       "NumWidth": 10,
-       "NumHeight": 3,
-       "BackIsHidden": true,
-       "UniqueBack": false,
-       "Type": 0
-      }
-     }
-    },
-    {
-     "Name": "Card",
-     "Transform": {
-      "posX": 0,
-      "posY": 0,
-      "posZ": 0,
-      "rotX": 0,
-      "rotY": 180,
-      "rotZ": 180,
-      "scaleX": 1,
-      "scaleY": 1,
-      "scaleZ": 1
-     },
-     "Nickname": "Pretoriano",
-     "Description": "3 Oro · TROPA · P3\nAURA LEGIONARIA — Tus otras Tropas Legionario tienen «Cuando esta Tropa ataque, haz 1 de daño a un Soporte». Este efecto no se acumula.",
-     "CardID": 101,
-     "SidewaysCard": false,
-     "CustomDeck": {
-      "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png",
-       "NumWidth": 10,
-       "NumHeight": 3,
-       "BackIsHidden": true,
-       "UniqueBack": false,
-       "Type": 0
-      }
-     }
-    },
-    {
-     "Name": "Card",
-     "Transform": {
-      "posX": 0,
-      "posY": 0,
-      "posZ": 0,
-      "rotX": 0,
-      "rotY": 180,
-      "rotZ": 180,
-      "scaleX": 1,
-      "scaleY": 1,
-      "scaleZ": 1
-     },
-     "Nickname": "Équite Romano",
-     "Description": "3 Oro · TROPA · P3\nCARGA (Puede atacar el turno en que entra).",
-     "CardID": 102,
-     "SidewaysCard": false,
-     "CustomDeck": {
-      "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png",
-       "NumWidth": 10,
-       "NumHeight": 3,
-       "BackIsHidden": true,
-       "UniqueBack": false,
-       "Type": 0
-      }
-     }
-    },
-    {
-     "Name": "Card",
-     "Transform": {
-      "posX": 0,
-      "posY": 0,
-      "posZ": 0,
-      "rotX": 0,
-      "rotY": 180,
-      "rotZ": 180,
-      "scaleX": 1,
-      "scaleY": 1,
-      "scaleZ": 1
-     },
-     "Nickname": "Équite Romano",
-     "Description": "3 Oro · TROPA · P3\nCARGA (Puede atacar el turno en que entra).",
-     "CardID": 102,
-     "SidewaysCard": false,
-     "CustomDeck": {
-      "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png",
-       "NumWidth": 10,
-       "NumHeight": 3,
-       "BackIsHidden": true,
-       "UniqueBack": false,
-       "Type": 0
-      }
-     }
-    },
-    {
-     "Name": "Card",
-     "Transform": {
-      "posX": 0,
-      "posY": 0,
-      "posZ": 0,
-      "rotX": 0,
-      "rotY": 180,
-      "rotZ": 180,
-      "scaleX": 1,
-      "scaleY": 1,
-      "scaleZ": 1
-     },
-     "Nickname": "Équite Romano",
-     "Description": "3 Oro · TROPA · P3\nCARGA (Puede atacar el turno en que entra).",
-     "CardID": 102,
-     "SidewaysCard": false,
-     "CustomDeck": {
-      "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png",
-       "NumWidth": 10,
-       "NumHeight": 3,
-       "BackIsHidden": true,
-       "UniqueBack": false,
-       "Type": 0
-      }
-     }
-    },
-    {
-     "Name": "Card",
-     "Transform": {
-      "posX": 0,
-      "posY": 0,
-      "posZ": 0,
-      "rotX": 0,
-      "rotY": 180,
-      "rotZ": 180,
-      "scaleX": 1,
-      "scaleY": 1,
-      "scaleZ": 1
-     },
-     "Nickname": "Legionario de la Décima",
-     "Description": "4 Oro · TROPA · P3\nDILIGENTE. Tus otras Tropas Legionario ganan +1 Poder.",
-     "CardID": 103,
-     "SidewaysCard": false,
-     "CustomDeck": {
-      "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png",
-       "NumWidth": 10,
-       "NumHeight": 3,
-       "BackIsHidden": true,
-       "UniqueBack": false,
-       "Type": 0
-      }
-     }
-    },
-    {
-     "Name": "Card",
-     "Transform": {
-      "posX": 0,
-      "posY": 0,
-      "posZ": 0,
-      "rotX": 0,
-      "rotY": 180,
-      "rotZ": 180,
-      "scaleX": 1,
-      "scaleY": 1,
-      "scaleZ": 1
-     },
-     "Nickname": "Legionario de la Décima",
-     "Description": "4 Oro · TROPA · P3\nDILIGENTE. Tus otras Tropas Legionario ganan +1 Poder.",
-     "CardID": 103,
-     "SidewaysCard": false,
-     "CustomDeck": {
-      "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png",
-       "NumWidth": 10,
-       "NumHeight": 3,
-       "BackIsHidden": true,
-       "UniqueBack": false,
-       "Type": 0
-      }
-     }
-    },
-    {
-     "Name": "Card",
-     "Transform": {
-      "posX": 0,
-      "posY": 0,
-      "posZ": 0,
-      "rotX": 0,
-      "rotY": 180,
-      "rotZ": 180,
-      "scaleX": 1,
-      "scaleY": 1,
-      "scaleZ": 1
-     },
-     "Nickname": "Legionario de la Décima",
-     "Description": "4 Oro · TROPA · P3\nDILIGENTE. Tus otras Tropas Legionario ganan +1 Poder.",
-     "CardID": 103,
-     "SidewaysCard": false,
-     "CustomDeck": {
-      "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png",
-       "NumWidth": 10,
-       "NumHeight": 3,
-       "BackIsHidden": true,
-       "UniqueBack": false,
-       "Type": 0
-      }
-     }
-    },
-    {
-     "Name": "Card",
-     "Transform": {
-      "posX": 0,
-      "posY": 0,
-      "posZ": 0,
-      "rotX": 0,
-      "rotY": 180,
-      "rotZ": 180,
-      "scaleX": 1,
-      "scaleY": 1,
-      "scaleZ": 1
-     },
-     "Nickname": "Legionario de la Décima",
-     "Description": "4 Oro · TROPA · P3\nDILIGENTE. Tus otras Tropas Legionario ganan +1 Poder.",
-     "CardID": 103,
-     "SidewaysCard": false,
-     "CustomDeck": {
-      "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png",
-       "NumWidth": 10,
-       "NumHeight": 3,
-       "BackIsHidden": true,
-       "UniqueBack": false,
-       "Type": 0
-      }
-     }
-    },
-    {
-     "Name": "Card",
-     "Transform": {
-      "posX": 0,
-      "posY": 0,
-      "posZ": 0,
-      "rotX": 0,
-      "rotY": 180,
-      "rotZ": 180,
-      "scaleX": 1,
-      "scaleY": 1,
-      "scaleZ": 1
-     },
-     "Nickname": "Triario Veterano",
-     "Description": "4 Oro · TROPA · P4\nESCUDO 1. Tus otras Tropas Legionario ganan +1 Poder mientras bloquean.",
-     "CardID": 104,
-     "SidewaysCard": false,
-     "CustomDeck": {
-      "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png",
-       "NumWidth": 10,
-       "NumHeight": 3,
-       "BackIsHidden": true,
-       "UniqueBack": false,
-       "Type": 0
-      }
-     }
-    },
-    {
-     "Name": "Card",
-     "Transform": {
-      "posX": 0,
-      "posY": 0,
-      "posZ": 0,
-      "rotX": 0,
-      "rotY": 180,
-      "rotZ": 180,
-      "scaleX": 1,
-      "scaleY": 1,
-      "scaleZ": 1
-     },
-     "Nickname": "Triario Veterano",
-     "Description": "4 Oro · TROPA · P4\nESCUDO 1. Tus otras Tropas Legionario ganan +1 Poder mientras bloquean.",
-     "CardID": 104,
-     "SidewaysCard": false,
-     "CustomDeck": {
-      "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png",
-       "NumWidth": 10,
-       "NumHeight": 3,
-       "BackIsHidden": true,
-       "UniqueBack": false,
-       "Type": 0
-      }
-     }
-    },
-    {
-     "Name": "Card",
-     "Transform": {
-      "posX": 0,
-      "posY": 0,
-      "posZ": 0,
-      "rotX": 0,
-      "rotY": 180,
-      "rotZ": 180,
-      "scaleX": 1,
-      "scaleY": 1,
-      "scaleZ": 1
-     },
-     "Nickname": "Triario Veterano",
-     "Description": "4 Oro · TROPA · P4\nESCUDO 1. Tus otras Tropas Legionario ganan +1 Poder mientras bloquean.",
-     "CardID": 104,
-     "SidewaysCard": false,
-     "CustomDeck": {
-      "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png",
-       "NumWidth": 10,
-       "NumHeight": 3,
-       "BackIsHidden": true,
-       "UniqueBack": false,
-       "Type": 0
-      }
-     }
-    },
-    {
-     "Name": "Card",
-     "Transform": {
-      "posX": 0,
-      "posY": 0,
-      "posZ": 0,
-      "rotX": 0,
-      "rotY": 180,
-      "rotZ": 180,
-      "scaleX": 1,
-      "scaleY": 1,
-      "scaleZ": 1
-     },
-     "Nickname": "Triario Veterano",
-     "Description": "4 Oro · TROPA · P4\nESCUDO 1. Tus otras Tropas Legionario ganan +1 Poder mientras bloquean.",
-     "CardID": 104,
-     "SidewaysCard": false,
-     "CustomDeck": {
-      "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png",
-       "NumWidth": 10,
-       "NumHeight": 3,
-       "BackIsHidden": true,
-       "UniqueBack": false,
-       "Type": 0
-      }
-     }
-    },
-    {
-     "Name": "Card",
-     "Transform": {
-      "posX": 0,
-      "posY": 0,
-      "posZ": 0,
-      "rotX": 0,
-      "rotY": 180,
-      "rotZ": 180,
-      "scaleX": 1,
-      "scaleY": 1,
-      "scaleZ": 1
-     },
-     "Nickname": "Signifer de la Décima",
-     "Description": "4 Oro · TROPA · P3\nTus otras Tropas Legionario tienen ASALTO 1.",
-     "CardID": 105,
-     "SidewaysCard": false,
-     "CustomDeck": {
-      "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png",
-       "NumWidth": 10,
-       "NumHeight": 3,
-       "BackIsHidden": true,
-       "UniqueBack": false,
-       "Type": 0
-      }
-     }
-    },
-    {
-     "Name": "Card",
-     "Transform": {
-      "posX": 0,
-      "posY": 0,
-      "posZ": 0,
-      "rotX": 0,
-      "rotY": 180,
-      "rotZ": 180,
-      "scaleX": 1,
-      "scaleY": 1,
-      "scaleZ": 1
-     },
-     "Nickname": "Signifer de la Décima",
-     "Description": "4 Oro · TROPA · P3\nTus otras Tropas Legionario tienen ASALTO 1.",
-     "CardID": 105,
-     "SidewaysCard": false,
-     "CustomDeck": {
-      "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png",
-       "NumWidth": 10,
-       "NumHeight": 3,
-       "BackIsHidden": true,
-       "UniqueBack": false,
-       "Type": 0
-      }
-     }
-    },
-    {
-     "Name": "Card",
-     "Transform": {
-      "posX": 0,
-      "posY": 0,
-      "posZ": 0,
-      "rotX": 0,
-      "rotY": 180,
-      "rotZ": 180,
-      "scaleX": 1,
-      "scaleY": 1,
-      "scaleZ": 1
-     },
-     "Nickname": "Signifer de la Décima",
-     "Description": "4 Oro · TROPA · P3\nTus otras Tropas Legionario tienen ASALTO 1.",
-     "CardID": 105,
-     "SidewaysCard": false,
-     "CustomDeck": {
-      "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png",
-       "NumWidth": 10,
-       "NumHeight": 3,
-       "BackIsHidden": true,
-       "UniqueBack": false,
-       "Type": 0
-      }
-     }
-    },
-    {
-     "Name": "Card",
-     "Transform": {
-      "posX": 0,
-      "posY": 0,
-      "posZ": 0,
-      "rotX": 0,
-      "rotY": 180,
-      "rotZ": 180,
-      "scaleX": 1,
-      "scaleY": 1,
-      "scaleZ": 1
-     },
-     "Nickname": "Marco Antonio, Mano Derecha de César",
-     "Description": "5 Oro + F1 · TROPA · P5 · General de Julio César\nCARGA. Tus otras Tropas Legionario tienen CARGA. Cuando Marco Antonio ataque, tus unidades atacantes ganan +2 Poder este turno.",
-     "CardID": 106,
-     "SidewaysCard": false,
-     "CustomDeck": {
-      "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png",
-       "NumWidth": 10,
-       "NumHeight": 3,
-       "BackIsHidden": true,
-       "UniqueBack": false,
-       "Type": 0
-      }
-     }
-    },
-    {
-     "Name": "Card",
-     "Transform": {
-      "posX": 0,
-      "posY": 0,
-      "posZ": 0,
-      "rotX": 0,
-      "rotY": 180,
-      "rotZ": 180,
-      "scaleX": 1,
-      "scaleY": 1,
-      "scaleZ": 1
-     },
-     "Nickname": "Tito Labieno, Legado de la Galia",
-     "Description": "5 Oro + F1 · TROPA · P4 · General de Julio César\nVIGILANTE. Tus otras Tropas Legionario tienen VIGILANTE. Cuando declares bloqueadoras, tus Tropas Legionario bloqueadoras ganan ESCUDO 2 este combate.",
-     "CardID": 107,
-     "SidewaysCard": false,
-     "CustomDeck": {
-      "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png",
-       "NumWidth": 10,
-       "NumHeight": 3,
-       "BackIsHidden": true,
-       "UniqueBack": false,
-       "Type": 0
-      }
-     }
-    },
-    {
-     "Name": "Card",
-     "Transform": {
-      "posX": 0,
-      "posY": 0,
-      "posZ": 0,
-      "rotX": 0,
-      "rotY": 180,
-      "rotZ": 180,
-      "scaleX": 1,
-      "scaleY": 1,
-      "scaleZ": 1
-     },
-     "Nickname": "Centurión",
-     "Description": "6 Oro + F1 · TROPA · P5\nVIGILANTE. Tus otras Tropas Legionario tienen ESCUDO 1.",
-     "CardID": 108,
-     "SidewaysCard": false,
-     "CustomDeck": {
-      "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png",
-       "NumWidth": 10,
-       "NumHeight": 3,
-       "BackIsHidden": true,
-       "UniqueBack": false,
-       "Type": 0
-      }
-     }
-    },
-    {
-     "Name": "Card",
-     "Transform": {
-      "posX": 0,
-      "posY": 0,
-      "posZ": 0,
-      "rotX": 0,
-      "rotY": 180,
-      "rotZ": 180,
-      "scaleX": 1,
-      "scaleY": 1,
-      "scaleZ": 1
-     },
-     "Nickname": "Centurión",
-     "Description": "6 Oro + F1 · TROPA · P5\nVIGILANTE. Tus otras Tropas Legionario tienen ESCUDO 1.",
-     "CardID": 108,
-     "SidewaysCard": false,
-     "CustomDeck": {
-      "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png",
-       "NumWidth": 10,
-       "NumHeight": 3,
-       "BackIsHidden": true,
-       "UniqueBack": false,
-       "Type": 0
-      }
-     }
-    },
-    {
-     "Name": "Card",
-     "Transform": {
-      "posX": 0,
-      "posY": 0,
-      "posZ": 0,
-      "rotX": 0,
-      "rotY": 180,
-      "rotZ": 180,
-      "scaleX": 1,
-      "scaleY": 1,
-      "scaleZ": 1
-     },
-     "Nickname": "Primus Pilus",
-     "Description": "6 Oro + F1 · TROPA · P5\nGUARDIÁN 2. Cuando juegas una tropa legionario robas 1 carta y descartas 1.",
-     "CardID": 109,
-     "SidewaysCard": false,
-     "CustomDeck": {
-      "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png",
-       "NumWidth": 10,
-       "NumHeight": 3,
-       "BackIsHidden": true,
-       "UniqueBack": false,
-       "Type": 0
-      }
-     }
-    },
-    {
-     "Name": "Card",
-     "Transform": {
-      "posX": 0,
-      "posY": 0,
-      "posZ": 0,
-      "rotX": 0,
-      "rotY": 180,
-      "rotZ": 180,
-      "scaleX": 1,
-      "scaleY": 1,
-      "scaleZ": 1
-     },
-     "Nickname": "Escipión el Africano",
-     "Description": "7 Oro + F1 · TROPA · P7\nCARGA. Cuando ataque, otra Tropa atacante que controles gana ARROLLAR este turno. Cuando una de tus Tropas haga daño a la Moral de un oponente, roba 2 cartas y luego descarta 1 carta.",
-     "CardID": 110,
-     "SidewaysCard": false,
-     "CustomDeck": {
-      "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png?v=220",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -917,13 +134,13 @@
       "scaleZ": 1
      },
      "Nickname": "Medicus",
-     "Description": "2 Oro · SOPORTE · R4\nUna vez por turno — REACCIÓN: Agota este Soporte: previene los próximos 2 daños a un objetivo este turno.",
-     "CardID": 111,
+     "Description": "2 Oro · UNIDAD · P1\nUna vez por turno — REACCIÓN: Agota esta Unidad: previene los próximos 2 daños a un objetivo este turno.",
+     "CardID": 100,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png?v=220",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -946,13 +163,245 @@
       "scaleZ": 1
      },
      "Nickname": "Medicus",
-     "Description": "2 Oro · SOPORTE · R4\nUna vez por turno — REACCIÓN: Agota este Soporte: previene los próximos 2 daños a un objetivo este turno.",
-     "CardID": 111,
+     "Description": "2 Oro · UNIDAD · P1\nUna vez por turno — REACCIÓN: Agota esta Unidad: previene los próximos 2 daños a un objetivo este turno.",
+     "CardID": 100,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png?v=220",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Legionario de Primera Línea",
+     "Description": "2 Oro · UNIDAD · P2\nTus Unidades Legionario tienen +1 Poder mientras atacan una Estructura.",
+     "CardID": 101,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png?v=220",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Legionario de Primera Línea",
+     "Description": "2 Oro · UNIDAD · P2\nTus Unidades Legionario tienen +1 Poder mientras atacan una Estructura.",
+     "CardID": 101,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png?v=220",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Legionario de Primera Línea",
+     "Description": "2 Oro · UNIDAD · P2\nTus Unidades Legionario tienen +1 Poder mientras atacan una Estructura.",
+     "CardID": 101,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png?v=220",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Legionario de Primera Línea",
+     "Description": "2 Oro · UNIDAD · P2\nTus Unidades Legionario tienen +1 Poder mientras atacan una Estructura.",
+     "CardID": 101,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png?v=220",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Pretoriano",
+     "Description": "3 Oro · UNIDAD · P3\nAURA LEGIONARIA — Tus otras Unidades Legionario tienen «Cuando esta Unidad sea bloqueada, haz 1 de daño a cualquier objetivo». Este efecto no se acumula.",
+     "CardID": 102,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png?v=220",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Pretoriano",
+     "Description": "3 Oro · UNIDAD · P3\nAURA LEGIONARIA — Tus otras Unidades Legionario tienen «Cuando esta Unidad sea bloqueada, haz 1 de daño a cualquier objetivo». Este efecto no se acumula.",
+     "CardID": 102,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png?v=220",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Pretoriano",
+     "Description": "3 Oro · UNIDAD · P3\nAURA LEGIONARIA — Tus otras Unidades Legionario tienen «Cuando esta Unidad sea bloqueada, haz 1 de daño a cualquier objetivo». Este efecto no se acumula.",
+     "CardID": 102,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png?v=220",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Pretoriano",
+     "Description": "3 Oro · UNIDAD · P3\nAURA LEGIONARIA — Tus otras Unidades Legionario tienen «Cuando esta Unidad sea bloqueada, haz 1 de daño a cualquier objetivo». Este efecto no se acumula.",
+     "CardID": 102,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png?v=220",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -975,13 +424,622 @@
       "scaleZ": 1
      },
      "Nickname": "Cincinato",
-     "Description": "3 Oro · SOPORTE · R4\nAl entrar, si un oponente controla más Tropas que tú, roba 1 carta. Una vez por turno — REACCIÓN: Después de que un oponente declare atacantes, puedes redirigir hacia Cincinato uno de esos ataques.",
+     "Description": "3 Oro · UNIDAD · P4\nDEFENSOR (No puede atacar). GUARDIÁN 2. Al entrar, si un oponente controla más Unidades que tú, roba 1 carta.",
+     "CardID": 103,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png?v=220",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Équite Romano",
+     "Description": "3 Oro · UNIDAD · P3\nCARGA (Puede atacar el turno en que entra).",
+     "CardID": 104,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png?v=220",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Équite Romano",
+     "Description": "3 Oro · UNIDAD · P3\nCARGA (Puede atacar el turno en que entra).",
+     "CardID": 104,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png?v=220",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Équite Romano",
+     "Description": "3 Oro · UNIDAD · P3\nCARGA (Puede atacar el turno en que entra).",
+     "CardID": 104,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png?v=220",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Équite Romano",
+     "Description": "3 Oro · UNIDAD · P3\nCARGA (Puede atacar el turno en que entra).",
+     "CardID": 104,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png?v=220",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Legionario de la Décima",
+     "Description": "4 Oro · UNIDAD · P3\nDILIGENTE. Tus otras Unidades Legionario ganan +1 Poder.",
+     "CardID": 105,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png?v=220",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Legionario de la Décima",
+     "Description": "4 Oro · UNIDAD · P3\nDILIGENTE. Tus otras Unidades Legionario ganan +1 Poder.",
+     "CardID": 105,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png?v=220",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Legionario de la Décima",
+     "Description": "4 Oro · UNIDAD · P3\nDILIGENTE. Tus otras Unidades Legionario ganan +1 Poder.",
+     "CardID": 105,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png?v=220",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Legionario de la Décima",
+     "Description": "4 Oro · UNIDAD · P3\nDILIGENTE. Tus otras Unidades Legionario ganan +1 Poder.",
+     "CardID": 105,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png?v=220",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Triario Veterano",
+     "Description": "4 Oro · UNIDAD · P4\nESCUDO 1. Tus otras Unidades Legionario ganan +1 Poder mientras bloquean.",
+     "CardID": 106,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png?v=220",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Triario Veterano",
+     "Description": "4 Oro · UNIDAD · P4\nESCUDO 1. Tus otras Unidades Legionario ganan +1 Poder mientras bloquean.",
+     "CardID": 106,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png?v=220",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Triario Veterano",
+     "Description": "4 Oro · UNIDAD · P4\nESCUDO 1. Tus otras Unidades Legionario ganan +1 Poder mientras bloquean.",
+     "CardID": 106,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png?v=220",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Triario Veterano",
+     "Description": "4 Oro · UNIDAD · P4\nESCUDO 1. Tus otras Unidades Legionario ganan +1 Poder mientras bloquean.",
+     "CardID": 106,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png?v=220",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Signifer de la Décima",
+     "Description": "4 Oro · UNIDAD · P3\nTus otras Unidades Legionario tienen ASALTO 1.",
+     "CardID": 107,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png?v=220",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Signifer de la Décima",
+     "Description": "4 Oro · UNIDAD · P3\nTus otras Unidades Legionario tienen ASALTO 1.",
+     "CardID": 107,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png?v=220",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Signifer de la Décima",
+     "Description": "4 Oro · UNIDAD · P3\nTus otras Unidades Legionario tienen ASALTO 1.",
+     "CardID": 107,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png?v=220",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Signifer de la Décima",
+     "Description": "4 Oro · UNIDAD · P3\nTus otras Unidades Legionario tienen ASALTO 1.",
+     "CardID": 107,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png?v=220",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Marco Antonio, Mano Derecha de César",
+     "Description": "5 Oro + F1 · UNIDAD · P5 · General de Julio César\nCARGA. Tus otras Unidades Legionario tienen CARGA. Cuando Marco Antonio ataque, tus Unidades atacantes ganan +2 Poder este turno.",
+     "CardID": 108,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png?v=220",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Tito Labieno, Legado de la Galia",
+     "Description": "5 Oro + F1 · UNIDAD · P4 · General de Julio César\nVIGILANTE. Tus otras Unidades Legionario tienen VIGILANTE. Cuando declares bloqueadoras, tus Unidades Legionario bloqueadoras ganan ESCUDO 2 este combate.",
+     "CardID": 109,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png?v=220",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Centurión",
+     "Description": "6 Oro + F1 · UNIDAD · P5\nVIGILANTE. Tus otras Unidades Legionario tienen ESCUDO 1.",
+     "CardID": 110,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png?v=220",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Primus Pilus",
+     "Description": "6 Oro + F1 · UNIDAD · P5\nGUARDIÁN 2. Cuando juegas una Unidad legionario robas 1 carta y descartas 1.",
+     "CardID": 111,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png?v=220",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Escipión el Africano",
+     "Description": "7 Oro + F1 · UNIDAD · P7\nCARGA. Cuando ataque, otra Unidad atacante que controles gana ARROLLAR este turno. Cuando una de tus Unidades haga daño a la Moral de un oponente, roba 2 cartas y luego descarta 1 carta.",
      "CardID": 112,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png?v=220",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1003,14 +1061,14 @@
       "scaleY": 1,
       "scaleZ": 1
      },
-     "Nickname": "Castrum Romano",
-     "Description": "3 Oro · ESTRUCTURA · R5\nLa primera vez en cada turno que un oponente declare atacantes, puedes redirigir hacia Castrum Romano uno de esos ataques.",
+     "Nickname": "Pilum Legionario",
+     "Description": "1 Oro · Equipar 1 · ARMAMENTO\nEquipa a una Unidad. La portadora gana +1 Poder. REACCIÓN — cuando la portadora ataque: FUNDE 1 Oro de Conquista y desequipa Pilum Legionario: haz 2 de daño a cualquier objetivo.",
      "CardID": 113,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png?v=220",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1033,71 +1091,13 @@
       "scaleZ": 1
      },
      "Nickname": "Pilum Legionario",
-     "Description": "1 Oro · Equipar 1 · ARMAMENTO\nEquipa a una Tropa. La portadora gana +1 Poder. REACCIÓN — cuando la portadora ataque: FUNDE 1 Oro de Conquista y desequipa Pilum Legionario: haz 2 de daño a cualquier objetivo.",
-     "CardID": 114,
+     "Description": "1 Oro · Equipar 1 · ARMAMENTO\nEquipa a una Unidad. La portadora gana +1 Poder. REACCIÓN — cuando la portadora ataque: FUNDE 1 Oro de Conquista y desequipa Pilum Legionario: haz 2 de daño a cualquier objetivo.",
+     "CardID": 113,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png",
-       "NumWidth": 10,
-       "NumHeight": 3,
-       "BackIsHidden": true,
-       "UniqueBack": false,
-       "Type": 0
-      }
-     }
-    },
-    {
-     "Name": "Card",
-     "Transform": {
-      "posX": 0,
-      "posY": 0,
-      "posZ": 0,
-      "rotX": 0,
-      "rotY": 180,
-      "rotZ": 180,
-      "scaleX": 1,
-      "scaleY": 1,
-      "scaleZ": 1
-     },
-     "Nickname": "Pilum Legionario",
-     "Description": "1 Oro · Equipar 1 · ARMAMENTO\nEquipa a una Tropa. La portadora gana +1 Poder. REACCIÓN — cuando la portadora ataque: FUNDE 1 Oro de Conquista y desequipa Pilum Legionario: haz 2 de daño a cualquier objetivo.",
-     "CardID": 114,
-     "SidewaysCard": false,
-     "CustomDeck": {
-      "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png",
-       "NumWidth": 10,
-       "NumHeight": 3,
-       "BackIsHidden": true,
-       "UniqueBack": false,
-       "Type": 0
-      }
-     }
-    },
-    {
-     "Name": "Card",
-     "Transform": {
-      "posX": 0,
-      "posY": 0,
-      "posZ": 0,
-      "rotX": 0,
-      "rotY": 180,
-      "rotZ": 180,
-      "scaleX": 1,
-      "scaleY": 1,
-      "scaleZ": 1
-     },
-     "Nickname": "Pilum Legionario",
-     "Description": "1 Oro · Equipar 1 · ARMAMENTO\nEquipa a una Tropa. La portadora gana +1 Poder. REACCIÓN — cuando la portadora ataque: FUNDE 1 Oro de Conquista y desequipa Pilum Legionario: haz 2 de daño a cualquier objetivo.",
-     "CardID": 114,
-     "SidewaysCard": false,
-     "CustomDeck": {
-      "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png?v=220",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1120,13 +1120,13 @@
       "scaleZ": 1
      },
      "Nickname": "Águila de la Legión",
-     "Description": "3 Oro · Equipar 2 · ARMAMENTO\nEquipa a una Tropa. Tus otras Tropas tienen +1 Poder mientras la portadora esté Activa.",
-     "CardID": 115,
+     "Description": "3 Oro · Equipar 2 · ARMAMENTO\nEquipa a una Unidad. Tus otras Unidades tienen +1 Poder mientras la portadora esté Activa.",
+     "CardID": 114,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png?v=220",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1149,13 +1149,42 @@
       "scaleZ": 1
      },
      "Nickname": "Águila de la Legión",
-     "Description": "3 Oro · Equipar 2 · ARMAMENTO\nEquipa a una Tropa. Tus otras Tropas tienen +1 Poder mientras la portadora esté Activa.",
+     "Description": "3 Oro · Equipar 2 · ARMAMENTO\nEquipa a una Unidad. Tus otras Unidades tienen +1 Poder mientras la portadora esté Activa.",
+     "CardID": 114,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png?v=220",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Bloqueo de Escudos",
+     "Description": "0 Oro + F1 · TÁCTICA\nREACCIÓN —  una Unidad tuya gana ESCUDO 2 e inmunidad a tacticas este turno. Si ya tenía ESCUDO, gana además +1 Poder este turno.",
      "CardID": 115,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png?v=220",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1178,13 +1207,13 @@
       "scaleZ": 1
      },
      "Nickname": "Bloqueo de Escudos",
-     "Description": "0 Oro + F1 · TÁCTICA\nUna Tropa tuya gana ESCUDO 2 este turno. Si ya tenía ESCUDO antes de este efecto, gana además +1 Poder este combate.",
-     "CardID": 116,
+     "Description": "0 Oro + F1 · TÁCTICA\nREACCIÓN —  una Unidad tuya gana ESCUDO 2 e inmunidad a tacticas este turno. Si ya tenía ESCUDO, gana además +1 Poder este turno.",
+     "CardID": 115,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png?v=220",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1207,71 +1236,13 @@
       "scaleZ": 1
      },
      "Nickname": "Bloqueo de Escudos",
-     "Description": "0 Oro + F1 · TÁCTICA\nUna Tropa tuya gana ESCUDO 2 este turno. Si ya tenía ESCUDO antes de este efecto, gana además +1 Poder este combate.",
-     "CardID": 116,
+     "Description": "0 Oro + F1 · TÁCTICA\nREACCIÓN —  una Unidad tuya gana ESCUDO 2 e inmunidad a tacticas este turno. Si ya tenía ESCUDO, gana además +1 Poder este turno.",
+     "CardID": 115,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png",
-       "NumWidth": 10,
-       "NumHeight": 3,
-       "BackIsHidden": true,
-       "UniqueBack": false,
-       "Type": 0
-      }
-     }
-    },
-    {
-     "Name": "Card",
-     "Transform": {
-      "posX": 0,
-      "posY": 0,
-      "posZ": 0,
-      "rotX": 0,
-      "rotY": 180,
-      "rotZ": 180,
-      "scaleX": 1,
-      "scaleY": 1,
-      "scaleZ": 1
-     },
-     "Nickname": "Bloqueo de Escudos",
-     "Description": "0 Oro + F1 · TÁCTICA\nUna Tropa tuya gana ESCUDO 2 este turno. Si ya tenía ESCUDO antes de este efecto, gana además +1 Poder este combate.",
-     "CardID": 116,
-     "SidewaysCard": false,
-     "CustomDeck": {
-      "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png",
-       "NumWidth": 10,
-       "NumHeight": 3,
-       "BackIsHidden": true,
-       "UniqueBack": false,
-       "Type": 0
-      }
-     }
-    },
-    {
-     "Name": "Card",
-     "Transform": {
-      "posX": 0,
-      "posY": 0,
-      "posZ": 0,
-      "rotX": 0,
-      "rotY": 180,
-      "rotZ": 180,
-      "scaleX": 1,
-      "scaleY": 1,
-      "scaleZ": 1
-     },
-     "Nickname": "Bloqueo de Escudos",
-     "Description": "0 Oro + F1 · TÁCTICA\nUna Tropa tuya gana ESCUDO 2 este turno. Si ya tenía ESCUDO antes de este efecto, gana además +1 Poder este combate.",
-     "CardID": 116,
-     "SidewaysCard": false,
-     "CustomDeck": {
-      "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png?v=220",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1294,13 +1265,13 @@
       "scaleZ": 1
      },
      "Nickname": "Formación Testudo",
-     "Description": "1 Oro + F1 · TÁCTICA\nREACCIÓN — después de declarar bloqueadores: elige una Tropa atacante bloqueada por dos o más Tropas tuyas. Esas Tropas bloqueadoras ganan +1 Poder y ESCUDO 2 este combate.",
-     "CardID": 117,
+     "Description": "1 Oro + F1 · TÁCTICA\nREACCIÓN — Tus unidades ganan ESCUDO 3 este turno, no pueden atacar este turno, todas deben defender.",
+     "CardID": 116,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png?v=220",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1323,13 +1294,42 @@
       "scaleZ": 1
      },
      "Nickname": "Formación Testudo",
-     "Description": "1 Oro + F1 · TÁCTICA\nREACCIÓN — después de declarar bloqueadores: elige una Tropa atacante bloqueada por dos o más Tropas tuyas. Esas Tropas bloqueadoras ganan +1 Poder y ESCUDO 2 este combate.",
+     "Description": "1 Oro + F1 · TÁCTICA\nREACCIÓN — Tus unidades ganan ESCUDO 3 este turno, no pueden atacar este turno, todas deben defender.",
+     "CardID": 116,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png?v=220",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Arbitraje del Senado",
+     "Description": "2 Oro + F1 · TÁCTICA\nREACCIÓN — Cuando una Unidad rival sea declarada atacante o bloqueadora: su controlador puede pagar 4 Oros. Si no lo hace, retírala del combate.",
      "CardID": 117,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png?v=220",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1352,13 +1352,13 @@
       "scaleZ": 1
      },
      "Nickname": "Arbitraje del Senado",
-     "Description": "2 Oro + F1 · TÁCTICA\nREACCIÓN — cuando una Tropa que controle un oponente sea declarada atacante o bloqueadora: su controlador puede pagar 2 Oros. Si no lo hace, retírala del combate.",
-     "CardID": 118,
+     "Description": "2 Oro + F1 · TÁCTICA\nREACCIÓN — Cuando una Unidad rival sea declarada atacante o bloqueadora: su controlador puede pagar 4 Oros. Si no lo hace, retírala del combate.",
+     "CardID": 117,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png?v=220",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1381,42 +1381,13 @@
       "scaleZ": 1
      },
      "Nickname": "Arbitraje del Senado",
-     "Description": "2 Oro + F1 · TÁCTICA\nREACCIÓN — cuando una Tropa que controle un oponente sea declarada atacante o bloqueadora: su controlador puede pagar 2 Oros. Si no lo hace, retírala del combate.",
-     "CardID": 118,
+     "Description": "2 Oro + F1 · TÁCTICA\nREACCIÓN — Cuando una Unidad rival sea declarada atacante o bloqueadora: su controlador puede pagar 4 Oros. Si no lo hace, retírala del combate.",
+     "CardID": 117,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png",
-       "NumWidth": 10,
-       "NumHeight": 3,
-       "BackIsHidden": true,
-       "UniqueBack": false,
-       "Type": 0
-      }
-     }
-    },
-    {
-     "Name": "Card",
-     "Transform": {
-      "posX": 0,
-      "posY": 0,
-      "posZ": 0,
-      "rotX": 0,
-      "rotY": 180,
-      "rotZ": 180,
-      "scaleX": 1,
-      "scaleY": 1,
-      "scaleZ": 1
-     },
-     "Nickname": "Arbitraje del Senado",
-     "Description": "2 Oro + F1 · TÁCTICA\nREACCIÓN — cuando una Tropa que controle un oponente sea declarada atacante o bloqueadora: su controlador puede pagar 2 Oros. Si no lo hace, retírala del combate.",
-     "CardID": 118,
-     "SidewaysCard": false,
-     "CustomDeck": {
-      "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png?v=220",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1439,13 +1410,13 @@
       "scaleZ": 1
      },
      "Nickname": "Cruce del Rubicón",
-     "Description": "5 Oro + F1 · EVENTO HISTÓRICO\nTus Tropas ganan +1 Poder y VIGILANTE este turno. Si controlas 3 o más Tropas Activas, ganan +2 Poder en su lugar.",
-     "CardID": 119,
+     "Description": "3 Oro + F1 · EVENTO HISTÓRICO\nTus Unidades ganan +1 Poder y VIGILANTE este turno. Si controlas 3 o más Unidades Activas, ganan +2 Poder en su lugar.",
+     "CardID": 118,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png?v=220",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1468,13 +1439,42 @@
       "scaleZ": 1
      },
      "Nickname": "Cruce del Rubicón",
-     "Description": "5 Oro + F1 · EVENTO HISTÓRICO\nTus Tropas ganan +1 Poder y VIGILANTE este turno. Si controlas 3 o más Tropas Activas, ganan +2 Poder en su lugar.",
-     "CardID": 119,
+     "Description": "3 Oro + F1 · EVENTO HISTÓRICO\nTus Unidades ganan +1 Poder y VIGILANTE este turno. Si controlas 3 o más Unidades Activas, ganan +2 Poder en su lugar.",
+     "CardID": 118,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png?v=220",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Cruce del Rubicón",
+     "Description": "3 Oro + F1 · EVENTO HISTÓRICO\nTus Unidades ganan +1 Poder y VIGILANTE este turno. Si controlas 3 o más Unidades Activas, ganan +2 Poder en su lugar.",
+     "CardID": 118,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png?v=220",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1497,13 +1497,13 @@
       "scaleZ": 1
      },
      "Nickname": "Alesia, Murallas en Dos Frentes",
-     "Description": "6 Oro + F1 · EVENTO HISTÓRICO · Signature de Julio César\nTus Legionarios ganan ARROLLAR este turno. Elige hasta dos Tropas que controle un oponente. Una no puede bloquear este turno. La otra no puede atacar durante el siguiente turno de su controlador.",
-     "CardID": 120,
+     "Description": "6 Oro + F1 · EVENTO HISTÓRICO · Signature de Julio César\nTus Unidades Legionario ganan ARROLLAR este turno. Elige hasta dos Unidades rivales. Una no puede bloquear este turno; la otra no puede atacar durante el siguiente turno de su controlador.",
+     "CardID": 119,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png?v=220",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1526,13 +1526,13 @@
       "scaleZ": 1
      },
      "Nickname": "Triunfo del César",
-     "Description": "7 Oro + F1 · EVENTO HISTÓRICO\nTus Tropas ganan +1 Poder y VIGILANTE este turno. Cada vez que una Tropa tuya ataque este turno, el jugador al que ataque pierde 1 Moral.",
-     "CardID": 121,
+     "Description": "7 Oro + F1 · EVENTO HISTÓRICO\nCada vez que una Unidad tuya ataque este turno, el oponente al que ataque o que controle su objetivo pierde 2 Moral.",
+     "CardID": 120,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png?v=220",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1557,13 +1557,13 @@
     "scaleZ": 1
    },
    "Nickname": "Julio César",
-   "Description": "EMPERADOR · Cadena de Mando\nLa primera vez en cada turno que despliegues una Tropa Legionario, mira las 2 cartas superiores de tu mazo. Puedes revelar una Tropa Legionario y ponerla en tu mano. Pon el resto al fondo de tu mazo en cualquier orden.",
-   "CardID": 122,
+   "Description": "EMPERADOR · Cadena de Mando\nLa primera vez en cada turno que despliegues una Unidad Legionario, mira las 2 cartas superiores de tu mazo. Puedes revelar una Unidad Legionario y ponerla en tu mano. Pon el resto al fondo de tu mazo en cualquier orden.",
+   "CardID": 121,
    "SidewaysCard": false,
    "CustomDeck": {
     "1": {
-     "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_1.png",
-     "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png",
+     "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_1.png?v=220",
+     "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png?v=220",
      "NumWidth": 10,
      "NumHeight": 3,
      "BackIsHidden": true,
@@ -1586,7 +1586,7 @@
     "scaleZ": 1
    },
    "Nickname": "Julio César — Oros (12)",
-   "Description": "IMPERIUM · Capa 1 · Compendio v2.19 · Mazos v0.2",
+   "Description": "IMPERIUM · Capa 1 · Compendio v2.20 · Mazos v0.3",
    "DeckIDs": [
     200,
     200,
@@ -1603,8 +1603,8 @@
    ],
    "CustomDeck": {
     "2": {
-     "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_2.png",
-     "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png",
+     "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_2.png?v=220",
+     "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png?v=220",
      "NumWidth": 10,
      "NumHeight": 1,
      "BackIsHidden": true,
@@ -1632,8 +1632,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_2.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_2.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png?v=220",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
@@ -1661,8 +1661,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_2.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_2.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png?v=220",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
@@ -1690,8 +1690,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_2.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_2.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png?v=220",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
@@ -1719,8 +1719,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_2.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_2.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png?v=220",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
@@ -1748,8 +1748,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_2.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_2.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png?v=220",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
@@ -1777,8 +1777,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_2.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_2.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png?v=220",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
@@ -1806,8 +1806,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_2.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_2.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png?v=220",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
@@ -1835,8 +1835,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_2.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_2.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png?v=220",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
@@ -1864,8 +1864,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_2.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_2.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png?v=220",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
@@ -1893,8 +1893,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_2.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_2.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png?v=220",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
@@ -1922,8 +1922,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_2.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_2.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png?v=220",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
@@ -1951,8 +1951,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_2.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_face_2.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/07_Julio_Cesar/07_Julio_Cesar_back.png?v=220",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,

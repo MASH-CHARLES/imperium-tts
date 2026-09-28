@@ -26,14 +26,14 @@
     "scaleZ": 1
    },
    "Nickname": "Oda Nobunaga — Mazo (50)",
-   "Description": "IMPERIUM · Capa 1 · Compendio v2.19 · Mazos v0.2",
+   "Description": "IMPERIUM · Capa 1 · Compendio v2.20 · Mazos v0.3",
    "DeckIDs": [
     100,
     100,
     100,
     101,
     101,
-    102,
+    101,
     102,
     102,
     103,
@@ -43,6 +43,7 @@
     104,
     104,
     104,
+    105,
     105,
     105,
     106,
@@ -51,17 +52,21 @@
     107,
     108,
     109,
-    109,
-    110,
-    110,
     110,
     111,
     112,
+    112,
+    112,
     113,
+    114,
+    114,
     114,
     115,
     115,
     116,
+    116,
+    116,
+    117,
     117,
     117,
     118,
@@ -70,19 +75,14 @@
     119,
     120,
     120,
+    120,
     121,
-    121,
-    122,
-    122,
-    123,
-    124,
-    125,
-    126
+    122
    ],
    "CustomDeck": {
     "1": {
-     "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png",
-     "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png",
+     "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=220",
+     "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=220",
      "NumWidth": 10,
      "NumHeight": 3,
      "BackIsHidden": true,
@@ -105,13 +105,13 @@
       "scaleZ": 1
      },
      "Nickname": "Ashigaru Explorador",
-     "Description": "1 Oro · TROPA · P1\nAl entrar, una Tropa que controle un oponente no puede bloquear este turno.",
+     "Description": "1 Oro · UNIDAD · P1\nAl entrar, una Unidad que controle un oponente no puede bloquear este turno.",
      "CardID": 100,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=220",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -134,13 +134,13 @@
       "scaleZ": 1
      },
      "Nickname": "Ashigaru Explorador",
-     "Description": "1 Oro · TROPA · P1\nAl entrar, una Tropa que controle un oponente no puede bloquear este turno.",
+     "Description": "1 Oro · UNIDAD · P1\nAl entrar, una Unidad que controle un oponente no puede bloquear este turno.",
      "CardID": 100,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=220",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -163,13 +163,13 @@
       "scaleZ": 1
      },
      "Nickname": "Ashigaru Explorador",
-     "Description": "1 Oro · TROPA · P1\nAl entrar, una Tropa que controle un oponente no puede bloquear este turno.",
+     "Description": "1 Oro · UNIDAD · P1\nAl entrar, una Unidad que controle un oponente no puede bloquear este turno.",
      "CardID": 100,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=220",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -191,14 +191,14 @@
       "scaleY": 1,
       "scaleZ": 1
      },
-     "Nickname": "Shinobi de Iga",
-     "Description": "1 Oro + F1 · TROPA · P2\nEMBOSCADA (Puedes desplegarla en la ventana de Tácticas antes de asignar bloqueadoras. Puede bloquear ese combate).",
+     "Nickname": "Kunoichi de Kōga",
+     "Description": "2 Oro · UNIDAD · P2\nAl entrar, una Unidad que controle un oponente pierde 2 Poder este turno, hasta un mínimo de 1.",
      "CardID": 101,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=220",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -220,14 +220,14 @@
       "scaleY": 1,
       "scaleZ": 1
      },
-     "Nickname": "Shinobi de Iga",
-     "Description": "1 Oro + F1 · TROPA · P2\nEMBOSCADA (Puedes desplegarla en la ventana de Tácticas antes de asignar bloqueadoras. Puede bloquear ese combate).",
+     "Nickname": "Kunoichi de Kōga",
+     "Description": "2 Oro · UNIDAD · P2\nAl entrar, una Unidad que controle un oponente pierde 2 Poder este turno, hasta un mínimo de 1.",
      "CardID": 101,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=220",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -250,477 +250,13 @@
       "scaleZ": 1
      },
      "Nickname": "Kunoichi de Kōga",
-     "Description": "2 Oro · TROPA · P2\nAl entrar, una Tropa que controle un oponente pierde 2 Poder este turno, hasta un mínimo de 1.",
-     "CardID": 102,
+     "Description": "2 Oro · UNIDAD · P2\nAl entrar, una Unidad que controle un oponente pierde 2 Poder este turno, hasta un mínimo de 1.",
+     "CardID": 101,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png",
-       "NumWidth": 10,
-       "NumHeight": 3,
-       "BackIsHidden": true,
-       "UniqueBack": false,
-       "Type": 0
-      }
-     }
-    },
-    {
-     "Name": "Card",
-     "Transform": {
-      "posX": 0,
-      "posY": 0,
-      "posZ": 0,
-      "rotX": 0,
-      "rotY": 180,
-      "rotZ": 180,
-      "scaleX": 1,
-      "scaleY": 1,
-      "scaleZ": 1
-     },
-     "Nickname": "Kunoichi de Kōga",
-     "Description": "2 Oro · TROPA · P2\nAl entrar, una Tropa que controle un oponente pierde 2 Poder este turno, hasta un mínimo de 1.",
-     "CardID": 102,
-     "SidewaysCard": false,
-     "CustomDeck": {
-      "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png",
-       "NumWidth": 10,
-       "NumHeight": 3,
-       "BackIsHidden": true,
-       "UniqueBack": false,
-       "Type": 0
-      }
-     }
-    },
-    {
-     "Name": "Card",
-     "Transform": {
-      "posX": 0,
-      "posY": 0,
-      "posZ": 0,
-      "rotX": 0,
-      "rotY": 180,
-      "rotZ": 180,
-      "scaleX": 1,
-      "scaleY": 1,
-      "scaleZ": 1
-     },
-     "Nickname": "Kunoichi de Kōga",
-     "Description": "2 Oro · TROPA · P2\nAl entrar, una Tropa que controle un oponente pierde 2 Poder este turno, hasta un mínimo de 1.",
-     "CardID": 102,
-     "SidewaysCard": false,
-     "CustomDeck": {
-      "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png",
-       "NumWidth": 10,
-       "NumHeight": 3,
-       "BackIsHidden": true,
-       "UniqueBack": false,
-       "Type": 0
-      }
-     }
-    },
-    {
-     "Name": "Card",
-     "Transform": {
-      "posX": 0,
-      "posY": 0,
-      "posZ": 0,
-      "rotX": 0,
-      "rotY": 180,
-      "rotZ": 180,
-      "scaleX": 1,
-      "scaleY": 1,
-      "scaleZ": 1
-     },
-     "Nickname": "Rōnin Renegado",
-     "Description": "2 Oro · TROPA · P4\nAl entrar, pierdes 2 Moral.",
-     "CardID": 103,
-     "SidewaysCard": false,
-     "CustomDeck": {
-      "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png",
-       "NumWidth": 10,
-       "NumHeight": 3,
-       "BackIsHidden": true,
-       "UniqueBack": false,
-       "Type": 0
-      }
-     }
-    },
-    {
-     "Name": "Card",
-     "Transform": {
-      "posX": 0,
-      "posY": 0,
-      "posZ": 0,
-      "rotX": 0,
-      "rotY": 180,
-      "rotZ": 180,
-      "scaleX": 1,
-      "scaleY": 1,
-      "scaleZ": 1
-     },
-     "Nickname": "Rōnin Renegado",
-     "Description": "2 Oro · TROPA · P4\nAl entrar, pierdes 2 Moral.",
-     "CardID": 103,
-     "SidewaysCard": false,
-     "CustomDeck": {
-      "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png",
-       "NumWidth": 10,
-       "NumHeight": 3,
-       "BackIsHidden": true,
-       "UniqueBack": false,
-       "Type": 0
-      }
-     }
-    },
-    {
-     "Name": "Card",
-     "Transform": {
-      "posX": 0,
-      "posY": 0,
-      "posZ": 0,
-      "rotX": 0,
-      "rotY": 180,
-      "rotZ": 180,
-      "scaleX": 1,
-      "scaleY": 1,
-      "scaleZ": 1
-     },
-     "Nickname": "Rōnin Renegado",
-     "Description": "2 Oro · TROPA · P4\nAl entrar, pierdes 2 Moral.",
-     "CardID": 103,
-     "SidewaysCard": false,
-     "CustomDeck": {
-      "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png",
-       "NumWidth": 10,
-       "NumHeight": 3,
-       "BackIsHidden": true,
-       "UniqueBack": false,
-       "Type": 0
-      }
-     }
-    },
-    {
-     "Name": "Card",
-     "Transform": {
-      "posX": 0,
-      "posY": 0,
-      "posZ": 0,
-      "rotX": 0,
-      "rotY": 180,
-      "rotZ": 180,
-      "scaleX": 1,
-      "scaleY": 1,
-      "scaleZ": 1
-     },
-     "Nickname": "Rōnin Renegado",
-     "Description": "2 Oro · TROPA · P4\nAl entrar, pierdes 2 Moral.",
-     "CardID": 103,
-     "SidewaysCard": false,
-     "CustomDeck": {
-      "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png",
-       "NumWidth": 10,
-       "NumHeight": 3,
-       "BackIsHidden": true,
-       "UniqueBack": false,
-       "Type": 0
-      }
-     }
-    },
-    {
-     "Name": "Card",
-     "Transform": {
-      "posX": 0,
-      "posY": 0,
-      "posZ": 0,
-      "rotX": 0,
-      "rotY": 180,
-      "rotZ": 180,
-      "scaleX": 1,
-      "scaleY": 1,
-      "scaleZ": 1
-     },
-     "Nickname": "Ninja de la Noche",
-     "Description": "3 Oro · TROPA · P2\nIMPARABLE.",
-     "CardID": 104,
-     "SidewaysCard": false,
-     "CustomDeck": {
-      "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png",
-       "NumWidth": 10,
-       "NumHeight": 3,
-       "BackIsHidden": true,
-       "UniqueBack": false,
-       "Type": 0
-      }
-     }
-    },
-    {
-     "Name": "Card",
-     "Transform": {
-      "posX": 0,
-      "posY": 0,
-      "posZ": 0,
-      "rotX": 0,
-      "rotY": 180,
-      "rotZ": 180,
-      "scaleX": 1,
-      "scaleY": 1,
-      "scaleZ": 1
-     },
-     "Nickname": "Ninja de la Noche",
-     "Description": "3 Oro · TROPA · P2\nIMPARABLE.",
-     "CardID": 104,
-     "SidewaysCard": false,
-     "CustomDeck": {
-      "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png",
-       "NumWidth": 10,
-       "NumHeight": 3,
-       "BackIsHidden": true,
-       "UniqueBack": false,
-       "Type": 0
-      }
-     }
-    },
-    {
-     "Name": "Card",
-     "Transform": {
-      "posX": 0,
-      "posY": 0,
-      "posZ": 0,
-      "rotX": 0,
-      "rotY": 180,
-      "rotZ": 180,
-      "scaleX": 1,
-      "scaleY": 1,
-      "scaleZ": 1
-     },
-     "Nickname": "Ninja de la Noche",
-     "Description": "3 Oro · TROPA · P2\nIMPARABLE.",
-     "CardID": 104,
-     "SidewaysCard": false,
-     "CustomDeck": {
-      "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png",
-       "NumWidth": 10,
-       "NumHeight": 3,
-       "BackIsHidden": true,
-       "UniqueBack": false,
-       "Type": 0
-      }
-     }
-    },
-    {
-     "Name": "Card",
-     "Transform": {
-      "posX": 0,
-      "posY": 0,
-      "posZ": 0,
-      "rotX": 0,
-      "rotY": 180,
-      "rotZ": 180,
-      "scaleX": 1,
-      "scaleY": 1,
-      "scaleZ": 1
-     },
-     "Nickname": "Momochi Sandayū",
-     "Description": "4 Oro · TROPA · P3\nEMBOSCADA. Al entrar, mira las 5 cartas superiores de tu mazo; puedes revelar una Táctica o una Tropa Infantería y ponerla en tu mano. Pon el resto al fondo.",
-     "CardID": 105,
-     "SidewaysCard": false,
-     "CustomDeck": {
-      "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png",
-       "NumWidth": 10,
-       "NumHeight": 3,
-       "BackIsHidden": true,
-       "UniqueBack": false,
-       "Type": 0
-      }
-     }
-    },
-    {
-     "Name": "Card",
-     "Transform": {
-      "posX": 0,
-      "posY": 0,
-      "posZ": 0,
-      "rotX": 0,
-      "rotY": 180,
-      "rotZ": 180,
-      "scaleX": 1,
-      "scaleY": 1,
-      "scaleZ": 1
-     },
-     "Nickname": "Momochi Sandayū",
-     "Description": "4 Oro · TROPA · P3\nEMBOSCADA. Al entrar, mira las 5 cartas superiores de tu mazo; puedes revelar una Táctica o una Tropa Infantería y ponerla en tu mano. Pon el resto al fondo.",
-     "CardID": 105,
-     "SidewaysCard": false,
-     "CustomDeck": {
-      "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png",
-       "NumWidth": 10,
-       "NumHeight": 3,
-       "BackIsHidden": true,
-       "UniqueBack": false,
-       "Type": 0
-      }
-     }
-    },
-    {
-     "Name": "Card",
-     "Transform": {
-      "posX": 0,
-      "posY": 0,
-      "posZ": 0,
-      "rotX": 0,
-      "rotY": 180,
-      "rotZ": 180,
-      "scaleX": 1,
-      "scaleY": 1,
-      "scaleZ": 1
-     },
-     "Nickname": "Hattori Hanzō",
-     "Description": "4 Oro · TROPA · P3\nEMBOSCADA. Al entrar, cansa una Tropa que controle un oponente. Una vez por turno — ACCIÓN, solo durante tu turno: FUNDE 1 Oro de Astucia: regresa a Hattori Hanzō a tu mano.",
-     "CardID": 106,
-     "SidewaysCard": false,
-     "CustomDeck": {
-      "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png",
-       "NumWidth": 10,
-       "NumHeight": 3,
-       "BackIsHidden": true,
-       "UniqueBack": false,
-       "Type": 0
-      }
-     }
-    },
-    {
-     "Name": "Card",
-     "Transform": {
-      "posX": 0,
-      "posY": 0,
-      "posZ": 0,
-      "rotX": 0,
-      "rotY": 180,
-      "rotZ": 180,
-      "scaleX": 1,
-      "scaleY": 1,
-      "scaleZ": 1
-     },
-     "Nickname": "Hattori Hanzō",
-     "Description": "4 Oro · TROPA · P3\nEMBOSCADA. Al entrar, cansa una Tropa que controle un oponente. Una vez por turno — ACCIÓN, solo durante tu turno: FUNDE 1 Oro de Astucia: regresa a Hattori Hanzō a tu mano.",
-     "CardID": 106,
-     "SidewaysCard": false,
-     "CustomDeck": {
-      "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png",
-       "NumWidth": 10,
-       "NumHeight": 3,
-       "BackIsHidden": true,
-       "UniqueBack": false,
-       "Type": 0
-      }
-     }
-    },
-    {
-     "Name": "Card",
-     "Transform": {
-      "posX": 0,
-      "posY": 0,
-      "posZ": 0,
-      "rotX": 0,
-      "rotY": 180,
-      "rotZ": 180,
-      "scaleX": 1,
-      "scaleY": 1,
-      "scaleZ": 1
-     },
-     "Nickname": "Hattori Hanzō",
-     "Description": "4 Oro · TROPA · P3\nEMBOSCADA. Al entrar, cansa una Tropa que controle un oponente. Una vez por turno — ACCIÓN, solo durante tu turno: FUNDE 1 Oro de Astucia: regresa a Hattori Hanzō a tu mano.",
-     "CardID": 106,
-     "SidewaysCard": false,
-     "CustomDeck": {
-      "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png",
-       "NumWidth": 10,
-       "NumHeight": 3,
-       "BackIsHidden": true,
-       "UniqueBack": false,
-       "Type": 0
-      }
-     }
-    },
-    {
-     "Name": "Card",
-     "Transform": {
-      "posX": 0,
-      "posY": 0,
-      "posZ": 0,
-      "rotX": 0,
-      "rotY": 180,
-      "rotZ": 180,
-      "scaleX": 1,
-      "scaleY": 1,
-      "scaleZ": 1
-     },
-     "Nickname": "Maestra de Tomoe",
-     "Description": "6 Oro + F1 · TROPA · P5\nEMBOSCADA. CARGA. Al entrar, todas las Tropas que controlen tus oponentes pierden 3 Poder este turno, hasta un mínimo de 1.",
-     "CardID": 107,
-     "SidewaysCard": false,
-     "CustomDeck": {
-      "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png",
-       "NumWidth": 10,
-       "NumHeight": 3,
-       "BackIsHidden": true,
-       "UniqueBack": false,
-       "Type": 0
-      }
-     }
-    },
-    {
-     "Name": "Card",
-     "Transform": {
-      "posX": 0,
-      "posY": 0,
-      "posZ": 0,
-      "rotX": 0,
-      "rotY": 180,
-      "rotZ": 180,
-      "scaleX": 1,
-      "scaleY": 1,
-      "scaleZ": 1
-     },
-     "Nickname": "Shibata Katsuie, Martillo del Norte",
-     "Description": "6 Oro + F1 · TROPA · P7 · General de Oda Nobunaga\nARROLLAR. Al entrar, puedes sacrificar otra unidad. Si lo haces, Shibata gana CARGA y +2 Poder este turno. Cuando Shibata haga daño a la Moral de un oponente, destruye una unidad que controle un oponente de Poder 3 o menos.",
-     "CardID": 108,
-     "SidewaysCard": false,
-     "CustomDeck": {
-      "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=220",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -743,13 +279,13 @@
       "scaleZ": 1
      },
      "Nickname": "Espía de Corte",
-     "Description": "2 Oro · SOPORTE · R4\nREACCIÓN — Agota este Soporte: una Tropa bloqueadora que controle un oponente pierde 2 Poder este combate, hasta un mínimo de 1.",
-     "CardID": 109,
+     "Description": "2 Oro · UNIDAD · P1\nREACCIÓN — Agota esta Unidad: una Unidad bloqueadora que controle un oponente pierde 2 Poder este combate, hasta un mínimo de 1.",
+     "CardID": 102,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=220",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -772,13 +308,13 @@
       "scaleZ": 1
      },
      "Nickname": "Espía de Corte",
-     "Description": "2 Oro · SOPORTE · R4\nREACCIÓN — Agota este Soporte: una Tropa bloqueadora que controle un oponente pierde 2 Poder este combate, hasta un mínimo de 1.",
-     "CardID": 109,
+     "Description": "2 Oro · UNIDAD · P1\nREACCIÓN — Agota esta Unidad: una Unidad bloqueadora que controle un oponente pierde 2 Poder este combate, hasta un mínimo de 1.",
+     "CardID": 102,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=220",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -800,14 +336,14 @@
       "scaleY": 1,
       "scaleZ": 1
      },
-     "Nickname": "Maiko Danzante",
-     "Description": "2 Oro · SOPORTE · R4\nDILIGENTE. Una vez por turno — ACCIÓN: Agota este Soporte: crea 1 Ofrenda.",
-     "CardID": 110,
+     "Nickname": "Rōnin Renegado",
+     "Description": "2 Oro · UNIDAD · P4\nAl entrar, pierdes 2 Moral.",
+     "CardID": 103,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=220",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -829,14 +365,14 @@
       "scaleY": 1,
       "scaleZ": 1
      },
-     "Nickname": "Maiko Danzante",
-     "Description": "2 Oro · SOPORTE · R4\nDILIGENTE. Una vez por turno — ACCIÓN: Agota este Soporte: crea 1 Ofrenda.",
-     "CardID": 110,
+     "Nickname": "Rōnin Renegado",
+     "Description": "2 Oro · UNIDAD · P4\nAl entrar, pierdes 2 Moral.",
+     "CardID": 103,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=220",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -858,14 +394,14 @@
       "scaleY": 1,
       "scaleZ": 1
      },
-     "Nickname": "Maiko Danzante",
-     "Description": "2 Oro · SOPORTE · R4\nDILIGENTE. Una vez por turno — ACCIÓN: Agota este Soporte: crea 1 Ofrenda.",
-     "CardID": 110,
+     "Nickname": "Rōnin Renegado",
+     "Description": "2 Oro · UNIDAD · P4\nAl entrar, pierdes 2 Moral.",
+     "CardID": 103,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=220",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -887,14 +423,275 @@
       "scaleY": 1,
       "scaleZ": 1
      },
-     "Nickname": "Onmyōji de la Corte",
-     "Description": "3 Oro · SOPORTE · R3\nLa primera vez en cada turno que sacrifiques una Ofrenda, puedes perder 1 Moral. Si lo haces, roba 1 carta.",
-     "CardID": 111,
+     "Nickname": "Rōnin Renegado",
+     "Description": "2 Oro · UNIDAD · P4\nAl entrar, pierdes 2 Moral.",
+     "CardID": 103,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=220",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Ninja de la Noche",
+     "Description": "3 Oro · UNIDAD · P2\nIMPARABLE.",
+     "CardID": 104,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=220",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Ninja de la Noche",
+     "Description": "3 Oro · UNIDAD · P2\nIMPARABLE.",
+     "CardID": 104,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=220",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Ninja de la Noche",
+     "Description": "3 Oro · UNIDAD · P2\nIMPARABLE.",
+     "CardID": 104,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=220",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Momochi Sandayū",
+     "Description": "4 Oro · UNIDAD · P3\nEMBOSCADA. Al entrar, mira las 5 cartas superiores de tu mazo; puedes revelar una Táctica o una Unidad Infantería y ponerla en tu mano. Pon el resto al fondo.",
+     "CardID": 105,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=220",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Momochi Sandayū",
+     "Description": "4 Oro · UNIDAD · P3\nEMBOSCADA. Al entrar, mira las 5 cartas superiores de tu mazo; puedes revelar una Táctica o una Unidad Infantería y ponerla en tu mano. Pon el resto al fondo.",
+     "CardID": 105,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=220",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Momochi Sandayū",
+     "Description": "4 Oro · UNIDAD · P3\nEMBOSCADA. Al entrar, mira las 5 cartas superiores de tu mazo; puedes revelar una Táctica o una Unidad Infantería y ponerla en tu mano. Pon el resto al fondo.",
+     "CardID": 105,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=220",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Hattori Hanzō",
+     "Description": "4 Oro · UNIDAD · P3\nEMBOSCADA. Al entrar, cansa una Unidad que controle un oponente. Una vez por turno — ACCIÓN, solo durante tu turno: FUNDE 1 Oro de Astucia: regresa a Hattori Hanzō a tu mano.",
+     "CardID": 106,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=220",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Hattori Hanzō",
+     "Description": "4 Oro · UNIDAD · P3\nEMBOSCADA. Al entrar, cansa una Unidad que controle un oponente. Una vez por turno — ACCIÓN, solo durante tu turno: FUNDE 1 Oro de Astucia: regresa a Hattori Hanzō a tu mano.",
+     "CardID": 106,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=220",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Hattori Hanzō",
+     "Description": "4 Oro · UNIDAD · P3\nEMBOSCADA. Al entrar, cansa una Unidad que controle un oponente. Una vez por turno — ACCIÓN, solo durante tu turno: FUNDE 1 Oro de Astucia: regresa a Hattori Hanzō a tu mano.",
+     "CardID": 106,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=220",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -917,13 +714,71 @@
       "scaleZ": 1
      },
      "Nickname": "Akechi Mitsuhide, General de Tanba",
-     "Description": "4 Oro + F1 · SOPORTE · R4 · General de Oda Nobunaga\nREACCIÓN — Agota a Akechi: una Tropa que controle un oponente pierde Poder igual a la Resistencia de Akechi este turno, hasta un mínimo de 1.",
-     "CardID": 112,
+     "Description": "4 Oro + F1 · UNIDAD · P3 · General de Oda Nobunaga\nUna vez por turno — REACCIÓN: Agota a Akechi: una Unidad que controle un oponente pierde 4 Poder este turno, hasta un mínimo de 1.",
+     "CardID": 107,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=220",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Maestra de Tomoe",
+     "Description": "6 Oro + F1 · UNIDAD · P5\nEMBOSCADA. CARGA. Al entrar, todas las Unidades que controlen tus oponentes pierden 3 Poder este turno, hasta un mínimo de 1.",
+     "CardID": 108,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=220",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Shibata Katsuie, Martillo del Norte",
+     "Description": "6 Oro + F1 · UNIDAD · P7 · General de Oda Nobunaga\nARROLLAR. Al entrar, puedes sacrificar otra Unidad. Si lo haces, Shibata gana CARGA y +2 Poder este turno. Cuando Shibata haga daño a la Moral de un oponente, destruye una Unidad que controle un oponente de Poder 3 o menos.",
+     "CardID": 109,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=220",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -946,13 +801,13 @@
       "scaleZ": 1
      },
      "Nickname": "Dōjō del Bakufu",
-     "Description": "2 Oro · ESTRUCTURA · R5 · ⚒1\nUna vez por turno — REACCIÓN: Agota 1 unidad: otra Tropa tuya gana FILO VELOZ hasta tu siguiente Ocaso. Si ya tenía FILO VELOZ, gana +2 Poder este turno en su lugar.",
-     "CardID": 113,
+     "Description": "2 Oro · ESTRUCTURA · R5 · ⚒1\nUna vez por turno — REACCIÓN: Agota 1 Unidad: otra Unidad tuya gana FILO VELOZ hasta tu siguiente Ocaso. Si ya tenía FILO VELOZ, gana +2 Poder este turno en su lugar.",
+     "CardID": 110,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=220",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -975,13 +830,13 @@
       "scaleZ": 1
      },
      "Nickname": "Castillo Azuchi",
-     "Description": "6 Oro + F1 · ESTRUCTURA · R7 · ⚒1\nUna vez por turno — ACCIÓN: Agota 1 unidad y FUNDIR 1 Ambición: destruye una Tropa Cansada que controle un oponente.",
-     "CardID": 114,
+     "Description": "6 Oro + F1 · ESTRUCTURA · R7 · ⚒1\nUna vez por turno — ACCIÓN: Agota 1 Unidad y FUNDIR 1 Ambición: destruye una Unidad Cansada que controle un oponente.",
+     "CardID": 111,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=220",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1004,13 +859,13 @@
       "scaleZ": 1
      },
      "Nickname": "Kusarigama de Iga",
-     "Description": "2 Oro · Equipar F1 · ARMAMENTO\nEquipa a una Tropa. La portadora gana +1 Poder. Cuando ataque, cansa una unidad que controle un oponente.",
-     "CardID": 115,
+     "Description": "2 Oro · Equipar F1 · ARMAMENTO\nEquipa a una Unidad. La portadora gana +1 Poder. Cuando ataque, cansa una Unidad que controle un oponente.",
+     "CardID": 112,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=220",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1033,13 +888,42 @@
       "scaleZ": 1
      },
      "Nickname": "Kusarigama de Iga",
-     "Description": "2 Oro · Equipar F1 · ARMAMENTO\nEquipa a una Tropa. La portadora gana +1 Poder. Cuando ataque, cansa una unidad que controle un oponente.",
-     "CardID": 115,
+     "Description": "2 Oro · Equipar F1 · ARMAMENTO\nEquipa a una Unidad. La portadora gana +1 Poder. Cuando ataque, cansa una Unidad que controle un oponente.",
+     "CardID": 112,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=220",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Kusarigama de Iga",
+     "Description": "2 Oro · Equipar F1 · ARMAMENTO\nEquipa a una Unidad. La portadora gana +1 Poder. Cuando ataque, cansa una Unidad que controle un oponente.",
+     "CardID": 112,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=220",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1062,13 +946,187 @@
       "scaleZ": 1
      },
      "Nickname": "Fukiya Oculta",
-     "Description": "2 Oro + F1 · Equipar 2 · ARMAMENTO\nEquipa a una Tropa. La portadora tiene ASESINATO. (Cuando inflige daño de combate a una Tropa bloqueadora, destruye esa bloqueadora después del daño.)",
+     "Description": "2 Oro + F1 · Equipar 2 · ARMAMENTO\nEquipa a una Unidad. La portadora tiene ASESINATO. (Cuando inflige daño de combate a una Unidad bloqueadora, destruye esa bloqueadora después del daño.)",
+     "CardID": 113,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=220",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Arte del Engaño",
+     "Description": "1 Oro + F1 · TÁCTICA\nREACCIÓN — Regresa a tu mano una Unidad tuya.",
+     "CardID": 114,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=220",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Arte del Engaño",
+     "Description": "1 Oro + F1 · TÁCTICA\nREACCIÓN — Regresa a tu mano una Unidad tuya.",
+     "CardID": 114,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=220",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Arte del Engaño",
+     "Description": "1 Oro + F1 · TÁCTICA\nREACCIÓN — Regresa a tu mano una Unidad tuya.",
+     "CardID": 114,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=220",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Seppuku",
+     "Description": "1 Oro · TÁCTICA\nREACCIÓN —  como coste adicional, sacrifica una Unidad tuya. Una Unidad gana +3 Poder e IMPARABLE este turno. Al final del turno, Sacrificala.",
+     "CardID": 115,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=220",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Seppuku",
+     "Description": "1 Oro · TÁCTICA\nREACCIÓN —  como coste adicional, sacrifica una Unidad tuya. Una Unidad gana +3 Poder e IMPARABLE este turno. Al final del turno, Sacrificala.",
+     "CardID": 115,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=220",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Cortina de Humo",
+     "Description": "2 Oro · TÁCTICA\nREACCIÓN — Antes de declarar bloqueadoras: una Unidad rival no puede bloquear este turno. Roba 1 carta.",
      "CardID": 116,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=220",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1090,14 +1148,14 @@
       "scaleY": 1,
       "scaleZ": 1
      },
-     "Nickname": "Ceremonia del Té",
-     "Description": "1 Oro · TÁCTICA\nCoste adicional: sacrifica una Ofrenda, Mira las 6 cartas superiores de tu mazo, elige una y colocala en tu mano, manda el resto al fondo.",
-     "CardID": 117,
+     "Nickname": "Cortina de Humo",
+     "Description": "2 Oro · TÁCTICA\nREACCIÓN — Antes de declarar bloqueadoras: una Unidad rival no puede bloquear este turno. Roba 1 carta.",
+     "CardID": 116,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=220",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1119,246 +1177,14 @@
       "scaleY": 1,
       "scaleZ": 1
      },
-     "Nickname": "Ceremonia del Té",
-     "Description": "1 Oro · TÁCTICA\nCoste adicional: sacrifica una Ofrenda, Mira las 6 cartas superiores de tu mazo, elige una y colocala en tu mano, manda el resto al fondo.",
-     "CardID": 117,
+     "Nickname": "Cortina de Humo",
+     "Description": "2 Oro · TÁCTICA\nREACCIÓN — Antes de declarar bloqueadoras: una Unidad rival no puede bloquear este turno. Roba 1 carta.",
+     "CardID": 116,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png",
-       "NumWidth": 10,
-       "NumHeight": 3,
-       "BackIsHidden": true,
-       "UniqueBack": false,
-       "Type": 0
-      }
-     }
-    },
-    {
-     "Name": "Card",
-     "Transform": {
-      "posX": 0,
-      "posY": 0,
-      "posZ": 0,
-      "rotX": 0,
-      "rotY": 180,
-      "rotZ": 180,
-      "scaleX": 1,
-      "scaleY": 1,
-      "scaleZ": 1
-     },
-     "Nickname": "Arte del Engaño",
-     "Description": "1 Oro + F1 · TÁCTICA\nRegresa a tu mano una unidad tuya del campo. Si estaba en combate, Remuevela del combate.",
-     "CardID": 118,
-     "SidewaysCard": false,
-     "CustomDeck": {
-      "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png",
-       "NumWidth": 10,
-       "NumHeight": 3,
-       "BackIsHidden": true,
-       "UniqueBack": false,
-       "Type": 0
-      }
-     }
-    },
-    {
-     "Name": "Card",
-     "Transform": {
-      "posX": 0,
-      "posY": 0,
-      "posZ": 0,
-      "rotX": 0,
-      "rotY": 180,
-      "rotZ": 180,
-      "scaleX": 1,
-      "scaleY": 1,
-      "scaleZ": 1
-     },
-     "Nickname": "Arte del Engaño",
-     "Description": "1 Oro + F1 · TÁCTICA\nRegresa a tu mano una unidad tuya del campo. Si estaba en combate, Remuevela del combate.",
-     "CardID": 118,
-     "SidewaysCard": false,
-     "CustomDeck": {
-      "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png",
-       "NumWidth": 10,
-       "NumHeight": 3,
-       "BackIsHidden": true,
-       "UniqueBack": false,
-       "Type": 0
-      }
-     }
-    },
-    {
-     "Name": "Card",
-     "Transform": {
-      "posX": 0,
-      "posY": 0,
-      "posZ": 0,
-      "rotX": 0,
-      "rotY": 180,
-      "rotZ": 180,
-      "scaleX": 1,
-      "scaleY": 1,
-      "scaleZ": 1
-     },
-     "Nickname": "Seppuku",
-     "Description": "1 Oro · TÁCTICA\nComo coste adicional, sacrifica una Tropa. Una tropa gana +3 Poder e IMPARABLE este turno. Al final del turno, destrúyela.",
-     "CardID": 119,
-     "SidewaysCard": false,
-     "CustomDeck": {
-      "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png",
-       "NumWidth": 10,
-       "NumHeight": 3,
-       "BackIsHidden": true,
-       "UniqueBack": false,
-       "Type": 0
-      }
-     }
-    },
-    {
-     "Name": "Card",
-     "Transform": {
-      "posX": 0,
-      "posY": 0,
-      "posZ": 0,
-      "rotX": 0,
-      "rotY": 180,
-      "rotZ": 180,
-      "scaleX": 1,
-      "scaleY": 1,
-      "scaleZ": 1
-     },
-     "Nickname": "Seppuku",
-     "Description": "1 Oro · TÁCTICA\nComo coste adicional, sacrifica una Tropa. Una tropa gana +3 Poder e IMPARABLE este turno. Al final del turno, destrúyela.",
-     "CardID": 119,
-     "SidewaysCard": false,
-     "CustomDeck": {
-      "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png",
-       "NumWidth": 10,
-       "NumHeight": 3,
-       "BackIsHidden": true,
-       "UniqueBack": false,
-       "Type": 0
-      }
-     }
-    },
-    {
-     "Name": "Card",
-     "Transform": {
-      "posX": 0,
-      "posY": 0,
-      "posZ": 0,
-      "rotX": 0,
-      "rotY": 180,
-      "rotZ": 180,
-      "scaleX": 1,
-      "scaleY": 1,
-      "scaleZ": 1
-     },
-     "Nickname": "Voto ante el Santuario",
-     "Description": "1 Oro · TÁCTICA\nCoste adicional: sacrifica una Ofrenda. REACCIÓN — durante un combate: una Tropa tuya gana +2 Poder y FILO VELOZ este combate.",
-     "CardID": 120,
-     "SidewaysCard": false,
-     "CustomDeck": {
-      "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png",
-       "NumWidth": 10,
-       "NumHeight": 3,
-       "BackIsHidden": true,
-       "UniqueBack": false,
-       "Type": 0
-      }
-     }
-    },
-    {
-     "Name": "Card",
-     "Transform": {
-      "posX": 0,
-      "posY": 0,
-      "posZ": 0,
-      "rotX": 0,
-      "rotY": 180,
-      "rotZ": 180,
-      "scaleX": 1,
-      "scaleY": 1,
-      "scaleZ": 1
-     },
-     "Nickname": "Voto ante el Santuario",
-     "Description": "1 Oro · TÁCTICA\nCoste adicional: sacrifica una Ofrenda. REACCIÓN — durante un combate: una Tropa tuya gana +2 Poder y FILO VELOZ este combate.",
-     "CardID": 120,
-     "SidewaysCard": false,
-     "CustomDeck": {
-      "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png",
-       "NumWidth": 10,
-       "NumHeight": 3,
-       "BackIsHidden": true,
-       "UniqueBack": false,
-       "Type": 0
-      }
-     }
-    },
-    {
-     "Name": "Card",
-     "Transform": {
-      "posX": 0,
-      "posY": 0,
-      "posZ": 0,
-      "rotX": 0,
-      "rotY": 180,
-      "rotZ": 180,
-      "scaleX": 1,
-      "scaleY": 1,
-      "scaleZ": 1
-     },
-     "Nickname": "Bomba de Humo",
-     "Description": "2 Oro · TÁCTICA\nUna Tropa que controle un oponente no puede bloquear este turno. Roba 1 carta.",
-     "CardID": 121,
-     "SidewaysCard": false,
-     "CustomDeck": {
-      "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png",
-       "NumWidth": 10,
-       "NumHeight": 3,
-       "BackIsHidden": true,
-       "UniqueBack": false,
-       "Type": 0
-      }
-     }
-    },
-    {
-     "Name": "Card",
-     "Transform": {
-      "posX": 0,
-      "posY": 0,
-      "posZ": 0,
-      "rotX": 0,
-      "rotY": 180,
-      "rotZ": 180,
-      "scaleX": 1,
-      "scaleY": 1,
-      "scaleZ": 1
-     },
-     "Nickname": "Bomba de Humo",
-     "Description": "2 Oro · TÁCTICA\nUna Tropa que controle un oponente no puede bloquear este turno. Roba 1 carta.",
-     "CardID": 121,
-     "SidewaysCard": false,
-     "CustomDeck": {
-      "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=220",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1381,13 +1207,13 @@
       "scaleZ": 1
      },
      "Nickname": "Dardo Envenenado",
-     "Description": "2 Oro · TÁCTICA\nAl comienzo del próximo Amanecer de su controlador, destruye un Soporte objetivo que controle un oponente.",
-     "CardID": 122,
+     "Description": "2 Oro · TÁCTICA\nREACCIÓN — Elige una Unidad rival de coste 3 o menos. Al comienzo del próximo Amanecer de su controlador, destrúyela.",
+     "CardID": 117,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=220",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1410,13 +1236,42 @@
       "scaleZ": 1
      },
      "Nickname": "Dardo Envenenado",
-     "Description": "2 Oro · TÁCTICA\nAl comienzo del próximo Amanecer de su controlador, destruye un Soporte objetivo que controle un oponente.",
-     "CardID": 122,
+     "Description": "2 Oro · TÁCTICA\nREACCIÓN — Elige una Unidad rival de coste 3 o menos. Al comienzo del próximo Amanecer de su controlador, destrúyela.",
+     "CardID": 117,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=220",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Dardo Envenenado",
+     "Description": "2 Oro · TÁCTICA\nREACCIÓN — Elige una Unidad rival de coste 3 o menos. Al comienzo del próximo Amanecer de su controlador, destrúyela.",
+     "CardID": 117,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=220",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1439,13 +1294,13 @@
       "scaleZ": 1
      },
      "Nickname": "Iaijutsu",
-     "Description": "3 Oro · TÁCTICA\nUna Tropa atacante hace su daño de combate a la Tropa que la bloquea antes del daño de combate normal.",
-     "CardID": 123,
+     "Description": "3 Oro · TÁCTICA\nREACCIÓN — Durante un combate: una Unidad atacante hace su daño de combate a la Unidad que la bloquea antes del daño de combate normal.",
+     "CardID": 118,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=220",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1467,14 +1322,188 @@
       "scaleY": 1,
       "scaleZ": 1
      },
-     "Nickname": "Yakiuchi",
-     "Description": "4 Oro · EVENTO HISTÓRICO\nCada jugador sacrifica un Soporte. Después, cada oponente pierde 2 Moral.",
-     "CardID": 124,
+     "Nickname": "Iaijutsu",
+     "Description": "3 Oro · TÁCTICA\nREACCIÓN — Durante un combate: una Unidad atacante hace su daño de combate a la Unidad que la bloquea antes del daño de combate normal.",
+     "CardID": 118,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=220",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Emboscada",
+     "Description": "4 Oro · TÁCTICA\nREACCIÓN — Después de que un oponente declare atacantes, despliega Activa una Unidad de coste 5 o menos de tu mano sin pagar su coste de Oro. Paga sus demás costes. Puede bloquear este Asalto.",
+     "CardID": 119,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=220",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Emboscada",
+     "Description": "4 Oro · TÁCTICA\nREACCIÓN — Después de que un oponente declare atacantes, despliega Activa una Unidad de coste 5 o menos de tu mano sin pagar su coste de Oro. Paga sus demás costes. Puede bloquear este Asalto.",
+     "CardID": 119,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=220",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Ceremonia del Té",
+     "Description": "2 Oro · EVENTO HISTÓRICO\nMira las 7 cartas superiores de tu mazo. Pon una en tu mano y el resto al fondo en cualquier orden.",
+     "CardID": 120,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=220",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Ceremonia del Té",
+     "Description": "2 Oro · EVENTO HISTÓRICO\nMira las 7 cartas superiores de tu mazo. Pon una en tu mano y el resto al fondo en cualquier orden.",
+     "CardID": 120,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=220",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Ceremonia del Té",
+     "Description": "2 Oro · EVENTO HISTÓRICO\nMira las 7 cartas superiores de tu mazo. Pon una en tu mano y el resto al fondo en cualquier orden.",
+     "CardID": 120,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=220",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Yakiuchi del Arsenal",
+     "Description": "3 Oro · EVENTO HISTÓRICO\nPierde 2 Moral. Destruye un Armamento que controle un oponente.",
+     "CardID": 121,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=220",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1497,42 +1526,13 @@
       "scaleZ": 1
      },
      "Nickname": "Nagashino, Muralla de Arcabuces",
-     "Description": "4 Oro + F1 · EVENTO HISTÓRICO · Signature de Oda Nobunaga\nCansa hasta tres Tropas que controle un oponente. Luego, las Tropas Cansadas de tus oponentes pierden 3 Poder este turno. Las que lleguen a 0 Poder de esta manera son destruidas.",
-     "CardID": 125,
+     "Description": "4 Oro + F1 · EVENTO HISTÓRICO · Signature de Oda Nobunaga\nCansa hasta tres Unidades de un oponente. Luego, las Unidades rivales Cansadas pierden 3 Poder este turno. Destruye las que queden en 0 o menos de esta manera.",
+     "CardID": 122,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png",
-       "NumWidth": 10,
-       "NumHeight": 3,
-       "BackIsHidden": true,
-       "UniqueBack": false,
-       "Type": 0
-      }
-     }
-    },
-    {
-     "Name": "Card",
-     "Transform": {
-      "posX": 0,
-      "posY": 0,
-      "posZ": 0,
-      "rotX": 0,
-      "rotY": 180,
-      "rotZ": 180,
-      "scaleX": 1,
-      "scaleY": 1,
-      "scaleZ": 1
-     },
-     "Nickname": "Asalto de Iga",
-     "Description": "7 Oro + F2 · EVENTO HISTÓRICO\nRegresa a la mano de sus dueños todas las Tropas que controlen tus oponentes Cansadas. Después, cansa todas las Tropas que controlen tus oponentes.",
-     "CardID": 126,
-     "SidewaysCard": false,
-     "CustomDeck": {
-      "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=220",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1557,13 +1557,13 @@
     "scaleZ": 1
    },
    "Nickname": "Oda Nobunaga",
-   "Description": "EMPERADOR · Quebrar la Voluntad\nCuando una Tropa de un oponente quede Cansada por una carta o habilidad tuya, Una vez por turno PAGA 1 MORAL. Si lo haces, esa Tropa pierde 2 Poder este turno, hasta un mínimo de 1.",
-   "CardID": 127,
+   "Description": "EMPERADOR · Quebrar la Voluntad\nCuando una Unidad de un oponente quede Cansada por una carta o habilidad tuya. Una vez por turno esa Unidad pierde 2 Poder este turno si llega a 0 se destruye.",
+   "CardID": 123,
    "SidewaysCard": false,
    "CustomDeck": {
     "1": {
-     "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png",
-     "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png",
+     "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=220",
+     "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=220",
      "NumWidth": 10,
      "NumHeight": 3,
      "BackIsHidden": true,
@@ -1586,7 +1586,7 @@
     "scaleZ": 1
    },
    "Nickname": "Oda Nobunaga — Oros (12)",
-   "Description": "IMPERIUM · Capa 1 · Compendio v2.19 · Mazos v0.2",
+   "Description": "IMPERIUM · Capa 1 · Compendio v2.20 · Mazos v0.3",
    "DeckIDs": [
     200,
     200,
@@ -1603,8 +1603,8 @@
    ],
    "CustomDeck": {
     "2": {
-     "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_2.png",
-     "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png",
+     "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_2.png?v=220",
+     "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=220",
      "NumWidth": 10,
      "NumHeight": 1,
      "BackIsHidden": true,
@@ -1632,8 +1632,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_2.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_2.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=220",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
@@ -1661,8 +1661,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_2.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_2.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=220",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
@@ -1690,8 +1690,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_2.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_2.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=220",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
@@ -1719,8 +1719,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_2.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_2.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=220",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
@@ -1748,8 +1748,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_2.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_2.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=220",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
@@ -1777,8 +1777,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_2.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_2.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=220",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
@@ -1806,8 +1806,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_2.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_2.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=220",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
@@ -1835,8 +1835,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_2.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_2.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=220",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
@@ -1864,8 +1864,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_2.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_2.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=220",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
@@ -1893,8 +1893,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_2.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_2.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=220",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
@@ -1922,8 +1922,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_2.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_2.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=220",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
@@ -1951,219 +1951,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_2.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png",
-       "NumWidth": 10,
-       "NumHeight": 1,
-       "BackIsHidden": true,
-       "UniqueBack": false,
-       "Type": 0
-      }
-     }
-    }
-   ]
-  },
-  {
-   "Name": "Deck",
-   "Transform": {
-    "posX": 8,
-    "posY": 1.5,
-    "posZ": 0,
-    "rotX": 0,
-    "rotY": 180,
-    "rotZ": 180,
-    "scaleX": 1,
-    "scaleY": 1,
-    "scaleZ": 1
-   },
-   "Nickname": "Oda Nobunaga — Fichas Ofrenda (6)",
-   "Description": "IMPERIUM · Capa 1 · Compendio v2.19 · Mazos v0.2",
-   "DeckIDs": [
-    202,
-    202,
-    202,
-    202,
-    202,
-    202
-   ],
-   "CustomDeck": {
-    "2": {
-     "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_2.png",
-     "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png",
-     "NumWidth": 10,
-     "NumHeight": 1,
-     "BackIsHidden": true,
-     "UniqueBack": false,
-     "Type": 0
-    }
-   },
-   "ContainedObjects": [
-    {
-     "Name": "Card",
-     "Transform": {
-      "posX": 0,
-      "posY": 0,
-      "posZ": 0,
-      "rotX": 0,
-      "rotY": 180,
-      "rotZ": 180,
-      "scaleX": 1,
-      "scaleY": 1,
-      "scaleZ": 1
-     },
-     "Nickname": "Ofrenda",
-     "Description": "FICHA · ACCIÓN\nSacrifica esta Ofrenda: mira las 2 cartas superiores de tu mazo y colócalas de nuevo en la parte superior en el orden que quieras.",
-     "CardID": 202,
-     "SidewaysCard": false,
-     "CustomDeck": {
-      "2": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_2.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png",
-       "NumWidth": 10,
-       "NumHeight": 1,
-       "BackIsHidden": true,
-       "UniqueBack": false,
-       "Type": 0
-      }
-     }
-    },
-    {
-     "Name": "Card",
-     "Transform": {
-      "posX": 0,
-      "posY": 0,
-      "posZ": 0,
-      "rotX": 0,
-      "rotY": 180,
-      "rotZ": 180,
-      "scaleX": 1,
-      "scaleY": 1,
-      "scaleZ": 1
-     },
-     "Nickname": "Ofrenda",
-     "Description": "FICHA · ACCIÓN\nSacrifica esta Ofrenda: mira las 2 cartas superiores de tu mazo y colócalas de nuevo en la parte superior en el orden que quieras.",
-     "CardID": 202,
-     "SidewaysCard": false,
-     "CustomDeck": {
-      "2": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_2.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png",
-       "NumWidth": 10,
-       "NumHeight": 1,
-       "BackIsHidden": true,
-       "UniqueBack": false,
-       "Type": 0
-      }
-     }
-    },
-    {
-     "Name": "Card",
-     "Transform": {
-      "posX": 0,
-      "posY": 0,
-      "posZ": 0,
-      "rotX": 0,
-      "rotY": 180,
-      "rotZ": 180,
-      "scaleX": 1,
-      "scaleY": 1,
-      "scaleZ": 1
-     },
-     "Nickname": "Ofrenda",
-     "Description": "FICHA · ACCIÓN\nSacrifica esta Ofrenda: mira las 2 cartas superiores de tu mazo y colócalas de nuevo en la parte superior en el orden que quieras.",
-     "CardID": 202,
-     "SidewaysCard": false,
-     "CustomDeck": {
-      "2": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_2.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png",
-       "NumWidth": 10,
-       "NumHeight": 1,
-       "BackIsHidden": true,
-       "UniqueBack": false,
-       "Type": 0
-      }
-     }
-    },
-    {
-     "Name": "Card",
-     "Transform": {
-      "posX": 0,
-      "posY": 0,
-      "posZ": 0,
-      "rotX": 0,
-      "rotY": 180,
-      "rotZ": 180,
-      "scaleX": 1,
-      "scaleY": 1,
-      "scaleZ": 1
-     },
-     "Nickname": "Ofrenda",
-     "Description": "FICHA · ACCIÓN\nSacrifica esta Ofrenda: mira las 2 cartas superiores de tu mazo y colócalas de nuevo en la parte superior en el orden que quieras.",
-     "CardID": 202,
-     "SidewaysCard": false,
-     "CustomDeck": {
-      "2": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_2.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png",
-       "NumWidth": 10,
-       "NumHeight": 1,
-       "BackIsHidden": true,
-       "UniqueBack": false,
-       "Type": 0
-      }
-     }
-    },
-    {
-     "Name": "Card",
-     "Transform": {
-      "posX": 0,
-      "posY": 0,
-      "posZ": 0,
-      "rotX": 0,
-      "rotY": 180,
-      "rotZ": 180,
-      "scaleX": 1,
-      "scaleY": 1,
-      "scaleZ": 1
-     },
-     "Nickname": "Ofrenda",
-     "Description": "FICHA · ACCIÓN\nSacrifica esta Ofrenda: mira las 2 cartas superiores de tu mazo y colócalas de nuevo en la parte superior en el orden que quieras.",
-     "CardID": 202,
-     "SidewaysCard": false,
-     "CustomDeck": {
-      "2": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_2.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png",
-       "NumWidth": 10,
-       "NumHeight": 1,
-       "BackIsHidden": true,
-       "UniqueBack": false,
-       "Type": 0
-      }
-     }
-    },
-    {
-     "Name": "Card",
-     "Transform": {
-      "posX": 0,
-      "posY": 0,
-      "posZ": 0,
-      "rotX": 0,
-      "rotY": 180,
-      "rotZ": 180,
-      "scaleX": 1,
-      "scaleY": 1,
-      "scaleZ": 1
-     },
-     "Nickname": "Ofrenda",
-     "Description": "FICHA · ACCIÓN\nSacrifica esta Ofrenda: mira las 2 cartas superiores de tu mazo y colócalas de nuevo en la parte superior en el orden que quieras.",
-     "CardID": 202,
-     "SidewaysCard": false,
-     "CustomDeck": {
-      "2": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_2.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_2.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=220",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,

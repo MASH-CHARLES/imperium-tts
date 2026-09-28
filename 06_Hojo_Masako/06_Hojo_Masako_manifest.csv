@@ -1,30 +1,29 @@
 hoja,celda,CardID,ID,carta,copias
-face_1,0,100,IMP-JPN-001,Ashigaru Explorador,2
-face_1,1,101,IMP-JPN-002,Shinobi de Iga,3
-face_1,2,102,IMP-JPN-014,Novicia del Santuario,4
-face_1,3,103,IMP-JPN-043,Aldeano del Arroz,3
+face_1,0,100,IMP-JPN-001,Ashigaru Explorador,3
+face_1,1,101,IMP-JPN-014,Novicia del Santuario,4
+face_1,2,102,IMP-JPN-043,Aldeano del Arroz,4
+face_1,3,103,IMP-JPN-044,Carpintero de Templos,3
 face_1,4,104,IMP-JPN-003,Kunoichi de Kōga,2
-face_1,5,105,IMP-JPN-011,Momochi Sandayū,2
-face_1,6,106,IMP-JPN-017,Hattori Hanzō,2
-face_1,7,107,SIG-016,"Tomoe Gozen, Filo de Awazu",1
-face_1,8,108,SIG-017,"Hangaku Gozen, Guardiana de Torisaka",1
-face_1,9,109,IMP-JPN-027,Maestra de Tomoe,2
-face_1,10,110,IMP-JPN-044,Carpintero de Templos,2
-face_1,11,111,IMP-JPN-010,Maiko Danzante,3
-face_1,12,112,IMP-JPN-009,Dōjō del Bakufu,1
-face_1,13,113,IMP-JPN-048,Santuario de Tsurugaoka Hachimangū,4
+face_1,5,105,IMP-JPN-010,Maiko Danzante,3
+face_1,6,106,IMP-JPN-011,Momochi Sandayū,1
+face_1,7,107,IMP-JPN-017,Hattori Hanzō,2
+face_1,8,108,SIG-016,"Tomoe Gozen, Filo de Awazu",1
+face_1,9,109,SIG-017,"Hangaku Gozen, Guardiana de Torisaka",1
+face_1,10,110,IMP-JPN-027,Maestra de Tomoe,2
+face_1,11,111,IMP-JPN-009,Dōjō del Bakufu,1
+face_1,12,112,IMP-JPN-045,Forja Sakai,1
+face_1,13,113,IMP-JPN-048,Santuario de Tsurugaoka Hachimangū,3
 face_1,14,114,IMP-JPN-015,Aldea Fortificada de Iga,2
 face_1,15,115,SIG-018,"Jufuku-ji, Legado de la Shōgun Monja",1
 face_1,16,116,IMP-JPN-004,Arco Yumi de Yabusame,2
 face_1,17,117,IMP-JPN-013,Kusarigama de Iga,1
-face_1,18,118,IMP-JPN-046,Daishō de Linaje de Kioto,2
-face_1,19,119,IMP-JPN-006,Ceremonia del Té,2
-face_1,20,120,IMP-JPN-019,Arte del Engaño,1
-face_1,21,121,IMP-JPN-037,Voto ante el Santuario,3
-face_1,22,122,IMP-JPN-007,Bomba de Humo,2
-face_1,23,123,IMP-JPN-047,Botín del Daimyō,1
-face_1,24,124,IMP-JPN-020,Asalto de Iga,1
-face_1,25,125,EMP-JPN-003,"Hōjō Masako, la Shōgun Monja",1
-face_2,0,200,MONEDA-2,Astucia,8
-face_2,1,201,MONEDA-5,Legado,4
+face_1,18,118,IMP-JPN-046,Daishō de Linaje de Kioto,3
+face_1,19,119,IMP-JPN-019,Arte del Engaño,1
+face_1,20,120,IMP-JPN-037,Voto ante el Santuario,4
+face_1,21,121,IMP-JPN-007,Cortina de Humo,2
+face_1,22,122,IMP-JPN-047,Botín del Daimyō,1
+face_1,23,123,IMP-JPN-006,Ceremonia del Té,2
+face_1,24,124,EMP-JPN-003,"Hōjō Masako, la Shōgun Monja",1
+face_2,0,200,MONEDA-2,Astucia,7
+face_2,1,201,MONEDA-5,Legado,5
 face_2,2,202,TOK-02,Ofrenda,6

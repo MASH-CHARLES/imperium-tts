@@ -26,38 +26,37 @@
     "scaleZ": 1
    },
    "Nickname": "Tokugawa Ieyasu — Mazo (50)",
-   "Description": "IMPERIUM · Capa 1 · Compendio v2.19 · Mazos v0.2",
+   "Description": "IMPERIUM · Capa 1 · Compendio v2.20 · Mazos v0.3",
    "DeckIDs": [
     100,
     100,
     100,
     101,
-    101,
     102,
     102,
     102,
     102,
     103,
-    103,
-    103,
-    103,
-    104,
-    104,
     104,
     104,
     105,
-    105,
+    106,
+    106,
     106,
     106,
     107,
+    107,
+    107,
+    108,
     108,
     108,
     109,
+    109,
+    109,
     110,
     111,
-    111,
     112,
-    113,
+    112,
     113,
     114,
     114,
@@ -67,6 +66,7 @@
     118,
     118,
     119,
+    120,
     120,
     120,
     121,
@@ -81,8 +81,8 @@
    ],
    "CustomDeck": {
     "1": {
-     "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_1.png",
-     "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png",
+     "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_1.png?v=220",
+     "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png?v=220",
      "NumWidth": 10,
      "NumHeight": 3,
      "BackIsHidden": true,
@@ -105,13 +105,13 @@
       "scaleZ": 1
      },
      "Nickname": "Ashigaru Explorador",
-     "Description": "1 Oro · TROPA · P1\nAl entrar, una Tropa que controle un oponente no puede bloquear este turno.",
+     "Description": "1 Oro · UNIDAD · P1\nAl entrar, una Unidad que controle un oponente no puede bloquear este turno.",
      "CardID": 100,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png?v=220",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -134,13 +134,13 @@
       "scaleZ": 1
      },
      "Nickname": "Ashigaru Explorador",
-     "Description": "1 Oro · TROPA · P1\nAl entrar, una Tropa que controle un oponente no puede bloquear este turno.",
+     "Description": "1 Oro · UNIDAD · P1\nAl entrar, una Unidad que controle un oponente no puede bloquear este turno.",
      "CardID": 100,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png?v=220",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -163,13 +163,13 @@
       "scaleZ": 1
      },
      "Nickname": "Ashigaru Explorador",
-     "Description": "1 Oro · TROPA · P1\nAl entrar, una Tropa que controle un oponente no puede bloquear este turno.",
+     "Description": "1 Oro · UNIDAD · P1\nAl entrar, una Unidad que controle un oponente no puede bloquear este turno.",
      "CardID": 100,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png?v=220",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -192,42 +192,13 @@
       "scaleZ": 1
      },
      "Nickname": "Shinobi de Iga",
-     "Description": "1 Oro + F1 · TROPA · P2\nEMBOSCADA (Puedes desplegarla en la ventana de Tácticas antes de asignar bloqueadoras. Puede bloquear ese combate).",
+     "Description": "1 Oro + F1 · UNIDAD · P2\nEMBOSCADA (Puedes desplegarla en la ventana de Tácticas antes de asignar bloqueadoras. Puede bloquear ese combate).",
      "CardID": 101,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png",
-       "NumWidth": 10,
-       "NumHeight": 3,
-       "BackIsHidden": true,
-       "UniqueBack": false,
-       "Type": 0
-      }
-     }
-    },
-    {
-     "Name": "Card",
-     "Transform": {
-      "posX": 0,
-      "posY": 0,
-      "posZ": 0,
-      "rotX": 0,
-      "rotY": 180,
-      "rotZ": 180,
-      "scaleX": 1,
-      "scaleY": 1,
-      "scaleZ": 1
-     },
-     "Nickname": "Shinobi de Iga",
-     "Description": "1 Oro + F1 · TROPA · P2\nEMBOSCADA (Puedes desplegarla en la ventana de Tácticas antes de asignar bloqueadoras. Puede bloquear ese combate).",
-     "CardID": 101,
-     "SidewaysCard": false,
-     "CustomDeck": {
-      "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png?v=220",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -250,13 +221,13 @@
       "scaleZ": 1
      },
      "Nickname": "Ashigaru Japonés",
-     "Description": "1 Oro · TROPA · P2\nMientras bloquee una Tropa Caballería, gana +2 Poder este combate.",
+     "Description": "1 Oro · UNIDAD · P2\nMientras bloquee una Unidad Caballería, gana +2 Poder este combate.",
      "CardID": 102,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png?v=220",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -279,13 +250,13 @@
       "scaleZ": 1
      },
      "Nickname": "Ashigaru Japonés",
-     "Description": "1 Oro · TROPA · P2\nMientras bloquee una Tropa Caballería, gana +2 Poder este combate.",
+     "Description": "1 Oro · UNIDAD · P2\nMientras bloquee una Unidad Caballería, gana +2 Poder este combate.",
      "CardID": 102,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png?v=220",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -308,13 +279,13 @@
       "scaleZ": 1
      },
      "Nickname": "Ashigaru Japonés",
-     "Description": "1 Oro · TROPA · P2\nMientras bloquee una Tropa Caballería, gana +2 Poder este combate.",
+     "Description": "1 Oro · UNIDAD · P2\nMientras bloquee una Unidad Caballería, gana +2 Poder este combate.",
      "CardID": 102,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png?v=220",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -337,13 +308,13 @@
       "scaleZ": 1
      },
      "Nickname": "Ashigaru Japonés",
-     "Description": "1 Oro · TROPA · P2\nMientras bloquee una Tropa Caballería, gana +2 Poder este combate.",
+     "Description": "1 Oro · UNIDAD · P2\nMientras bloquee una Unidad Caballería, gana +2 Poder este combate.",
      "CardID": 102,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png?v=220",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -365,14 +336,14 @@
       "scaleY": 1,
       "scaleZ": 1
      },
-     "Nickname": "Samurái del Shōgun",
-     "Description": "3 Oro · TROPA · P4\nFILO VELOZ (Hace su daño de combate antes que las Tropas sin FILO VELOZ).",
+     "Nickname": "Kunoichi de Kōga",
+     "Description": "2 Oro · UNIDAD · P2\nAl entrar, una Unidad que controle un oponente pierde 2 Poder este turno, hasta un mínimo de 1.",
      "CardID": 103,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png?v=220",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -394,101 +365,14 @@
       "scaleY": 1,
       "scaleZ": 1
      },
-     "Nickname": "Samurái del Shōgun",
-     "Description": "3 Oro · TROPA · P4\nFILO VELOZ (Hace su daño de combate antes que las Tropas sin FILO VELOZ).",
-     "CardID": 103,
-     "SidewaysCard": false,
-     "CustomDeck": {
-      "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png",
-       "NumWidth": 10,
-       "NumHeight": 3,
-       "BackIsHidden": true,
-       "UniqueBack": false,
-       "Type": 0
-      }
-     }
-    },
-    {
-     "Name": "Card",
-     "Transform": {
-      "posX": 0,
-      "posY": 0,
-      "posZ": 0,
-      "rotX": 0,
-      "rotY": 180,
-      "rotZ": 180,
-      "scaleX": 1,
-      "scaleY": 1,
-      "scaleZ": 1
-     },
-     "Nickname": "Samurái del Shōgun",
-     "Description": "3 Oro · TROPA · P4\nFILO VELOZ (Hace su daño de combate antes que las Tropas sin FILO VELOZ).",
-     "CardID": 103,
-     "SidewaysCard": false,
-     "CustomDeck": {
-      "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png",
-       "NumWidth": 10,
-       "NumHeight": 3,
-       "BackIsHidden": true,
-       "UniqueBack": false,
-       "Type": 0
-      }
-     }
-    },
-    {
-     "Name": "Card",
-     "Transform": {
-      "posX": 0,
-      "posY": 0,
-      "posZ": 0,
-      "rotX": 0,
-      "rotY": 180,
-      "rotZ": 180,
-      "scaleX": 1,
-      "scaleY": 1,
-      "scaleZ": 1
-     },
-     "Nickname": "Samurái del Shōgun",
-     "Description": "3 Oro · TROPA · P4\nFILO VELOZ (Hace su daño de combate antes que las Tropas sin FILO VELOZ).",
-     "CardID": 103,
-     "SidewaysCard": false,
-     "CustomDeck": {
-      "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png",
-       "NumWidth": 10,
-       "NumHeight": 3,
-       "BackIsHidden": true,
-       "UniqueBack": false,
-       "Type": 0
-      }
-     }
-    },
-    {
-     "Name": "Card",
-     "Transform": {
-      "posX": 0,
-      "posY": 0,
-      "posZ": 0,
-      "rotX": 0,
-      "rotY": 180,
-      "rotZ": 180,
-      "scaleX": 1,
-      "scaleY": 1,
-      "scaleZ": 1
-     },
-     "Nickname": "Monja Sōhei",
-     "Description": "3 Oro · TROPA · P3\nCuando esta Tropa haga daño, puedes crear 1 Ofrenda.",
+     "Nickname": "Tamborilero Taiko",
+     "Description": "2 Oro · UNIDAD · P1\nUna vez por turno — ACCIÓN: Agota esta Unidad: endereza otra Unidad Cansada; gana +1 Poder este turno.",
      "CardID": 104,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png?v=220",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -510,391 +394,14 @@
       "scaleY": 1,
       "scaleZ": 1
      },
-     "Nickname": "Monja Sōhei",
-     "Description": "3 Oro · TROPA · P3\nCuando esta Tropa haga daño, puedes crear 1 Ofrenda.",
+     "Nickname": "Tamborilero Taiko",
+     "Description": "2 Oro · UNIDAD · P1\nUna vez por turno — ACCIÓN: Agota esta Unidad: endereza otra Unidad Cansada; gana +1 Poder este turno.",
      "CardID": 104,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png",
-       "NumWidth": 10,
-       "NumHeight": 3,
-       "BackIsHidden": true,
-       "UniqueBack": false,
-       "Type": 0
-      }
-     }
-    },
-    {
-     "Name": "Card",
-     "Transform": {
-      "posX": 0,
-      "posY": 0,
-      "posZ": 0,
-      "rotX": 0,
-      "rotY": 180,
-      "rotZ": 180,
-      "scaleX": 1,
-      "scaleY": 1,
-      "scaleZ": 1
-     },
-     "Nickname": "Monja Sōhei",
-     "Description": "3 Oro · TROPA · P3\nCuando esta Tropa haga daño, puedes crear 1 Ofrenda.",
-     "CardID": 104,
-     "SidewaysCard": false,
-     "CustomDeck": {
-      "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png",
-       "NumWidth": 10,
-       "NumHeight": 3,
-       "BackIsHidden": true,
-       "UniqueBack": false,
-       "Type": 0
-      }
-     }
-    },
-    {
-     "Name": "Card",
-     "Transform": {
-      "posX": 0,
-      "posY": 0,
-      "posZ": 0,
-      "rotX": 0,
-      "rotY": 180,
-      "rotZ": 180,
-      "scaleX": 1,
-      "scaleY": 1,
-      "scaleZ": 1
-     },
-     "Nickname": "Monja Sōhei",
-     "Description": "3 Oro · TROPA · P3\nCuando esta Tropa haga daño, puedes crear 1 Ofrenda.",
-     "CardID": 104,
-     "SidewaysCard": false,
-     "CustomDeck": {
-      "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png",
-       "NumWidth": 10,
-       "NumHeight": 3,
-       "BackIsHidden": true,
-       "UniqueBack": false,
-       "Type": 0
-      }
-     }
-    },
-    {
-     "Name": "Card",
-     "Transform": {
-      "posX": 0,
-      "posY": 0,
-      "posZ": 0,
-      "rotX": 0,
-      "rotY": 180,
-      "rotZ": 180,
-      "scaleX": 1,
-      "scaleY": 1,
-      "scaleZ": 1
-     },
-     "Nickname": "Momochi Sandayū",
-     "Description": "4 Oro · TROPA · P3\nEMBOSCADA. Al entrar, mira las 5 cartas superiores de tu mazo; puedes revelar una Táctica o una Tropa Infantería y ponerla en tu mano. Pon el resto al fondo.",
-     "CardID": 105,
-     "SidewaysCard": false,
-     "CustomDeck": {
-      "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png",
-       "NumWidth": 10,
-       "NumHeight": 3,
-       "BackIsHidden": true,
-       "UniqueBack": false,
-       "Type": 0
-      }
-     }
-    },
-    {
-     "Name": "Card",
-     "Transform": {
-      "posX": 0,
-      "posY": 0,
-      "posZ": 0,
-      "rotX": 0,
-      "rotY": 180,
-      "rotZ": 180,
-      "scaleX": 1,
-      "scaleY": 1,
-      "scaleZ": 1
-     },
-     "Nickname": "Momochi Sandayū",
-     "Description": "4 Oro · TROPA · P3\nEMBOSCADA. Al entrar, mira las 5 cartas superiores de tu mazo; puedes revelar una Táctica o una Tropa Infantería y ponerla en tu mano. Pon el resto al fondo.",
-     "CardID": 105,
-     "SidewaysCard": false,
-     "CustomDeck": {
-      "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png",
-       "NumWidth": 10,
-       "NumHeight": 3,
-       "BackIsHidden": true,
-       "UniqueBack": false,
-       "Type": 0
-      }
-     }
-    },
-    {
-     "Name": "Card",
-     "Transform": {
-      "posX": 0,
-      "posY": 0,
-      "posZ": 0,
-      "rotX": 0,
-      "rotY": 180,
-      "rotZ": 180,
-      "scaleX": 1,
-      "scaleY": 1,
-      "scaleZ": 1
-     },
-     "Nickname": "Hattori Hanzō",
-     "Description": "4 Oro · TROPA · P3\nEMBOSCADA. Al entrar, cansa una Tropa que controle un oponente. Una vez por turno — ACCIÓN, solo durante tu turno: FUNDE 1 Oro de Astucia: regresa a Hattori Hanzō a tu mano.",
-     "CardID": 106,
-     "SidewaysCard": false,
-     "CustomDeck": {
-      "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png",
-       "NumWidth": 10,
-       "NumHeight": 3,
-       "BackIsHidden": true,
-       "UniqueBack": false,
-       "Type": 0
-      }
-     }
-    },
-    {
-     "Name": "Card",
-     "Transform": {
-      "posX": 0,
-      "posY": 0,
-      "posZ": 0,
-      "rotX": 0,
-      "rotY": 180,
-      "rotZ": 180,
-      "scaleX": 1,
-      "scaleY": 1,
-      "scaleZ": 1
-     },
-     "Nickname": "Hattori Hanzō",
-     "Description": "4 Oro · TROPA · P3\nEMBOSCADA. Al entrar, cansa una Tropa que controle un oponente. Una vez por turno — ACCIÓN, solo durante tu turno: FUNDE 1 Oro de Astucia: regresa a Hattori Hanzō a tu mano.",
-     "CardID": 106,
-     "SidewaysCard": false,
-     "CustomDeck": {
-      "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png",
-       "NumWidth": 10,
-       "NumHeight": 3,
-       "BackIsHidden": true,
-       "UniqueBack": false,
-       "Type": 0
-      }
-     }
-    },
-    {
-     "Name": "Card",
-     "Transform": {
-      "posX": 0,
-      "posY": 0,
-      "posZ": 0,
-      "rotX": 0,
-      "rotY": 180,
-      "rotZ": 180,
-      "scaleX": 1,
-      "scaleY": 1,
-      "scaleZ": 1
-     },
-     "Nickname": "Acha no Tsubone, Voz de Osaka",
-     "Description": "4 Oro + F1 · TROPA · P3 · General de Tokugawa Ieyasu\nEMBOSCADA. Al entrar durante el ataque de un oponente, retira del combate una Tropa atacante. Permanece Cansada y no se endereza durante su próximo Amanecer.",
-     "CardID": 107,
-     "SidewaysCard": false,
-     "CustomDeck": {
-      "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png",
-       "NumWidth": 10,
-       "NumHeight": 3,
-       "BackIsHidden": true,
-       "UniqueBack": false,
-       "Type": 0
-      }
-     }
-    },
-    {
-     "Name": "Card",
-     "Transform": {
-      "posX": 0,
-      "posY": 0,
-      "posZ": 0,
-      "rotX": 0,
-      "rotY": 180,
-      "rotZ": 180,
-      "scaleX": 1,
-      "scaleY": 1,
-      "scaleZ": 1
-     },
-     "Nickname": "Maestra de Tomoe",
-     "Description": "6 Oro + F1 · TROPA · P5\nEMBOSCADA. CARGA. Al entrar, todas las Tropas que controlen tus oponentes pierden 3 Poder este turno, hasta un mínimo de 1.",
-     "CardID": 108,
-     "SidewaysCard": false,
-     "CustomDeck": {
-      "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png",
-       "NumWidth": 10,
-       "NumHeight": 3,
-       "BackIsHidden": true,
-       "UniqueBack": false,
-       "Type": 0
-      }
-     }
-    },
-    {
-     "Name": "Card",
-     "Transform": {
-      "posX": 0,
-      "posY": 0,
-      "posZ": 0,
-      "rotX": 0,
-      "rotY": 180,
-      "rotZ": 180,
-      "scaleX": 1,
-      "scaleY": 1,
-      "scaleZ": 1
-     },
-     "Nickname": "Maestra de Tomoe",
-     "Description": "6 Oro + F1 · TROPA · P5\nEMBOSCADA. CARGA. Al entrar, todas las Tropas que controlen tus oponentes pierden 3 Poder este turno, hasta un mínimo de 1.",
-     "CardID": 108,
-     "SidewaysCard": false,
-     "CustomDeck": {
-      "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png",
-       "NumWidth": 10,
-       "NumHeight": 3,
-       "BackIsHidden": true,
-       "UniqueBack": false,
-       "Type": 0
-      }
-     }
-    },
-    {
-     "Name": "Card",
-     "Transform": {
-      "posX": 0,
-      "posY": 0,
-      "posZ": 0,
-      "rotX": 0,
-      "rotY": 180,
-      "rotZ": 180,
-      "scaleX": 1,
-      "scaleY": 1,
-      "scaleZ": 1
-     },
-     "Nickname": "Honda Tadakatsu, Guerrero sin Heridas",
-     "Description": "6 Oro + F1 · TROPA · P7 · General de Tokugawa Ieyasu\nVIGILANTE. ESCUDO 1. GUARDIÁN 2.",
-     "CardID": 109,
-     "SidewaysCard": false,
-     "CustomDeck": {
-      "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png",
-       "NumWidth": 10,
-       "NumHeight": 3,
-       "BackIsHidden": true,
-       "UniqueBack": false,
-       "Type": 0
-      }
-     }
-    },
-    {
-     "Name": "Card",
-     "Transform": {
-      "posX": 0,
-      "posY": 0,
-      "posZ": 0,
-      "rotX": 0,
-      "rotY": 180,
-      "rotZ": 180,
-      "scaleX": 1,
-      "scaleY": 1,
-      "scaleZ": 1
-     },
-     "Nickname": "Espía de Corte",
-     "Description": "2 Oro · SOPORTE · R4\nREACCIÓN — Agota este Soporte: una Tropa bloqueadora que controle un oponente pierde 2 Poder este combate, hasta un mínimo de 1.",
-     "CardID": 110,
-     "SidewaysCard": false,
-     "CustomDeck": {
-      "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png",
-       "NumWidth": 10,
-       "NumHeight": 3,
-       "BackIsHidden": true,
-       "UniqueBack": false,
-       "Type": 0
-      }
-     }
-    },
-    {
-     "Name": "Card",
-     "Transform": {
-      "posX": 0,
-      "posY": 0,
-      "posZ": 0,
-      "rotX": 0,
-      "rotY": 180,
-      "rotZ": 180,
-      "scaleX": 1,
-      "scaleY": 1,
-      "scaleZ": 1
-     },
-     "Nickname": "Tambores Taiko",
-     "Description": "2 Oro · SOPORTE · R4\nUna vez por turno — ACCIÓN: Agota este Soporte: endereza otra unidad Cansada; gana +1 Poder este turno.",
-     "CardID": 111,
-     "SidewaysCard": false,
-     "CustomDeck": {
-      "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png",
-       "NumWidth": 10,
-       "NumHeight": 3,
-       "BackIsHidden": true,
-       "UniqueBack": false,
-       "Type": 0
-      }
-     }
-    },
-    {
-     "Name": "Card",
-     "Transform": {
-      "posX": 0,
-      "posY": 0,
-      "posZ": 0,
-      "rotX": 0,
-      "rotY": 180,
-      "rotZ": 180,
-      "scaleX": 1,
-      "scaleY": 1,
-      "scaleZ": 1
-     },
-     "Nickname": "Tambores Taiko",
-     "Description": "2 Oro · SOPORTE · R4\nUna vez por turno — ACCIÓN: Agota este Soporte: endereza otra unidad Cansada; gana +1 Poder este turno.",
-     "CardID": 111,
-     "SidewaysCard": false,
-     "CustomDeck": {
-      "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png?v=220",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -917,13 +424,477 @@
       "scaleZ": 1
      },
      "Nickname": "Miko Shintō",
-     "Description": "2 Oro · SOPORTE · R3\nUna vez por turno — REACCIÓN: Paga 2 Oros y agota este Soporte: previene los próximos 2 daños a un objetivo este turno. Puedes sacrificar una Ofrenda; si lo haces, previene los próximos 5 daños en su lugar.",
+     "Description": "2 Oro · UNIDAD · P2\nDEFENSOR (No puede atacar). ESCUDO 1. Una vez por turno — REACCIÓN: Paga 2 Oros y agota esta Unidad: previene los próximos 2 daños a un objetivo este turno. Puedes sacrificar una Ofrenda; si lo haces, previene los próximos 5 daños en su lugar.",
+     "CardID": 105,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png?v=220",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Samurái del Shōgun",
+     "Description": "3 Oro · UNIDAD · P4\nFILO VELOZ (Hace su daño de combate antes que las Unidades sin FILO VELOZ).",
+     "CardID": 106,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png?v=220",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Samurái del Shōgun",
+     "Description": "3 Oro · UNIDAD · P4\nFILO VELOZ (Hace su daño de combate antes que las Unidades sin FILO VELOZ).",
+     "CardID": 106,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png?v=220",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Samurái del Shōgun",
+     "Description": "3 Oro · UNIDAD · P4\nFILO VELOZ (Hace su daño de combate antes que las Unidades sin FILO VELOZ).",
+     "CardID": 106,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png?v=220",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Samurái del Shōgun",
+     "Description": "3 Oro · UNIDAD · P4\nFILO VELOZ (Hace su daño de combate antes que las Unidades sin FILO VELOZ).",
+     "CardID": 106,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png?v=220",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Monja Sōhei",
+     "Description": "3 Oro · UNIDAD · P3\nCuando esta Unidad haga daño, puedes crear 1 Ofrenda.",
+     "CardID": 107,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png?v=220",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Monja Sōhei",
+     "Description": "3 Oro · UNIDAD · P3\nCuando esta Unidad haga daño, puedes crear 1 Ofrenda.",
+     "CardID": 107,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png?v=220",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Monja Sōhei",
+     "Description": "3 Oro · UNIDAD · P3\nCuando esta Unidad haga daño, puedes crear 1 Ofrenda.",
+     "CardID": 107,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png?v=220",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Momochi Sandayū",
+     "Description": "4 Oro · UNIDAD · P3\nEMBOSCADA. Al entrar, mira las 5 cartas superiores de tu mazo; puedes revelar una Táctica o una Unidad Infantería y ponerla en tu mano. Pon el resto al fondo.",
+     "CardID": 108,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png?v=220",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Momochi Sandayū",
+     "Description": "4 Oro · UNIDAD · P3\nEMBOSCADA. Al entrar, mira las 5 cartas superiores de tu mazo; puedes revelar una Táctica o una Unidad Infantería y ponerla en tu mano. Pon el resto al fondo.",
+     "CardID": 108,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png?v=220",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Momochi Sandayū",
+     "Description": "4 Oro · UNIDAD · P3\nEMBOSCADA. Al entrar, mira las 5 cartas superiores de tu mazo; puedes revelar una Táctica o una Unidad Infantería y ponerla en tu mano. Pon el resto al fondo.",
+     "CardID": 108,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png?v=220",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Hattori Hanzō",
+     "Description": "4 Oro · UNIDAD · P3\nEMBOSCADA. Al entrar, cansa una Unidad que controle un oponente. Una vez por turno — ACCIÓN, solo durante tu turno: FUNDE 1 Oro de Astucia: regresa a Hattori Hanzō a tu mano.",
+     "CardID": 109,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png?v=220",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Hattori Hanzō",
+     "Description": "4 Oro · UNIDAD · P3\nEMBOSCADA. Al entrar, cansa una Unidad que controle un oponente. Una vez por turno — ACCIÓN, solo durante tu turno: FUNDE 1 Oro de Astucia: regresa a Hattori Hanzō a tu mano.",
+     "CardID": 109,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png?v=220",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Hattori Hanzō",
+     "Description": "4 Oro · UNIDAD · P3\nEMBOSCADA. Al entrar, cansa una Unidad que controle un oponente. Una vez por turno — ACCIÓN, solo durante tu turno: FUNDE 1 Oro de Astucia: regresa a Hattori Hanzō a tu mano.",
+     "CardID": 109,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png?v=220",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Consejera de Kamakura",
+     "Description": "4 Oro · UNIDAD · P3\nDEFENSOR (No puede atacar). La primera vez en cada turno que otra Unidad tuya bloquee, roba 1 carta. Esa Unidad gana ESCUDO 1 ese combate.",
+     "CardID": 110,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png?v=220",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Acha no Tsubone, Voz de Osaka",
+     "Description": "4 Oro + F1 · UNIDAD · P3 · General de Tokugawa Ieyasu\nEMBOSCADA. Al entrar durante el ataque de un oponente, retira del combate una Unidad atacante. Permanece Cansada y no se endereza durante su próximo Amanecer.",
+     "CardID": 111,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png?v=220",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Maestra de Tomoe",
+     "Description": "6 Oro + F1 · UNIDAD · P5\nEMBOSCADA. CARGA. Al entrar, todas las Unidades que controlen tus oponentes pierden 3 Poder este turno, hasta un mínimo de 1.",
      "CardID": 112,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png?v=220",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -945,14 +916,14 @@
       "scaleY": 1,
       "scaleZ": 1
      },
-     "Nickname": "Consejera de Kamakura",
-     "Description": "4 Oro · SOPORTE · R4\nLa primera vez en cada turno que una Tropa tuya bloquee, roba 1 carta. Esa Tropa gana ESCUDO 1 ese combate.",
-     "CardID": 113,
+     "Nickname": "Maestra de Tomoe",
+     "Description": "6 Oro + F1 · UNIDAD · P5\nEMBOSCADA. CARGA. Al entrar, todas las Unidades que controlen tus oponentes pierden 3 Poder este turno, hasta un mínimo de 1.",
+     "CardID": 112,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png?v=220",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -974,14 +945,14 @@
       "scaleY": 1,
       "scaleZ": 1
      },
-     "Nickname": "Consejera de Kamakura",
-     "Description": "4 Oro · SOPORTE · R4\nLa primera vez en cada turno que una Tropa tuya bloquee, roba 1 carta. Esa Tropa gana ESCUDO 1 ese combate.",
+     "Nickname": "Honda Tadakatsu, Guerrero sin Heridas",
+     "Description": "6 Oro + F1 · UNIDAD · P7 · General de Tokugawa Ieyasu\nVIGILANTE. ESCUDO 1. GUARDIÁN 2.",
      "CardID": 113,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png?v=220",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1004,13 +975,13 @@
       "scaleZ": 1
      },
      "Nickname": "Dōjō del Bakufu",
-     "Description": "2 Oro · ESTRUCTURA · R5 · ⚒1\nUna vez por turno — REACCIÓN: Agota 1 unidad: otra Tropa tuya gana FILO VELOZ hasta tu siguiente Ocaso. Si ya tenía FILO VELOZ, gana +2 Poder este turno en su lugar.",
+     "Description": "2 Oro · ESTRUCTURA · R5 · ⚒1\nUna vez por turno — REACCIÓN: Agota 1 Unidad: otra Unidad tuya gana FILO VELOZ hasta tu siguiente Ocaso. Si ya tenía FILO VELOZ, gana +2 Poder este turno en su lugar.",
      "CardID": 114,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png?v=220",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1033,13 +1004,42 @@
       "scaleZ": 1
      },
      "Nickname": "Dōjō del Bakufu",
-     "Description": "2 Oro · ESTRUCTURA · R5 · ⚒1\nUna vez por turno — REACCIÓN: Agota 1 unidad: otra Tropa tuya gana FILO VELOZ hasta tu siguiente Ocaso. Si ya tenía FILO VELOZ, gana +2 Poder este turno en su lugar.",
+     "Description": "2 Oro · ESTRUCTURA · R5 · ⚒1\nUna vez por turno — REACCIÓN: Agota 1 Unidad: otra Unidad tuya gana FILO VELOZ hasta tu siguiente Ocaso. Si ya tenía FILO VELOZ, gana +2 Poder este turno en su lugar.",
      "CardID": 114,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png?v=220",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Aldea Fortificada de Iga",
+     "Description": "3 Oro · ESTRUCTURA · R5 · ⚒1\nUna vez por turno — REACCIÓN: Agota 1 Unidad: mira las 5 cartas superiores de tu mazo. Puedes revelar una Unidad y ponerla en tu mano. Puedes desplegar esa Unidad este turno como si tuviera EMBOSCADA pagando su coste. Pon el resto al fondo de tu mazo.",
+     "CardID": 115,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png?v=220",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1062,42 +1062,13 @@
       "scaleZ": 1
      },
      "Nickname": "Arco Yumi de Yabusame",
-     "Description": "1 Oro + F1 · Equipar 1 · ARMAMENTO\nEquipa a una Tropa. La portadora gana +1 Poder; gana +2 en su lugar si es Arquero. Tiene FILO VELOZ mientras ataca.",
-     "CardID": 115,
-     "SidewaysCard": false,
-     "CustomDeck": {
-      "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png",
-       "NumWidth": 10,
-       "NumHeight": 3,
-       "BackIsHidden": true,
-       "UniqueBack": false,
-       "Type": 0
-      }
-     }
-    },
-    {
-     "Name": "Card",
-     "Transform": {
-      "posX": 0,
-      "posY": 0,
-      "posZ": 0,
-      "rotX": 0,
-      "rotY": 180,
-      "rotZ": 180,
-      "scaleX": 1,
-      "scaleY": 1,
-      "scaleZ": 1
-     },
-     "Nickname": "Kusarigama de Iga",
-     "Description": "2 Oro · Equipar F1 · ARMAMENTO\nEquipa a una Tropa. La portadora gana +1 Poder. Cuando ataque, cansa una unidad que controle un oponente.",
+     "Description": "1 Oro + F1 · Equipar 1 · ARMAMENTO\nEquipa a una Unidad. La portadora gana +1 Poder; gana +2 en su lugar si es Arquero. Tiene FILO VELOZ mientras ataca.",
      "CardID": 116,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png?v=220",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1120,13 +1091,13 @@
       "scaleZ": 1
      },
      "Nickname": "Arcabuz Tanegashima",
-     "Description": "2 Oro + F1 · Equipar 2 · ARMAMENTO\nEquipa a una Tropa. La portadora gana +2 Poder y es IMPARABLE mientras ataca un Soporte o una Estructura.",
+     "Description": "2 Oro + F1 · Equipar 2 · ARMAMENTO\nEquipa a una Unidad. La portadora gana +2 Poder y es IMPARABLE mientras ataca a una Estructura.",
      "CardID": 117,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png?v=220",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1149,13 +1120,13 @@
       "scaleZ": 1
      },
      "Nickname": "Naginata de la Sōhei",
-     "Description": "2 Oro · Equipar 2 · ARMAMENTO\nEquipa a una Tropa. La portadora gana +1 Poder y GUARDIÁN 2 (puede bloquear hasta 2 ataques por Asalto)",
+     "Description": "2 Oro · Equipar 2 · ARMAMENTO\nEquipa a una Unidad. La portadora gana +1 Poder y GUARDIÁN 2 (puede bloquear hasta 2 ataques por Asalto)",
      "CardID": 118,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png?v=220",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1178,13 +1149,13 @@
       "scaleZ": 1
      },
      "Nickname": "Naginata de la Sōhei",
-     "Description": "2 Oro · Equipar 2 · ARMAMENTO\nEquipa a una Tropa. La portadora gana +1 Poder y GUARDIÁN 2 (puede bloquear hasta 2 ataques por Asalto)",
+     "Description": "2 Oro · Equipar 2 · ARMAMENTO\nEquipa a una Unidad. La portadora gana +1 Poder y GUARDIÁN 2 (puede bloquear hasta 2 ataques por Asalto)",
      "CardID": 118,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png?v=220",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1207,13 +1178,13 @@
       "scaleZ": 1
      },
      "Nickname": "Arte del Engaño",
-     "Description": "1 Oro + F1 · TÁCTICA\nRegresa a tu mano una unidad tuya del campo. Si estaba en combate, Remuevela del combate.",
+     "Description": "1 Oro + F1 · TÁCTICA\nREACCIÓN — Regresa a tu mano una Unidad tuya.",
      "CardID": 119,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png?v=220",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1236,13 +1207,13 @@
       "scaleZ": 1
      },
      "Nickname": "Formación Bushidō",
-     "Description": "1 Oro + F1 · TÁCTICA\nREACCIÓN — Cuando seas atacado, endereza hasta dos Tropas tuyas. Esas Tropas ganan +1 Poder este turno.",
+     "Description": "1 Oro + F1 · TÁCTICA\nREACCIÓN —  endereza hasta dos Unidades tuyas. Esas Unidades ganan +1 Poder este turno.",
      "CardID": 120,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png?v=220",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1265,13 +1236,42 @@
       "scaleZ": 1
      },
      "Nickname": "Formación Bushidō",
-     "Description": "1 Oro + F1 · TÁCTICA\nREACCIÓN — Cuando seas atacado, endereza hasta dos Tropas tuyas. Esas Tropas ganan +1 Poder este turno.",
+     "Description": "1 Oro + F1 · TÁCTICA\nREACCIÓN —  endereza hasta dos Unidades tuyas. Esas Unidades ganan +1 Poder este turno.",
      "CardID": 120,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png?v=220",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Formación Bushidō",
+     "Description": "1 Oro + F1 · TÁCTICA\nREACCIÓN —  endereza hasta dos Unidades tuyas. Esas Unidades ganan +1 Poder este turno.",
+     "CardID": 120,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png?v=220",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1294,13 +1294,13 @@
       "scaleZ": 1
      },
      "Nickname": "Voto ante el Santuario",
-     "Description": "1 Oro · TÁCTICA\nCoste adicional: sacrifica una Ofrenda. REACCIÓN — durante un combate: una Tropa tuya gana +2 Poder y FILO VELOZ este combate.",
+     "Description": "1 Oro · TÁCTICA\nREACCIÓN — como coste adicional, sacrifica una Ofrenda. Una Unidad tuya gana +2 Poder y FILO VELOZ hasta el final del turno.",
      "CardID": 121,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png?v=220",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1323,13 +1323,13 @@
       "scaleZ": 1
      },
      "Nickname": "Voto ante el Santuario",
-     "Description": "1 Oro · TÁCTICA\nCoste adicional: sacrifica una Ofrenda. REACCIÓN — durante un combate: una Tropa tuya gana +2 Poder y FILO VELOZ este combate.",
+     "Description": "1 Oro · TÁCTICA\nREACCIÓN — como coste adicional, sacrifica una Ofrenda. Una Unidad tuya gana +2 Poder y FILO VELOZ hasta el final del turno.",
      "CardID": 121,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png?v=220",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1351,14 +1351,14 @@
       "scaleY": 1,
       "scaleZ": 1
      },
-     "Nickname": "Bomba de Humo",
-     "Description": "2 Oro · TÁCTICA\nUna Tropa que controle un oponente no puede bloquear este turno. Roba 1 carta.",
+     "Nickname": "Cortina de Humo",
+     "Description": "2 Oro · TÁCTICA\nREACCIÓN — Antes de declarar bloqueadoras: una Unidad rival no puede bloquear este turno. Roba 1 carta.",
      "CardID": 122,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png?v=220",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1380,14 +1380,14 @@
       "scaleY": 1,
       "scaleZ": 1
      },
-     "Nickname": "Bomba de Humo",
-     "Description": "2 Oro · TÁCTICA\nUna Tropa que controle un oponente no puede bloquear este turno. Roba 1 carta.",
+     "Nickname": "Cortina de Humo",
+     "Description": "2 Oro · TÁCTICA\nREACCIÓN — Antes de declarar bloqueadoras: una Unidad rival no puede bloquear este turno. Roba 1 carta.",
      "CardID": 122,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png?v=220",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1410,13 +1410,13 @@
       "scaleZ": 1
      },
      "Nickname": "Iaijutsu",
-     "Description": "3 Oro · TÁCTICA\nUna Tropa atacante hace su daño de combate a la Tropa que la bloquea antes del daño de combate normal.",
+     "Description": "3 Oro · TÁCTICA\nREACCIÓN — Durante un combate: una Unidad atacante hace su daño de combate a la Unidad que la bloquea antes del daño de combate normal.",
      "CardID": 123,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png?v=220",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1439,13 +1439,42 @@
       "scaleZ": 1
      },
      "Nickname": "Iaijutsu",
-     "Description": "3 Oro · TÁCTICA\nUna Tropa atacante hace su daño de combate a la Tropa que la bloquea antes del daño de combate normal.",
+     "Description": "3 Oro · TÁCTICA\nREACCIÓN — Durante un combate: una Unidad atacante hace su daño de combate a la Unidad que la bloquea antes del daño de combate normal.",
      "CardID": 123,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png?v=220",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Emboscada",
+     "Description": "4 Oro · TÁCTICA\nREACCIÓN — Después de que un oponente declare atacantes, despliega Activa una Unidad de coste 5 o menos de tu mano sin pagar su coste de Oro. Paga sus demás costes. Puede bloquear este Asalto.",
+     "CardID": 124,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png?v=220",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1468,42 +1497,13 @@
       "scaleZ": 1
      },
      "Nickname": "Fundación del Bakufu de Edo",
-     "Description": "4 Oro + F1 · EVENTO HISTÓRICO · Signature de Tokugawa Ieyasu\nHasta tu próximo Amanecer, cada oponente puede declarar como máximo dos atacantes por Asalto. En ese Amanecer, si tu Moral no recibió daño de combate desde que jugaste este Evento, tus Tropas ganan +3 Poder durante tu primer Asalto de ese turno.",
-     "CardID": 124,
-     "SidewaysCard": false,
-     "CustomDeck": {
-      "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png",
-       "NumWidth": 10,
-       "NumHeight": 3,
-       "BackIsHidden": true,
-       "UniqueBack": false,
-       "Type": 0
-      }
-     }
-    },
-    {
-     "Name": "Card",
-     "Transform": {
-      "posX": 0,
-      "posY": 0,
-      "posZ": 0,
-      "rotX": 0,
-      "rotY": 180,
-      "rotZ": 180,
-      "scaleX": 1,
-      "scaleY": 1,
-      "scaleZ": 1
-     },
-     "Nickname": "Asalto de Iga",
-     "Description": "7 Oro + F2 · EVENTO HISTÓRICO\nRegresa a la mano de sus dueños todas las Tropas que controlen tus oponentes Cansadas. Después, cansa todas las Tropas que controlen tus oponentes.",
+     "Description": "4 Oro + F1 · EVENTO HISTÓRICO · Signature de Tokugawa Ieyasu\nHasta tu próximo Amanecer, cada oponente puede declarar como máximo dos atacantes por Asalto. En ese Amanecer, si tu Moral no recibió daño de combate desde que jugaste este Evento, tus Unidades ganan +3 Poder durante tu primer Asalto de ese turno.",
      "CardID": 125,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png?v=220",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1526,13 +1526,13 @@
       "scaleZ": 1
      },
      "Nickname": "Batalla de Sekigahara",
-     "Description": "7 Oro + F1 · EVENTO HISTÓRICO\nEndereza todas tus Tropas. Recupera 1 Moral por cada Tropa enderezada de este modo. Puedes realizar un Asalto adicional este turno. Al final del turno, sacrifica las Tropas que atacaron durante este turno.",
+     "Description": "7 Oro + F1 · EVENTO HISTÓRICO\nEndereza todas tus Unidades. Recupera 1 Moral por cada Unidad enderezada de este modo, ya no pueden trabajar. Puedes realizar un Asalto adicional este turno. Al final del turno, sacrifica tus Unidades que atacaron durante este turno.",
      "CardID": 126,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_1.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_1.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png?v=220",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1562,8 +1562,8 @@
    "SidewaysCard": false,
    "CustomDeck": {
     "1": {
-     "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_1.png",
-     "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png",
+     "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_1.png?v=220",
+     "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png?v=220",
      "NumWidth": 10,
      "NumHeight": 3,
      "BackIsHidden": true,
@@ -1586,7 +1586,7 @@
     "scaleZ": 1
    },
    "Nickname": "Tokugawa Ieyasu — Oros (12)",
-   "Description": "IMPERIUM · Capa 1 · Compendio v2.19 · Mazos v0.2",
+   "Description": "IMPERIUM · Capa 1 · Compendio v2.20 · Mazos v0.3",
    "DeckIDs": [
     200,
     200,
@@ -1594,7 +1594,7 @@
     200,
     200,
     200,
-    201,
+    200,
     201,
     201,
     201,
@@ -1603,8 +1603,8 @@
    ],
    "CustomDeck": {
     "2": {
-     "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_2.png",
-     "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png",
+     "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_2.png?v=220",
+     "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png?v=220",
      "NumWidth": 10,
      "NumHeight": 1,
      "BackIsHidden": true,
@@ -1632,8 +1632,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_2.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_2.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png?v=220",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
@@ -1661,8 +1661,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_2.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_2.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png?v=220",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
@@ -1690,8 +1690,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_2.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_2.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png?v=220",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
@@ -1719,8 +1719,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_2.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_2.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png?v=220",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
@@ -1748,8 +1748,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_2.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_2.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png?v=220",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
@@ -1777,8 +1777,37 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_2.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_2.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png?v=220",
+       "NumWidth": 10,
+       "NumHeight": 1,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Astucia",
+     "Description": "ORO\n",
+     "CardID": 200,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "2": {
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_2.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png?v=220",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
@@ -1806,8 +1835,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_2.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_2.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png?v=220",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
@@ -1835,8 +1864,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_2.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_2.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png?v=220",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
@@ -1864,8 +1893,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_2.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_2.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png?v=220",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
@@ -1893,8 +1922,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_2.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_2.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png?v=220",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
@@ -1922,37 +1951,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_2.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png",
-       "NumWidth": 10,
-       "NumHeight": 1,
-       "BackIsHidden": true,
-       "UniqueBack": false,
-       "Type": 0
-      }
-     }
-    },
-    {
-     "Name": "Card",
-     "Transform": {
-      "posX": 0,
-      "posY": 0,
-      "posZ": 0,
-      "rotX": 0,
-      "rotY": 180,
-      "rotZ": 180,
-      "scaleX": 1,
-      "scaleY": 1,
-      "scaleZ": 1
-     },
-     "Nickname": "Orden",
-     "Description": "ORO\n",
-     "CardID": 201,
-     "SidewaysCard": false,
-     "CustomDeck": {
-      "2": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_2.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_2.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png?v=220",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
@@ -1977,7 +1977,7 @@
     "scaleZ": 1
    },
    "Nickname": "Tokugawa Ieyasu — Fichas Ofrenda (6)",
-   "Description": "IMPERIUM · Capa 1 · Compendio v2.19 · Mazos v0.2",
+   "Description": "IMPERIUM · Capa 1 · Compendio v2.20 · Mazos v0.3",
    "DeckIDs": [
     202,
     202,
@@ -1988,8 +1988,8 @@
    ],
    "CustomDeck": {
     "2": {
-     "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_2.png",
-     "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png",
+     "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_2.png?v=220",
+     "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png?v=220",
      "NumWidth": 10,
      "NumHeight": 1,
      "BackIsHidden": true,
@@ -2017,8 +2017,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_2.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_2.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png?v=220",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
@@ -2046,8 +2046,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_2.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_2.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png?v=220",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
@@ -2075,8 +2075,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_2.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_2.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png?v=220",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
@@ -2104,8 +2104,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_2.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_2.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png?v=220",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
@@ -2133,8 +2133,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_2.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_2.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png?v=220",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
@@ -2162,8 +2162,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_2.png",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_face_2.png?v=220",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/05_Tokugawa_Ieyasu/05_Tokugawa_Ieyasu_back.png?v=220",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
