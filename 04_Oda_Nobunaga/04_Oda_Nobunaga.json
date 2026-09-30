@@ -26,7 +26,7 @@
     "scaleZ": 1
    },
    "Nickname": "Oda Nobunaga — Mazo (50)",
-   "Description": "IMPERIUM · Capa 1 · Compendio v2.22 · Mazos v0.4",
+   "Description": "IMPERIUM · Capa 1 · Compendio v2.24 · Mazos v0.5",
    "DeckIDs": [
     100,
     100,
@@ -81,8 +81,8 @@
    ],
    "CustomDeck": {
     "1": {
-     "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=222",
-     "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=222",
+     "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=224",
+     "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=224",
      "NumWidth": 10,
      "NumHeight": 3,
      "BackIsHidden": true,
@@ -110,8 +110,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -139,8 +139,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -168,8 +168,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -197,8 +197,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -226,8 +226,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -255,8 +255,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -284,8 +284,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -313,8 +313,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -337,13 +337,13 @@
       "scaleZ": 1
      },
      "Nickname": "Rōnin Renegado",
-     "Description": "2 Oro · UNIDAD · P4\nAl entrar, pierdes 2 Moral.",
+     "Description": "2 Oro · UNIDAD · P4\nFILO VELOZ (Hace su daño de combate antes que las Unidades sin FILO VELOZ). Al entrar, pierdes 2 Moral.",
      "CardID": 103,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -366,13 +366,13 @@
       "scaleZ": 1
      },
      "Nickname": "Rōnin Renegado",
-     "Description": "2 Oro · UNIDAD · P4\nAl entrar, pierdes 2 Moral.",
+     "Description": "2 Oro · UNIDAD · P4\nFILO VELOZ (Hace su daño de combate antes que las Unidades sin FILO VELOZ). Al entrar, pierdes 2 Moral.",
      "CardID": 103,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -395,13 +395,13 @@
       "scaleZ": 1
      },
      "Nickname": "Rōnin Renegado",
-     "Description": "2 Oro · UNIDAD · P4\nAl entrar, pierdes 2 Moral.",
+     "Description": "2 Oro · UNIDAD · P4\nFILO VELOZ (Hace su daño de combate antes que las Unidades sin FILO VELOZ). Al entrar, pierdes 2 Moral.",
      "CardID": 103,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -424,13 +424,13 @@
       "scaleZ": 1
      },
      "Nickname": "Rōnin Renegado",
-     "Description": "2 Oro · UNIDAD · P4\nAl entrar, pierdes 2 Moral.",
+     "Description": "2 Oro · UNIDAD · P4\nFILO VELOZ (Hace su daño de combate antes que las Unidades sin FILO VELOZ). Al entrar, pierdes 2 Moral.",
      "CardID": 103,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -453,13 +453,13 @@
       "scaleZ": 1
      },
      "Nickname": "Ninja de la Noche",
-     "Description": "3 Oro · UNIDAD · P2\nIMPARABLE.",
+     "Description": "3 Oro · UNIDAD · P2\nSIGILO (Solo puede ser bloqueada por Unidades con ALERTA).",
      "CardID": 104,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -482,13 +482,13 @@
       "scaleZ": 1
      },
      "Nickname": "Ninja de la Noche",
-     "Description": "3 Oro · UNIDAD · P2\nIMPARABLE.",
+     "Description": "3 Oro · UNIDAD · P2\nSIGILO (Solo puede ser bloqueada por Unidades con ALERTA).",
      "CardID": 104,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -511,13 +511,13 @@
       "scaleZ": 1
      },
      "Nickname": "Ninja de la Noche",
-     "Description": "3 Oro · UNIDAD · P2\nIMPARABLE.",
+     "Description": "3 Oro · UNIDAD · P2\nSIGILO (Solo puede ser bloqueada por Unidades con ALERTA).",
      "CardID": 104,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -545,8 +545,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -574,8 +574,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -603,8 +603,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -632,8 +632,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -661,8 +661,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -690,8 +690,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -719,8 +719,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -748,8 +748,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -777,8 +777,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -806,8 +806,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -829,14 +829,14 @@
       "scaleY": 1,
       "scaleZ": 1
      },
-     "Nickname": "Dōjō del Bakufu",
-     "Description": "2 Oro · ESTRUCTURA · R5 · ⚒1\nUna vez por turno — REACCIÓN: Agota 1 Unidad: otra Unidad tuya gana FILO VELOZ hasta tu siguiente Ocaso. Si ya tenía FILO VELOZ, gana +2 Poder este turno en su lugar.",
+     "Nickname": "Aldea Fortificada de Iga",
+     "Description": "3 Oro · ESTRUCTURA · R5 · ⚒1\nUna vez por turno — REACCIÓN: Agota 1 Unidad: mira las 5 cartas superiores de tu mazo. Puedes revelar una Unidad y ponerla en tu mano. Puedes desplegar esa Unidad este turno como si tuviera EMBOSCADA pagando su coste. Pon el resto al fondo de tu mazo.",
      "CardID": 111,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -859,13 +859,13 @@
       "scaleZ": 1
      },
      "Nickname": "Castillo Azuchi",
-     "Description": "6 Oro + F1 · ESTRUCTURA · R7 · ⚒1\nUna vez por turno — ACCIÓN: Agota 1 Unidad y FUNDIR 1 Ambición: destruye una Unidad Cansada que controle un oponente.",
+     "Description": "6 Oro + F1 · ESTRUCTURA · R7 · ⚒1\nUna vez por turno — ACCIÓN: Agota 1 Unidad, descarta 1 carta de tu mano y FUNDE 1 Oro de Ambición: destruye una Unidad rival Cansada.",
      "CardID": 112,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -888,13 +888,13 @@
       "scaleZ": 1
      },
      "Nickname": "Kusarigama de Iga",
-     "Description": "2 Oro · Equipar F1 · ARMAMENTO\nEquipa a una Unidad. La portadora gana +1 Poder. Cuando ataque, cansa una Unidad que controle un oponente.",
+     "Description": "2 Oro · Equipar F1 · Hoz · Cadena · ARMAMENTO\nEquipa a una Unidad. La portadora gana +1 Poder. Cuando ataque, cansa una Unidad que controle un oponente.",
      "CardID": 113,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -917,13 +917,13 @@
       "scaleZ": 1
      },
      "Nickname": "Kusarigama de Iga",
-     "Description": "2 Oro · Equipar F1 · ARMAMENTO\nEquipa a una Unidad. La portadora gana +1 Poder. Cuando ataque, cansa una Unidad que controle un oponente.",
+     "Description": "2 Oro · Equipar F1 · Hoz · Cadena · ARMAMENTO\nEquipa a una Unidad. La portadora gana +1 Poder. Cuando ataque, cansa una Unidad que controle un oponente.",
      "CardID": 113,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -946,13 +946,13 @@
       "scaleZ": 1
      },
      "Nickname": "Kusarigama de Iga",
-     "Description": "2 Oro · Equipar F1 · ARMAMENTO\nEquipa a una Unidad. La portadora gana +1 Poder. Cuando ataque, cansa una Unidad que controle un oponente.",
+     "Description": "2 Oro · Equipar F1 · Hoz · Cadena · ARMAMENTO\nEquipa a una Unidad. La portadora gana +1 Poder. Cuando ataque, cansa una Unidad que controle un oponente.",
      "CardID": 113,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -975,13 +975,13 @@
       "scaleZ": 1
      },
      "Nickname": "Fukiya Oculta",
-     "Description": "2 Oro + F1 · Equipar 2 · ARMAMENTO\nEquipa a una Unidad. La portadora tiene ASESINATO. (Cuando inflige daño de combate a una Unidad bloqueadora, destruye esa bloqueadora después del daño.)",
+     "Description": "2 Oro + F1 · Equipar 2 · Cerbatana · ARMAMENTO\nEquipa a una Unidad. La portadora tiene ASESINATO. (Cuando inflige daño de combate a una Unidad bloqueadora, destruye esa bloqueadora después del daño.)",
      "CardID": 114,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1009,8 +1009,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1038,8 +1038,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1067,8 +1067,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1096,8 +1096,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1125,8 +1125,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1154,8 +1154,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1183,8 +1183,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1212,8 +1212,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1241,8 +1241,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1270,8 +1270,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1299,8 +1299,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1328,8 +1328,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1357,8 +1357,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1386,8 +1386,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1415,8 +1415,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1444,8 +1444,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1473,8 +1473,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1502,8 +1502,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1531,8 +1531,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1562,8 +1562,8 @@
    "SidewaysCard": false,
    "CustomDeck": {
     "1": {
-     "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=222",
-     "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=222",
+     "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_1.png?v=224",
+     "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=224",
      "NumWidth": 10,
      "NumHeight": 3,
      "BackIsHidden": true,
@@ -1586,7 +1586,7 @@
     "scaleZ": 1
    },
    "Nickname": "Oda Nobunaga — Oros (12)",
-   "Description": "IMPERIUM · Capa 1 · Compendio v2.22 · Mazos v0.4",
+   "Description": "IMPERIUM · Capa 1 · Compendio v2.24 · Mazos v0.5",
    "DeckIDs": [
     200,
     200,
@@ -1603,8 +1603,8 @@
    ],
    "CustomDeck": {
     "2": {
-     "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_2.png?v=222",
-     "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=222",
+     "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_2.png?v=224",
+     "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=224",
      "NumWidth": 10,
      "NumHeight": 1,
      "BackIsHidden": true,
@@ -1632,8 +1632,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_2.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_2.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
@@ -1661,8 +1661,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_2.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_2.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
@@ -1690,8 +1690,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_2.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_2.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
@@ -1719,8 +1719,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_2.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_2.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
@@ -1748,8 +1748,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_2.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_2.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
@@ -1777,8 +1777,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_2.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_2.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
@@ -1806,8 +1806,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_2.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_2.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
@@ -1835,8 +1835,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_2.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_2.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
@@ -1864,8 +1864,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_2.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_2.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
@@ -1893,8 +1893,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_2.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_2.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
@@ -1922,8 +1922,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_2.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_2.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
@@ -1951,8 +1951,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_2.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_face_2.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/04_Oda_Nobunaga/04_Oda_Nobunaga_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,

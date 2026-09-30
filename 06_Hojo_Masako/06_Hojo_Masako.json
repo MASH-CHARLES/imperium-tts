@@ -26,12 +26,11 @@
     "scaleZ": 1
    },
    "Nickname": "Hōjō Masako, la Shōgun Monja — Mazo (50)",
-   "Description": "IMPERIUM · Capa 1 · Compendio v2.22 · Mazos v0.4",
+   "Description": "IMPERIUM · Capa 1 · Compendio v2.24 · Mazos v0.5",
    "DeckIDs": [
     100,
     100,
     100,
-    101,
     101,
     101,
     101,
@@ -50,24 +49,25 @@
     106,
     107,
     107,
+    107,
     108,
     109,
     110,
-    110,
     111,
     112,
-    113,
     113,
     113,
     114,
     114,
     115,
     116,
-    116,
+    117,
     117,
     118,
     118,
     118,
+    118,
+    119,
     119,
     120,
     120,
@@ -81,8 +81,8 @@
    ],
    "CustomDeck": {
     "1": {
-     "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png?v=222",
-     "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=222",
+     "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png?v=224",
+     "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=224",
      "NumWidth": 10,
      "NumHeight": 3,
      "BackIsHidden": true,
@@ -110,8 +110,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -139,8 +139,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -168,8 +168,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -197,8 +197,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -226,8 +226,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -255,37 +255,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=222",
-       "NumWidth": 10,
-       "NumHeight": 3,
-       "BackIsHidden": true,
-       "UniqueBack": false,
-       "Type": 0
-      }
-     }
-    },
-    {
-     "Name": "Card",
-     "Transform": {
-      "posX": 0,
-      "posY": 0,
-      "posZ": 0,
-      "rotX": 0,
-      "rotY": 180,
-      "rotZ": 180,
-      "scaleX": 1,
-      "scaleY": 1,
-      "scaleZ": 1
-     },
-     "Nickname": "Novicia del Santuario",
-     "Description": "1 Oro · UNIDAD · P1\nAl entrar, crea 1 Ofrenda.",
-     "CardID": 101,
-     "SidewaysCard": false,
-     "CustomDeck": {
-      "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -313,8 +284,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -342,8 +313,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -371,8 +342,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -400,8 +371,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -429,8 +400,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -458,8 +429,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -487,8 +458,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -516,8 +487,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -545,8 +516,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -574,8 +545,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -603,8 +574,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -632,8 +603,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -661,8 +632,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -690,8 +661,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -719,8 +690,37 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=224",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Hattori Hanzō",
+     "Description": "4 Oro · UNIDAD · P3\nEMBOSCADA. Al entrar, cansa una Unidad que controle un oponente. Una vez por turno — ACCIÓN, solo durante tu turno: FUNDE 1 Oro de Astucia: regresa a Hattori Hanzō a tu mano.",
+     "CardID": 107,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -748,8 +748,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -777,8 +777,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -806,37 +806,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=222",
-       "NumWidth": 10,
-       "NumHeight": 3,
-       "BackIsHidden": true,
-       "UniqueBack": false,
-       "Type": 0
-      }
-     }
-    },
-    {
-     "Name": "Card",
-     "Transform": {
-      "posX": 0,
-      "posY": 0,
-      "posZ": 0,
-      "rotX": 0,
-      "rotY": 180,
-      "rotZ": 180,
-      "scaleX": 1,
-      "scaleY": 1,
-      "scaleZ": 1
-     },
-     "Nickname": "Maestra de Tomoe",
-     "Description": "6 Oro + F1 · UNIDAD · P5\nEMBOSCADA. CARGA. Al entrar, todas las Unidades que controlen tus oponentes pierden 3 Poder este turno, hasta un mínimo de 1.",
-     "CardID": 110,
-     "SidewaysCard": false,
-     "CustomDeck": {
-      "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -864,8 +835,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -893,8 +864,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -922,8 +893,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -951,37 +922,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=222",
-       "NumWidth": 10,
-       "NumHeight": 3,
-       "BackIsHidden": true,
-       "UniqueBack": false,
-       "Type": 0
-      }
-     }
-    },
-    {
-     "Name": "Card",
-     "Transform": {
-      "posX": 0,
-      "posY": 0,
-      "posZ": 0,
-      "rotX": 0,
-      "rotY": 180,
-      "rotZ": 180,
-      "scaleX": 1,
-      "scaleY": 1,
-      "scaleZ": 1
-     },
-     "Nickname": "Santuario de Tsurugaoka Hachimangū",
-     "Description": "2 Oro · ESTRUCTURA · R4 · ⚒1\nAl entrar, crea 1 Ofrenda. Una vez por turno — ACCIÓN: Agota 1 Unidad: crea 1 Ofrenda.",
-     "CardID": 113,
-     "SidewaysCard": false,
-     "CustomDeck": {
-      "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1009,8 +951,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1038,8 +980,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1067,8 +1009,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1091,42 +1033,13 @@
       "scaleZ": 1
      },
      "Nickname": "Arco Yumi de Yabusame",
-     "Description": "1 Oro + F1 · Equipar 1 · ARMAMENTO\nEquipa a una Unidad. La portadora gana +1 Poder; gana +2 en su lugar si es Arquero. Tiene FILO VELOZ mientras ataca.",
+     "Description": "1 Oro + F1 · Equipar 1 · Arco · ARMAMENTO\nEquipa a una Unidad. La portadora gana +1 Poder; gana +2 en su lugar si es Arquero. Tiene FILO VELOZ mientras ataca.",
      "CardID": 116,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=222",
-       "NumWidth": 10,
-       "NumHeight": 3,
-       "BackIsHidden": true,
-       "UniqueBack": false,
-       "Type": 0
-      }
-     }
-    },
-    {
-     "Name": "Card",
-     "Transform": {
-      "posX": 0,
-      "posY": 0,
-      "posZ": 0,
-      "rotX": 0,
-      "rotY": 180,
-      "rotZ": 180,
-      "scaleX": 1,
-      "scaleY": 1,
-      "scaleZ": 1
-     },
-     "Nickname": "Arco Yumi de Yabusame",
-     "Description": "1 Oro + F1 · Equipar 1 · ARMAMENTO\nEquipa a una Unidad. La portadora gana +1 Poder; gana +2 en su lugar si es Arquero. Tiene FILO VELOZ mientras ataca.",
-     "CardID": 116,
-     "SidewaysCard": false,
-     "CustomDeck": {
-      "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1149,13 +1062,42 @@
       "scaleZ": 1
      },
      "Nickname": "Kusarigama de Iga",
-     "Description": "2 Oro · Equipar F1 · ARMAMENTO\nEquipa a una Unidad. La portadora gana +1 Poder. Cuando ataque, cansa una Unidad que controle un oponente.",
+     "Description": "2 Oro · Equipar F1 · Hoz · Cadena · ARMAMENTO\nEquipa a una Unidad. La portadora gana +1 Poder. Cuando ataque, cansa una Unidad que controle un oponente.",
      "CardID": 117,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=224",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Kusarigama de Iga",
+     "Description": "2 Oro · Equipar F1 · Hoz · Cadena · ARMAMENTO\nEquipa a una Unidad. La portadora gana +1 Poder. Cuando ataque, cansa una Unidad que controle un oponente.",
+     "CardID": 117,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1178,13 +1120,13 @@
       "scaleZ": 1
      },
      "Nickname": "Daishō de Linaje de Kioto",
-     "Description": "2 Oro + F1 · Equipar 2 · ARMAMENTO\nEquipa a una Unidad. La portadora gana +3 Poder. Cuando la portadora abandone el campo, puedes equipar Daishō de Linaje de Kioto a otra Unidad legal que controles.",
+     "Description": "2 Oro + F1 · Equipar 4 · Espada · ARMAMENTO\nAl entrar, puedes equipar Daishō de Linaje de Kioto a una Unidad legal que controles sin pagar su coste de Equipar. La portadora gana +3 Poder. Cuando la portadora abandone el campo, puedes equipar Daishō de Linaje de Kioto a otra Unidad legal que controles sin pagar su coste de Equipar.",
      "CardID": 118,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1207,13 +1149,13 @@
       "scaleZ": 1
      },
      "Nickname": "Daishō de Linaje de Kioto",
-     "Description": "2 Oro + F1 · Equipar 2 · ARMAMENTO\nEquipa a una Unidad. La portadora gana +3 Poder. Cuando la portadora abandone el campo, puedes equipar Daishō de Linaje de Kioto a otra Unidad legal que controles.",
+     "Description": "2 Oro + F1 · Equipar 4 · Espada · ARMAMENTO\nAl entrar, puedes equipar Daishō de Linaje de Kioto a una Unidad legal que controles sin pagar su coste de Equipar. La portadora gana +3 Poder. Cuando la portadora abandone el campo, puedes equipar Daishō de Linaje de Kioto a otra Unidad legal que controles sin pagar su coste de Equipar.",
      "CardID": 118,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1236,13 +1178,42 @@
       "scaleZ": 1
      },
      "Nickname": "Daishō de Linaje de Kioto",
-     "Description": "2 Oro + F1 · Equipar 2 · ARMAMENTO\nEquipa a una Unidad. La portadora gana +3 Poder. Cuando la portadora abandone el campo, puedes equipar Daishō de Linaje de Kioto a otra Unidad legal que controles.",
+     "Description": "2 Oro + F1 · Equipar 4 · Espada · ARMAMENTO\nAl entrar, puedes equipar Daishō de Linaje de Kioto a una Unidad legal que controles sin pagar su coste de Equipar. La portadora gana +3 Poder. Cuando la portadora abandone el campo, puedes equipar Daishō de Linaje de Kioto a otra Unidad legal que controles sin pagar su coste de Equipar.",
      "CardID": 118,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=224",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Daishō de Linaje de Kioto",
+     "Description": "2 Oro + F1 · Equipar 4 · Espada · ARMAMENTO\nAl entrar, puedes equipar Daishō de Linaje de Kioto a una Unidad legal que controles sin pagar su coste de Equipar. La portadora gana +3 Poder. Cuando la portadora abandone el campo, puedes equipar Daishō de Linaje de Kioto a otra Unidad legal que controles sin pagar su coste de Equipar.",
+     "CardID": 118,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1270,8 +1241,37 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=224",
+       "NumWidth": 10,
+       "NumHeight": 3,
+       "BackIsHidden": true,
+       "UniqueBack": false,
+       "Type": 0
+      }
+     }
+    },
+    {
+     "Name": "Card",
+     "Transform": {
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "rotX": 0,
+      "rotY": 180,
+      "rotZ": 180,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+     },
+     "Nickname": "Arte del Engaño",
+     "Description": "1 Oro + F1 · TÁCTICA\nREACCIÓN — Regresa a tu mano una Unidad tuya.",
+     "CardID": 119,
+     "SidewaysCard": false,
+     "CustomDeck": {
+      "1": {
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1299,8 +1299,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1328,8 +1328,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1357,8 +1357,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1386,8 +1386,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1415,8 +1415,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1444,8 +1444,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1473,8 +1473,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1502,8 +1502,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1531,8 +1531,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1557,13 +1557,13 @@
     "scaleZ": 1
    },
    "Nickname": "Hōjō Masako, la Shōgun Monja",
-   "Description": "EMPERADOR · Voluntad de Kamakura\nLa primera vez en cada turno que sacrifiques una Ofrenda, puedes enderezar una Unidad que controles. Esa Unidad no puede trabajar durante el resto del turno.",
+   "Description": "EMPERADOR · Voluntad de Kamakura\nComienzas la partida con 1 Ofrenda. La primera vez en cada turno que sacrifiques una Ofrenda, puedes enderezar una Unidad que controles. Esa Unidad no puede trabajar durante el resto del turno.",
    "CardID": 124,
    "SidewaysCard": false,
    "CustomDeck": {
     "1": {
-     "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png?v=222",
-     "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=222",
+     "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_1.png?v=224",
+     "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=224",
      "NumWidth": 10,
      "NumHeight": 3,
      "BackIsHidden": true,
@@ -1586,7 +1586,7 @@
     "scaleZ": 1
    },
    "Nickname": "Hōjō Masako, la Shōgun Monja — Oros (12)",
-   "Description": "IMPERIUM · Capa 1 · Compendio v2.22 · Mazos v0.4",
+   "Description": "IMPERIUM · Capa 1 · Compendio v2.24 · Mazos v0.5",
    "DeckIDs": [
     200,
     200,
@@ -1603,8 +1603,8 @@
    ],
    "CustomDeck": {
     "2": {
-     "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_2.png?v=222",
-     "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=222",
+     "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_2.png?v=224",
+     "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=224",
      "NumWidth": 10,
      "NumHeight": 1,
      "BackIsHidden": true,
@@ -1632,8 +1632,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_2.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_2.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
@@ -1661,8 +1661,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_2.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_2.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
@@ -1690,8 +1690,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_2.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_2.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
@@ -1719,8 +1719,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_2.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_2.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
@@ -1748,8 +1748,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_2.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_2.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
@@ -1777,8 +1777,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_2.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_2.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
@@ -1806,8 +1806,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_2.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_2.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
@@ -1835,8 +1835,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_2.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_2.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
@@ -1864,8 +1864,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_2.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_2.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
@@ -1893,8 +1893,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_2.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_2.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
@@ -1922,8 +1922,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_2.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_2.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
@@ -1951,8 +1951,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_2.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_2.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
@@ -1977,7 +1977,7 @@
     "scaleZ": 1
    },
    "Nickname": "Hōjō Masako, la Shōgun Monja — Fichas Ofrenda (6)",
-   "Description": "IMPERIUM · Capa 1 · Compendio v2.22 · Mazos v0.4",
+   "Description": "IMPERIUM · Capa 1 · Compendio v2.24 · Mazos v0.5",
    "DeckIDs": [
     202,
     202,
@@ -1988,8 +1988,8 @@
    ],
    "CustomDeck": {
     "2": {
-     "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_2.png?v=222",
-     "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=222",
+     "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_2.png?v=224",
+     "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=224",
      "NumWidth": 10,
      "NumHeight": 1,
      "BackIsHidden": true,
@@ -2017,8 +2017,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_2.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_2.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
@@ -2046,8 +2046,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_2.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_2.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
@@ -2075,8 +2075,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_2.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_2.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
@@ -2104,8 +2104,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_2.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_2.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
@@ -2133,8 +2133,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_2.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_2.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
@@ -2162,8 +2162,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_2.png?v=222",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=222",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_face_2.png?v=224",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/06_Hojo_Masako/06_Hojo_Masako_back.png?v=224",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,

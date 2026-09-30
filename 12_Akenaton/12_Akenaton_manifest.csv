@@ -4,8 +4,8 @@ face_1,1,101,IMP-EGY-003,Lancero Egipcio,2
 face_1,2,102,IMP-EGY-039,Trabajador de Pirámide,4
 face_1,3,103,IMP-EGY-040,Cantero de Giza,3
 face_1,4,104,IMP-EGY-045,Artesano de Fayenza,2
-face_1,5,105,IMP-EGY-009,Tripulación Mercante del Nilo,2
-face_1,6,106,IMP-EGY-010,Guardia de Karnak,2
+face_1,5,105,IMP-EGY-009,Tripulación Mercante del Nilo,1
+face_1,6,106,IMP-EGY-010,Guardia de Karnak,3
 face_1,7,107,IMP-EGY-012,Hatshepsut,2
 face_1,8,108,IMP-EGY-044,Imhotep,2
 face_1,9,109,SIG-034,"Nefertiti, Gran Esposa de Atón",1
@@ -15,8 +15,8 @@ face_1,12,112,IMP-EGY-017,Elefante de Guerra Kushita,1
 face_1,13,113,IMP-EGY-005,Granero del Nilo,3
 face_1,14,114,IMP-EGY-008,Mercado de Tebas,2
 face_1,15,115,IMP-EGY-042,Casa de la Vida,2
-face_1,16,116,IMP-EGY-046,Obelisco de Ra,1
-face_1,17,117,IMP-EGY-018,Faro de Alejandría,2
+face_1,16,116,IMP-EGY-046,Obelisco de Ra,2
+face_1,17,117,IMP-EGY-018,Faro de Alejandría,1
 face_1,18,118,IMP-EGY-019,Templo de Karnak,2
 face_1,19,119,IMP-EGY-048,Pirámide de Giza,1
 face_1,20,120,IMP-EGY-041,Piedra sobre Piedra,2
