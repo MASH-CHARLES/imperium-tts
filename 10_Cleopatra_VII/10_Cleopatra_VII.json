@@ -26,7 +26,7 @@
     "scaleZ": 1
    },
    "Nickname": "Cleopatra VII — Mazo (50)",
-   "Description": "IMPERIUM · Capa 1 · Compendio v2.24 · Mazos v0.5",
+   "Description": "IMPERIUM · Capa 1 · Compendio v2.26 · Mazos v0.5",
    "DeckIDs": [
     100,
     100,
@@ -81,8 +81,8 @@
    ],
    "CustomDeck": {
     "1": {
-     "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png?v=224",
-     "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=224",
+     "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png?v=226",
+     "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=226",
      "NumWidth": 10,
      "NumHeight": 3,
      "BackIsHidden": true,
@@ -110,8 +110,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png?v=224",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=224",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png?v=226",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=226",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -139,8 +139,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png?v=224",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=224",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png?v=226",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=226",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -168,8 +168,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png?v=224",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=224",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png?v=226",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=226",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -197,8 +197,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png?v=224",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=224",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png?v=226",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=226",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -226,8 +226,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png?v=224",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=224",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png?v=226",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=226",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -255,8 +255,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png?v=224",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=224",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png?v=226",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=226",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -284,8 +284,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png?v=224",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=224",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png?v=226",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=226",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -313,8 +313,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png?v=224",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=224",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png?v=226",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=226",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -342,8 +342,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png?v=224",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=224",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png?v=226",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=226",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -371,8 +371,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png?v=224",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=224",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png?v=226",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=226",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -400,8 +400,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png?v=224",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=224",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png?v=226",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=226",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -429,8 +429,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png?v=224",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=224",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png?v=226",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=226",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -458,8 +458,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png?v=224",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=224",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png?v=226",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=226",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -487,8 +487,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png?v=224",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=224",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png?v=226",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=226",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -516,8 +516,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png?v=224",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=224",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png?v=226",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=226",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -545,8 +545,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png?v=224",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=224",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png?v=226",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=226",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -574,8 +574,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png?v=224",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=224",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png?v=226",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=226",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -603,8 +603,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png?v=224",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=224",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png?v=226",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=226",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -632,8 +632,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png?v=224",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=224",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png?v=226",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=226",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -661,8 +661,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png?v=224",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=224",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png?v=226",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=226",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -690,8 +690,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png?v=224",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=224",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png?v=226",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=226",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -719,8 +719,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png?v=224",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=224",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png?v=226",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=226",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -748,8 +748,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png?v=224",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=224",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png?v=226",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=226",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -777,8 +777,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png?v=224",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=224",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png?v=226",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=226",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -806,8 +806,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png?v=224",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=224",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png?v=226",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=226",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -835,8 +835,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png?v=224",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=224",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png?v=226",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=226",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -864,8 +864,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png?v=224",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=224",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png?v=226",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=226",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -893,8 +893,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png?v=224",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=224",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png?v=226",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=226",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -922,8 +922,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png?v=224",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=224",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png?v=226",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=226",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -951,8 +951,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png?v=224",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=224",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png?v=226",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=226",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -975,13 +975,13 @@
       "scaleZ": 1
      },
      "Nickname": "Granero del Nilo",
-     "Description": "3 Oro · ESTRUCTURA · R5 · ⚒1\nAl entrar, crea 1 Grano. Una vez por turno — ACCIÓN: Agota 1 Unidad: crea 1 Grano; si la Unidad trabajadora es Agricultor, crea 2 en su lugar.",
+     "Description": "3 Oro · ESTRUCTURA · R4 · ⚒1\nAl entrar, crea 1 Grano. Una vez por turno — ACCIÓN: Agota 1 Unidad: crea 1 Grano; si la Unidad trabajadora es Agricultor, crea 2 en su lugar.",
      "CardID": 113,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png?v=224",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=224",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png?v=226",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=226",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1004,13 +1004,13 @@
       "scaleZ": 1
      },
      "Nickname": "Panadería y Cervecería",
-     "Description": "3 Oro · ESTRUCTURA · R5\nAl entrar, crea 1 Grano. Una vez por turno — ACCIÓN: Sacrifica 1 Grano: una Unidad gana +3 Poder y ARROLLAR este turno. Esa Unidad no se endereza durante tu próximo Amanecer.",
+     "Description": "3 Oro · ESTRUCTURA · R3\nAl entrar, crea 1 Grano. Una vez por turno — ACCIÓN: Sacrifica 1 Grano: una Unidad gana +3 Poder y ARROLLAR este turno. Esa Unidad no se endereza durante tu próximo Amanecer.",
      "CardID": 114,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png?v=224",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=224",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png?v=226",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=226",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1033,13 +1033,13 @@
       "scaleZ": 1
      },
      "Nickname": "Necrópolis de Saqqara",
-     "Description": "5 Oro · ESTRUCTURA · R6 · ⚒1\nUna vez por turno — ACCIÓN: Agota 1 Unidad y paga 2 Moral: regresa al campo Cansada una Unidad de coste 3 o menos de tu descarte.",
+     "Description": "5 Oro · ESTRUCTURA · R4 · ⚒1\nUna vez por turno — ACCIÓN: Agota 1 Unidad y paga 2 Moral: regresa al campo Cansada una Unidad de coste 3 o menos de tu descarte.",
      "CardID": 115,
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png?v=224",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=224",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png?v=226",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=226",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1067,8 +1067,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png?v=224",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=224",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png?v=226",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=226",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1096,8 +1096,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png?v=224",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=224",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png?v=226",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=226",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1125,8 +1125,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png?v=224",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=224",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png?v=226",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=226",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1154,8 +1154,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png?v=224",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=224",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png?v=226",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=226",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1183,8 +1183,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png?v=224",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=224",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png?v=226",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=226",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1212,8 +1212,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png?v=224",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=224",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png?v=226",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=226",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1241,8 +1241,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png?v=224",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=224",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png?v=226",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=226",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1270,8 +1270,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png?v=224",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=224",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png?v=226",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=226",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1299,8 +1299,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png?v=224",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=224",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png?v=226",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=226",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1328,8 +1328,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png?v=224",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=224",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png?v=226",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=226",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1357,8 +1357,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png?v=224",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=224",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png?v=226",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=226",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1386,8 +1386,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png?v=224",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=224",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png?v=226",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=226",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1415,8 +1415,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png?v=224",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=224",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png?v=226",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=226",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1444,8 +1444,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png?v=224",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=224",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png?v=226",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=226",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1473,8 +1473,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png?v=224",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=224",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png?v=226",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=226",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1502,8 +1502,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png?v=224",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=224",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png?v=226",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=226",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1531,8 +1531,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "1": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png?v=224",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=224",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png?v=226",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=226",
        "NumWidth": 10,
        "NumHeight": 3,
        "BackIsHidden": true,
@@ -1562,8 +1562,8 @@
    "SidewaysCard": false,
    "CustomDeck": {
     "1": {
-     "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png?v=224",
-     "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=224",
+     "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_1.png?v=226",
+     "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=226",
      "NumWidth": 10,
      "NumHeight": 3,
      "BackIsHidden": true,
@@ -1586,7 +1586,7 @@
     "scaleZ": 1
    },
    "Nickname": "Cleopatra VII — Oros (12)",
-   "Description": "IMPERIUM · Capa 1 · Compendio v2.24 · Mazos v0.5",
+   "Description": "IMPERIUM · Capa 1 · Compendio v2.26 · Mazos v0.5",
    "DeckIDs": [
     200,
     200,
@@ -1603,8 +1603,8 @@
    ],
    "CustomDeck": {
     "2": {
-     "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_2.png?v=224",
-     "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=224",
+     "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_2.png?v=226",
+     "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=226",
      "NumWidth": 10,
      "NumHeight": 1,
      "BackIsHidden": true,
@@ -1632,8 +1632,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_2.png?v=224",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=224",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_2.png?v=226",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=226",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
@@ -1661,8 +1661,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_2.png?v=224",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=224",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_2.png?v=226",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=226",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
@@ -1690,8 +1690,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_2.png?v=224",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=224",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_2.png?v=226",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=226",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
@@ -1719,8 +1719,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_2.png?v=224",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=224",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_2.png?v=226",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=226",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
@@ -1748,8 +1748,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_2.png?v=224",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=224",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_2.png?v=226",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=226",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
@@ -1777,8 +1777,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_2.png?v=224",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=224",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_2.png?v=226",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=226",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
@@ -1806,8 +1806,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_2.png?v=224",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=224",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_2.png?v=226",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=226",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
@@ -1835,8 +1835,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_2.png?v=224",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=224",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_2.png?v=226",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=226",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
@@ -1864,8 +1864,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_2.png?v=224",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=224",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_2.png?v=226",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=226",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
@@ -1893,8 +1893,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_2.png?v=224",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=224",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_2.png?v=226",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=226",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
@@ -1922,8 +1922,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_2.png?v=224",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=224",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_2.png?v=226",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=226",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
@@ -1951,8 +1951,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_2.png?v=224",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=224",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_2.png?v=226",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=226",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
@@ -1977,7 +1977,7 @@
     "scaleZ": 1
    },
    "Nickname": "Cleopatra VII — Fichas Grano (8)",
-   "Description": "IMPERIUM · Capa 1 · Compendio v2.24 · Mazos v0.5",
+   "Description": "IMPERIUM · Capa 1 · Compendio v2.26 · Mazos v0.5",
    "DeckIDs": [
     202,
     202,
@@ -1990,8 +1990,8 @@
    ],
    "CustomDeck": {
     "2": {
-     "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_2.png?v=224",
-     "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=224",
+     "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_2.png?v=226",
+     "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=226",
      "NumWidth": 10,
      "NumHeight": 1,
      "BackIsHidden": true,
@@ -2019,8 +2019,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_2.png?v=224",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=224",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_2.png?v=226",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=226",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
@@ -2048,8 +2048,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_2.png?v=224",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=224",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_2.png?v=226",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=226",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
@@ -2077,8 +2077,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_2.png?v=224",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=224",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_2.png?v=226",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=226",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
@@ -2106,8 +2106,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_2.png?v=224",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=224",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_2.png?v=226",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=226",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
@@ -2135,8 +2135,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_2.png?v=224",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=224",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_2.png?v=226",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=226",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
@@ -2164,8 +2164,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_2.png?v=224",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=224",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_2.png?v=226",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=226",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
@@ -2193,8 +2193,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_2.png?v=224",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=224",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_2.png?v=226",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=226",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
@@ -2222,8 +2222,8 @@
      "SidewaysCard": false,
      "CustomDeck": {
       "2": {
-       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_2.png?v=224",
-       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=224",
+       "FaceURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_face_2.png?v=226",
+       "BackURL": "https://raw.githubusercontent.com/MASH-CHARLES/imperium-tts/main/10_Cleopatra_VII/10_Cleopatra_VII_back.png?v=226",
        "NumWidth": 10,
        "NumHeight": 1,
        "BackIsHidden": true,
